@@ -9,6 +9,40 @@
 ![Licensen](https://img.shields.io Screenshots & Demo
 
 
+## 📸 Screenshots
+
+### 🏠 Homepage – Modern Dashboard
+![Home](./screenshots/home.png)
+
+---
+
+### 🔍 Search Dashboard – AI-Enhanced Discovery
+![Search](./screenshots/search_dashboard.png)
+![Search Works](./screenshots/search_works.png)
+![Search Detail](./screenshots/search_works1.png)
+
+---
+
+### 🧠 Comparison Dashboard – Location Intelligence
+![Compare Dashboard](./screenshots/compare_dashboard.png)
+![Comparison Logic](./screenshots/comparion_work.png)
+
+---
+
+### 📊 Analytics Dashboard – Demographic Insights
+![Analytics Dashboard](./screenshots/analytics_dashboard.png)
+![Analytics Flow](./screenshots/analytics_works.png)
+
+---
+
+### 📂 File Base – Structured Data Access
+![File Base](./screenshots/files_base.png)
+
+---
+
+### 🧭 Location Insights – Smart Intelligence
+![Location Insights](./screenshots/location_insights.png)
+
 
 ### 🏠 **Homepage - Modern Dashboard Interface**
 *Apple-inspired design with real-time statistics and quick actions*
