@@ -1,3 +1,8 @@
+Here's your fully formatted `.md` content, optimized for easy copy-paste into a README.md or project documentation:
+
+---
+
+````markdown
 # 🗺️ Maptizer: Geo-AI Platform for Smart Location Intelligence
 
 Maptizer is a powerful **Geospatial Analytics Platform** combining full-scale map interaction with AI-powered insights. Designed for developers, analysts, and researchers, it provides real-time, location-based intelligence using rich spatial data and intelligent visualization layers.
@@ -23,222 +28,338 @@ Maptizer helps users evaluate **location feasibility** for businesses or events 
 ## 🎯 Project Goal
 
 Enable any user to:
-- Select a **location** and **interest tags** (e.g., "tea shop", "bookstore", "music").
-- Use **Qloo's entity and insight APIs** to gather population behavior, taste profiles, and location tags.
-- Run AI/ML-powered **business feasibility analysis** to determine if a new business can succeed in that area.
-- Get **data-driven predictions** using charts, heatmaps, and geo-visual analytics.
+
+- Select a **location** and **interest tags** (e.g., "tea shop", "bookstore", "music")
+- Use **Qloo's entity and insight APIs** to gather population behavior, taste profiles, and location tags
+- Run AI/ML-powered **business feasibility analysis**
+- Get **data-driven predictions** using charts, heatmaps, and geo-visual analytics
+
+---
 
 ## 📸 Platform Screenshots
 
 ### 🏠 Homepage – Modern Dashboard Interface  
-*Apple-inspired design with real-time statistics and quick actions*
 ![Home](./public/screenshots/home.png)
 
----
-
 ### 🔍 Search Dashboard – AI-Enhanced Discovery  
-*Intelligent location search with advanced filtering and real-time results*
 ![Search](./public/screenshots/search_dashboard.png)  
 ![Search Works](./public/screenshots/search_works.png)  
 ![Search Detail](./public/screenshots/search_works1.png)
 
----
-
 ### 🧠 Comparison Dashboard – Location Intelligence  
-*Smart location comparison with AI-powered insights and analytics*  
 ![Compare Dashboard](./public/screenshots/compare_dashboard.png)  
 ![Comparison Logic](./public/screenshots/comparion_work.png)
 
----
-
 ### 📊 Analytics Dashboard – Demographic Insights  
-*Advanced analytics with demographics, heatmaps, and interactive visualizations*  
 ![Analytics Dashboard](./public/screenshots/analytics_dashboard.png)  
 ![Analytics Flow](./public/screenshots/analytics_works.png)
 
----
-
 ### 📂 File Base – Structured Data Access  
-*Organized file system for storing and accessing generated reports*  
 ![File Base](./public/screenshots/files_base.png)
 
----
-
 ### 🧭 Location Insights – Smart Intelligence  
-*Deep location analytics with demographic and behavioral insights*  
 ![Location Insights](./public/screenshots/location_insights.png)
 
-### 🔍 **Smart Location Search**
-- **AI-Enhanced Discovery**: Intelligent location search powered by QLOO API integration
-- **Real-time Filtering**: Dynamic filters for demographics, popularity, radius, and income levels
-- **Comprehensive Results**: Detailed location data with business insights and ratings
-- **Interactive Map Integration**: Seamless search-to-map visualization workflow
+---
 
-### 📊 **Advanced Analytics Dashboard**
-- **Interactive Visualizations**: Multiple chart types (bar, pie, area) with real-time data
-- **Demographics Intelligence**: Age, gender, income, and location-based demographic analysis
-- **Heatmap Visualization**: Geographic intensity mapping for demographic patterns
-- **Export Capabilities**: Download analytics in JSON format and capture charts as images
+## 🔍 Smart Location Search
 
-### 🗺️ **Interactive Mapping System**
-- **Clustered Markers**: Advanced marker clustering using React-Leaflet for optimal visualization
-- **Multiple Map Views**: Switch between location overview, heatmap, and demographic layers
-- **Real-time Updates**: Live data synchronization with automatic map refresh
-- **Custom Overlays**: Demographic overlays and popularity indicators
+- **AI-Enhanced Discovery**
+- **Real-time Filtering**
+- **Comprehensive Results**
+- **Interactive Map Integration**
 
-### 🤖 **AI-Powered Insights**
-- **GROQ Integration**: Advanced AI analysis using Groq's language models for location comparison
-- **Automated Comparisons**: Intelligent location comparison with detailed AI-generated reports
-- **Natural Language Summaries**: AI-generated insights and recommendations
-- **PDF Report Generation**: Automated PDF creation for comparison analyses
+## 📊 Advanced Analytics Dashboard
 
-### 👥 **Demographics Intelligence**
-- **Comprehensive Analysis**: Age groups, gender distribution, income levels, and density mapping
-- **Geographic Clustering**: Location-based demographic pattern recognition
-- **Visual Representations**: Interactive charts with multiple visualization options
-- **Data Export**: Capture demographic charts as images and export processed data
+- **Interactive Visualizations**
+- **Demographics Intelligence**
+- **Heatmap Visualization**
+- **Export Capabilities**
 
-### 🎨 **Modern User Experience**
-- **Apple-Inspired Design**: Clean, professional interface with consistent design language
-- **Responsive Layout**: Seamless experience across desktop, tablet, and mobile devices
-- **Accessibility**: WCAG compliant with keyboard navigation support
-- **Session Management**: Secure session handling with automatic cleanup
+## 🗺️ Interactive Mapping System
+
+- **Clustered Markers**
+- **Multiple Map Views**
+- **Real-time Updates**
+- **Custom Overlays**
+
+## 🤖 AI-Powered Insights
+
+- **GROQ Integration**
+- **Automated Comparisons**
+- **Natural Language Summaries**
+- **PDF Report Generation**
+
+## 👥 Demographics Intelligence
+
+- **Comprehensive Analysis**
+- **Geographic Clustering**
+- **Visual Representations**
+- **Data Export**
+
+## 🎨 Modern User Experience
+
+- **Apple-Inspired Design**
+- **Responsive Layout**
+- **Accessibility**
+- **Session Management**
+
+---
 
 ## 🛠️ Technology Stack
 
-### **Frontend Architecture**
-```javascript
-React 18.x          // Modern React with hooks and concurrent features
-Vite 5.x           // Lightning-fast build tool and development server
-Tailwind CSS 3.x   // Utility-first CSS framework for responsive design
-React Router 6.x    // Client-side routing and navigation
-Context API         // Global state management for application data
+### Frontend Architecture
+
+```js
+React 18.x
+Vite 5.x
+Tailwind CSS 3.x
+React Router 6.x
+Context API
+````
+
+### Data Visualization & Mapping
+
+```js
+Recharts
+Leaflet
+React-Leaflet
+HTML2Canvas
+Lucide React
 ```
 
-### **Data Visualization & Mapping**
-```javascript
-Recharts           // Composable charting library for React applications
-Leaflet            // Interactive maps with advanced clustering features
-React-Leaflet      // React components for Leaflet map integration
-HTML2Canvas        // Chart capture and image generation
-Lucide React       // Beautiful SVG icons for consistent UI
+### Backend Services
+
+```js
+Node.js 18.x
+Express.js 4.x
+RESTful APIs
+Session Management
+File Processing
 ```
 
-### **Backend Services**
-```javascript
-Node.js 18.x       // Server-side JavaScript runtime environment
-Express.js 4.x     // Minimal web application framework
-RESTful APIs       // Clean API architecture with proper error handling
-Session Management // User session handling with automatic cleanup
-File Processing    // PDF generation and image storage capabilities
+### External API Integrations
+
+```js
+QLOO API
+Groq API
+Geocoding APIs
+Session Storage
 ```
 
-### **External API Integrations**
-```javascript
-QLOO API          // Location data and demographic insights
-Groq API          // Advanced AI language model for analysis
-Geocoding APIs    // Location coordinate resolution
-Session Storage   // Secure data persistence and management
+### Development & Quality Tools
+
+```js
+ESLint
+Prettier
+Nodemon
+Winston Logger
 ```
 
-### **Development & Quality Tools**
-```javascript
-ESLint            // Code linting and quality assurance
-Prettier          // Automatic code formatting and consistency
-Nodemon           // Development server with hot reload
-Winston Logger    // Comprehensive logging system
+---
+
+# 🔗 QLOO APIs Used in Maptizer
+
+## 1. `/search/places` – Search API
+
+**File:** `backend/src/controllers/searchController.js`
+
+```js
+const searchResponse = await qlooService.searchPlaces({
+  query, lat, long, radius, page, take
+});
 ```
+
+**Purpose:**
+
+* Smart Location Discovery
+* Geographic Filtering
+* Pagination Support
+* Demographic Enhancement
+
+**Returns:**
+
+* Coordinates (latitude/longitude)
+* Place name
+* Popularity score
+* Basic demographic tags
+
+---
+
+## 2. `/demographics/:entityId` – Demographics API
+
+**File:** `backend/src/controllers/searchController.js`
+
+```js
+const demoData = await qlooService.getDemographics(entity_id);
+```
+
+**Purpose:**
+
+* Age Group Insights
+* Gender Analytics
+* Consumer Behavior
+
+**Returns:**
+
+* Age groups
+* Gender distribution
+* Affinity and interest scores
+
+---
+
+## 3. `/heatmap/location` – Heatmap API
+
+**File:** `backend/src/controllers/heatmapController.js`
+
+```js
+const heatmapResponse = await qlooService.getHeatmapByLocation({
+  wktPoint, radius, income, age
+});
+```
+
+**Purpose:**
+
+* Geographic Intensity Mapping
+* Spatial Analysis
+* Income-based Filtering
+* Age-based Segmentation
+
+**Returns:**
+
+* Geo-points (latitude, longitude)
+* Intensity values
+
+---
+
+## 4. `/analytics/combined` – Combined Analytics API
+
+**File:** `backend/src/controllers/searchController.js`
+
+```js
+const combinedResults = await Promise.all([
+  qlooService.searchPlaces(...),
+  qlooService.getHeatmapByLocation(...)
+]);
+```
+
+**Purpose:**
+
+* Multi-layered Data
+* Comprehensive Analytics
+* Filtering Integration
+* Performance Optimization
+
+**Returns:**
+
+* Search results
+* Demographics per place
+* Heatmap intensity data
+
+---
+
+### 📁 File Reference Summary
+
+| API Endpoint              | File                   | Function                 |
+| ------------------------- | ---------------------- | ------------------------ |
+| `/search/places`          | `searchController.js`  | `searchPlaces()`         |
+| `/demographics/:entityId` | `searchController.js`  | `getDemographics()`      |
+| `/heatmap/location`       | `heatmapController.js` | `getHeatmapByLocation()` |
+| `/analytics/combined`     | `searchController.js`  | `getCombinedData()`      |
+
+---
 
 ## 🚀 Quick Start Guide
 
-### **Prerequisites**
+### Prerequisites
+
 ```bash
 Node.js >= 18.0.0
 npm >= 9.0.0
 Git >= 2.30.0
 ```
 
-### **Installation**
+### Installation
 
-1. **Clone the Repository**
+#### 1. Clone the Repository
+
 ```bash
 git clone https://github.com/THILLAINATARAJAN-B/Maptizer.git
 cd Maptizer
 ```
 
-2. **Backend Setup**
+#### 2. Backend Setup
+
 ```bash
 cd backend
 npm install
 ```
 
-3. **Frontend Setup**
+#### 3. Frontend Setup
+
 ```bash
 cd ../frontend
 npm install
 ```
 
-4. **Environment Configuration**
+---
 
-**Backend (.env)**
+### Environment Configuration
+
+#### Backend `.env`
+
 ```env
-# Server Configuration
 PORT=5000
 NODE_ENV=development
-
-# External API Keys
 QLOO_API_KEY=your_qloo_api_key_here
 GROQ_API_KEY=your_groq_api_key_here
-
-# File Storage Configuration
 DEMOGRAPHICS_FILE_PATH=./src/data/session/demographics.json
 CHART_IMAGES_PATH=./src/data/chart-images/
 PDF_STORAGE_PATH=./src/data/pdfs/
-
-# Session Management
 SESSION_CLEANUP_INTERVAL=3600000
 MAX_SESSION_AGE=86400000
 ```
 
-**Frontend (.env.local)**
+#### Frontend `.env.local`
+
 ```env
-# API Configuration
 VITE_API_URL=http://localhost:5000
 VITE_API_TIMEOUT=30000
-
-# Application Configuration
 VITE_APP_NAME=LocationIQ Insights
 VITE_MAP_TILES_URL=https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png
-
-# Feature Configuration
 VITE_ENABLE_CHART_CAPTURE=true
 VITE_ENABLE_PDF_EXPORT=true
 VITE_DEFAULT_MAP_CENTER_LAT=11.0168
 VITE_DEFAULT_MAP_CENTER_LNG=76.9558
 ```
 
-5. **Start Development Servers**
+---
 
-**Backend Server**
+### Start Development Servers
+
+#### Backend
+
 ```bash
 cd backend
 npm run dev
-# Server starts on http://localhost:5000
+# http://localhost:5000
 ```
 
-**Frontend Application**
+#### Frontend
+
 ```bash
 cd frontend
 npm run dev
-# Application starts on http://localhost:3000
+# http://localhost:3000
 ```
 
-6. **Access the Application**
-```
-Frontend: http://localhost:3000
-Backend API: http://localhost:5000
-API Health Check: http://localhost:5000/api/health
-```
+---
+
+### Access the Application
+
+* **Frontend**: `http://localhost:3000`
+* **Backend API**: `http://localhost:5000`
+* **Health Check**: `http://localhost:5000/api/health`
 
 ## 📁 Project Architecture
 
@@ -546,7 +667,7 @@ CMD ["npm", "start"]
 
 | **Role** | **Responsibility** | **GitHub** |
 |:--------:|:------------------:|:----------:|
-| **Lead Developer ** | Full-stack development, system design | [@SIVAPRAKASH-S](https://github.com/SIVAPRAKASH5668) |
+| **Lead Developer ** | Innovator | [@SIVAPRAKASH-S](https://github.com/SIVAPRAKASH5668) |
 | **Frontend Specialist** | React components, UI/UX implementation | [@THILLAINATARAJAN-B](https://github.com/THILLAINATARAJAN-B) |
 | **Backend Developer** | API development, data processing | [@SIVAPRAKASH-S](https://github.com/SIVAPRAKASH5668) |
 | **DevOps Engineer** | Deployment, CI/CD, infrastructure | [@THILLAINATARAJAN-B](https://github.com/THILLAINATARAJAN-B) |
