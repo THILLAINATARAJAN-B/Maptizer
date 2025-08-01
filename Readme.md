@@ -12,29 +12,43 @@ Looking at your existing README.md file, I can see you've already done excellent
 
 ## 📸 Platform Screenshots
 
-
-
-### 🏠 Homepage – Modern Dashboard Interface
+### 🏠 Homepage – Modern Dashboard Interface  
 *Apple-inspired design with real-time statistics and quick actions*
+![Home](./public/screenshots/home.png)
 
+---
 
-
-### 🔍 Search Dashboard – AI-Enhanced Discovery
+### 🔍 Search Dashboard – AI-Enhanced Discovery  
 *Intelligent location search with advanced filtering and real-time results*
+![Search](./public/screenshots/search_dashboard.png)  
+![Search Works](./public/screenshots/search_works.png)  
+![Search Detail](./public/screenshots/search_works1.png)
 
-![Search Dashboard](./public/screenshots/search_](./public/screenshots/search_](./public/screenshots/search_ Dashboard – Location Intelligence
-*Smart location comparison with AI-powered insights and analytics*
+---
 
-![Compare Dashboard](./public/screenshots/compare_ Logic](./public/screenshots/compar Comprehensive Insights
-*Advanced analytics with demographics, heatmaps, and interactive visualizations*
+### 🧠 Comparison Dashboard – Location Intelligence  
+*Smart location comparison with AI-powered insights and analytics*  
+![Compare Dashboard](./public/screenshots/compare_dashboard.png)  
+![Comparison Logic](./public/screenshots/comparion_work.png)
 
-![Analytics Dashboard](./public/screenshots/analytics_dashboar](./public/screenshots/analytics_ Management – Structured Data Access
-*Organized file system for storing and accessing generated reports*
+---
 
-![File Base](./public/screenshots/files Insights – Smart Intelligence
-*Deep location analytics with demographic and behavioral insights*
+### 📊 Analytics Dashboard – Demographic Insights  
+*Advanced analytics with demographics, heatmaps, and interactive visualizations*  
+![Analytics Dashboard](./public/screenshots/analytics_dashboard.png)  
+![Analytics Flow](./public/screenshots/analytics_works.png)
 
-![Location Insights](./public/screenshots/location_insights. Platform Features
+---
+
+### 📂 File Base – Structured Data Access  
+*Organized file system for storing and accessing generated reports*  
+![File Base](./public/screenshots/files_base.png)
+
+---
+
+### 🧭 Location Insights – Smart Intelligence  
+*Deep location analytics with demographic and behavioral insights*  
+![Location Insights](./public/screenshots/location_insights.png)
 
 ### 🔍 **Smart Location Search**
 - **AI-Enhanced Discovery**: Intelligent location search powered by QLOO API integration
