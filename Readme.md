@@ -546,11 +546,10 @@ CMD ["npm", "start"]
 
 | **Role** | **Responsibility** | **GitHub** |
 |:--------:|:------------------:|:----------:|
-| **Lead Developer & Architect** | Full-stack development, system design | [@THILLAINATARAJAN-B](https://github.com/THILLAINATARAJAN-B) |
-| **Frontend Specialist** | React components, UI/UX implementation | Contributing |
-| **Backend Developer** | API development, data processing | Contributing |
-| **DevOps Engineer** | Deployment, CI/CD, infrastructure | Contributing |
-
+| **Lead Developer ** | Full-stack development, system design | [@SIVAPRAKASH-S](https://github.com/SIVAPRAKASH5668) |
+| **Frontend Specialist** | React components, UI/UX implementation | [@THILLAINATARAJAN-B](https://github.com/THILLAINATARAJAN-B) |
+| **Backend Developer** | API development, data processing | [@SIVAPRAKASH-S](https://github.com/SIVAPRAKASH5668) |
+| **DevOps Engineer** | Deployment, CI/CD, infrastructure | [@THILLAINATARAJAN-B](https://github.com/THILLAINATARAJAN-B) |
 
 
 ### **Acknowledgments**
