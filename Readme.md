@@ -12,7 +12,7 @@
 ## 📸 Screenshots
 
 ### 🏠 Homepage – Modern Dashboard
-![Home](./screenshots/home.png)
+![Home](./public/screenshots/home.png)
 
 ---
 
