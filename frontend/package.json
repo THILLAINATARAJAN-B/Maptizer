@@ -1,0 +1,79 @@
+{
+  "name": "locationiq-insights-frontend",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "LocationIQ Insights - Advanced location analytics and comparison platform with AI-powered insights",
+  "author": "Your Team",
+  "license": "MIT",
+  "keywords": [
+    "locationiq",
+    "analytics",
+    "insights",
+    "react",
+    "vite",
+    "tailwindcss"
+  ],
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=8.0.0"
+  },
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview --host",
+    "start": "npm run dev",
+    "build:prod": "vite build --mode production",
+    "clean": "rm -rf dist node_modules",
+    "reinstall": "npm run clean && npm install",
+    "lint": "echo 'Linting not configured yet'",
+    "setup": "npm install && echo 'Frontend setup complete! Run npm run dev to start development server.'"
+  },
+  "dependencies": {
+    "@tailwindcss/forms": "^0.5.10",
+    "@tailwindcss/typography": "^0.5.16",
+    "axios": "^1.11.0",
+    "clsx": "^2.1.1",
+    "framer-motion": "^12.23.12",
+    "html2canvas": "^1.4.1",
+    "jspdf": "^2.5.1",
+    "leaflet": "^1.9.4",
+    "leaflet.heat": "^0.2.0",
+    "leaflet.markercluster": "^1.5.3",
+    "lucide-react": "^0.263.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-hot-toast": "^2.5.2",
+    "react-leaflet": "^4.2.1",
+    "react-router-dom": "^6.30.1",
+    "recharts": "^2.15.4",
+    "tailwind-merge": "^1.14.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.15",
+    "@types/react-dom": "^18.2.7",
+    "@vitejs/plugin-react": "^4.0.3",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^3.4.17",
+    "vite": "^4.4.5"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "your-repository-url"
+  },
+  "homepage": ".",
+  "proxy": "http://localhost:5000"
+}

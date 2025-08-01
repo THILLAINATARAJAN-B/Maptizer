@@ -1,0 +1,61 @@
+frontend/
+├── package.json
+├── vite.config.js
+├── index.html
+├── .env
+├── src/
+│   ├── main.jsx
+│   ├── App.jsx
+│   ├── index.css
+│   ├── components/
+│   │   ├── common/
+│   │   │   ├── Header.jsx
+│   │   │   ├── Sidebar.jsx
+│   │   │   ├── LoadingSpinner.jsx
+│   │   │   ├── ErrorBoundary.jsx
+│   │   │   └── Toast.jsx
+│   │   ├── maps/
+│   │   │   ├── MapContainer.jsx
+│   │   │   ├── SearchMap.jsx
+│   │   │   ├── HeatMap.jsx
+│   │   │   └── MarkerPopup.jsx
+│   │   ├── search/
+│   │   │   ├── SearchForm.jsx
+│   │   │   ├── SearchResults.jsx
+│   │   │   └── FilterPanel.jsx
+│   │   ├── insights/
+│   │   │   ├── InsightsPanel.jsx
+│   │   │   ├── DemographicsChart.jsx
+│   │   │   ├── ComparisonView.jsx
+│   │   │   └── SummaryCard.jsx
+│   │   └── dashboard/
+│   │       ├── Dashboard.jsx
+│   │       ├── StatsCards.jsx
+│   │       └── QuickActions.jsx
+│   ├── pages/
+│   │   ├── Home.jsx
+│   │   ├── Search.jsx
+│   │   ├── Insights.jsx
+│   │   ├── Compare.jsx
+│   │   └── Analytics.jsx
+│   ├── services/
+│   │   ├── api.js
+│   │   ├── mapService.js
+│   │   └── dataService.js
+│   ├── hooks/
+│   │   ├── useApi.js
+│   │   ├── useMap.js
+│   │   └── useLocalStorage.js
+│   ├── utils/
+│   │   ├── constants.js
+│   │   ├── helpers.js
+│   │   └── validators.js
+│   ├── context/
+│   │   ├── AppContext.jsx
+│   │   └── MapContext.jsx
+│   └── styles/
+│       ├── globals.css
+│       ├── components.css
+│       └── maps.css
+
+the missing files that are not generated are:Toast.jsx,Dashboard.jsx,QuickActions.jsx,SummaryCard.jsx,FilterPanel.jsx,MapContext.jsx,useMap.jsx,globals.css,maps.css,components.css,

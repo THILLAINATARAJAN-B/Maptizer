@@ -1,0 +1,33 @@
+qloo-integrated-backend/
+├── src/
+│   ├── controllers/
+│   │   ├── searchController.js
+│   │   ├── heatmapController.js
+│   │   ├── entityController.js
+│   │   ├── insightsController.js
+│   │   ├── summaryController.js
+│   │   ├── combinedController.js
+│   │   └── healthController.js
+│   ├── routes/
+│   │   ├── searchRoutes.js
+│   │   ├── heatmapRoutes.js
+│   │   ├── entityRoutes.js
+│   │   ├── insightsRoutes.js
+│   │   ├── summaryRoutes.js
+│   │   ├── combinedRoutes.js
+│   │   └── healthRoutes.js
+│   ├── services/
+│   │   ├── qlooService.js
+│   │   ├── geoService.js
+│   │   └── summaryService.js
+│   ├── utils/
+│   │   ├── cacheManager.js
+│   │   ├── fileUtils.js
+│   │   └── errorFormatter.js
+│   ├── data/
+│   │   └── tempDemographics.json
+│   └── app.js
+├── server.js
+├── package.json
+├── .env
+└── README.md

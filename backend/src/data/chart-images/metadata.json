@@ -1,0 +1,79 @@
+[
+  {
+    "filename": "category-distribution_category-distribution-chart_1754053440428.png",
+    "chartType": "category-distribution",
+    "chartId": "category-distribution-chart",
+    "metadata": {
+      "location": "Unknown",
+      "filters": {
+        "age": "25_to_29",
+        "income": "high",
+        "radius": 25,
+        "popularity": 0.3
+      },
+      "timestamp": "2025-08-01T13:04:00.379Z",
+      "totalLocations": 101,
+      "categories": 11
+    },
+    "timestamp": "2025-08-01T13:04:00.436Z",
+    "filepath": "D:\\APART FORM COLLEGE\\HACKTHONS\\LocationIQ\\LIQ TN\\LIQ - 30 -07-2025\\backend\\src\\data\\chart-images\\category-distribution_category-distribution-chart_1754053440428.png",
+    "fileSize": 110074
+  },
+  {
+    "filename": "demographics-panel_demo_panel_1754053446351_1754053446638.png",
+    "chartType": "demographics-panel",
+    "chartId": "demo_panel_1754053446351",
+    "metadata": {
+      "timestamp": "2025-08-01T13:04:06.351Z",
+      "chartType": "demographics-panel",
+      "dataPoints": 4,
+      "title": "Demographics Overview Panel",
+      "sections": [
+        "age",
+        "income",
+        "density",
+        "gender"
+      ]
+    },
+    "timestamp": "2025-08-01T13:04:06.644Z",
+    "filepath": "D:\\APART FORM COLLEGE\\HACKTHONS\\LocationIQ\\LIQ TN\\LIQ - 30 -07-2025\\backend\\src\\data\\chart-images\\demographics-panel_demo_panel_1754053446351_1754053446638.png",
+    "fileSize": 446534
+  },
+  {
+    "filename": "demographics-age_demo_age_1754053451981_1754053452135.png",
+    "chartType": "demographics-age",
+    "chartId": "demo_age_1754053451981",
+    "metadata": {
+      "timestamp": "2025-08-01T13:04:11.981Z",
+      "chartType": "demographics-age-bar",
+      "dataPoints": 7,
+      "totalValue": 403,
+      "title": "Age Distribution",
+      "demographicType": "age",
+      "visualType": "bar"
+    },
+    "timestamp": "2025-08-01T13:04:12.138Z",
+    "filepath": "D:\\APART FORM COLLEGE\\HACKTHONS\\LocationIQ\\LIQ TN\\LIQ - 30 -07-2025\\backend\\src\\data\\chart-images\\demographics-age_demo_age_1754053451981_1754053452135.png",
+    "fileSize": 188108
+  },
+  {
+    "filename": "comparison-chart-radar_comparison-radar-1754053524779_1754053525215.png",
+    "chartType": "comparison-chart-radar",
+    "chartId": "comparison-radar-1754053524779",
+    "metadata": {
+      "chartType": "radar",
+      "entityA": "Cafe CakeBee",
+      "entityB": "Hopes cafe",
+      "entityAId": "64204EC5-9065-440A-9E4F-CB0691630FC5",
+      "entityBId": "B387FADE-EBAA-4AD5-838E-33EE2FBA296B",
+      "totalSimilarities": 20,
+      "chartDataPoints": 20,
+      "timestamp": "2025-08-01T13:05:24.779Z",
+      "captureType": "comparison-visual-chart",
+      "categories": 11
+    },
+    "timestamp": "2025-08-01T13:05:25.245Z",
+    "filepath": "D:\\APART FORM COLLEGE\\HACKTHONS\\LocationIQ\\LIQ TN\\LIQ - 30 -07-2025\\backend\\src\\data\\chart-images\\comparison-chart-radar_comparison-radar-1754053524779_1754053525215.png",
+    "fileSize": 208151
+  }
+]

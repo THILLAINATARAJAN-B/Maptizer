@@ -1,0 +1,3188 @@
+{
+  "endpoint": "heatmap",
+  "timestamp": "2025-08-01T13:04:35.512Z",
+  "sessionId": "1754048202796",
+  "metadata": {
+    "location": "Coimbatore",
+    "age": "25_to_29",
+    "income": "high"
+  },
+  "data": {
+    "heatmap": [
+      {
+        "id": "heatmap_0",
+        "location": {
+          "latitude": 10.978088,
+          "longitude": 76.96472,
+          "geohash": "t9ywrq",
+          "name": "Central Plaza (10.978, 76.965)",
+          "type": "cafe",
+          "address": "673 Street, Coimbatore, Tamil Nadu",
+          "category": "cafe",
+          "amenities": [
+            "Parking",
+            "AC",
+            "24/7"
+          ],
+          "businessRating": "3.1",
+          "priceLevel": 2
+        },
+        "query": {
+          "affinity": 1,
+          "affinity_rank": 0.9961568024596464,
+          "popularity": 0.6236391912908242,
+          "intensity": 0.8859387981251412,
+          "demographicScore": 0.6236391912908242,
+          "trafficScore": 0.5403492101983609,
+          "proximityScore": 0.5357421766220704
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.9961568024596464,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_1",
+        "location": {
+          "latitude": 11.313171,
+          "longitude": 76.93176,
+          "geohash": "tdn8qe",
+          "name": "Green Park (11.313, 76.932)",
+          "type": "restaurant",
+          "address": "52 Street, Coimbatore, Tamil Nadu",
+          "category": "restaurant",
+          "amenities": [
+            "WiFi",
+            "AC"
+          ],
+          "businessRating": "3.7",
+          "priceLevel": 1
+        },
+        "query": {
+          "affinity": 0.9984447900466563,
+          "affinity_rank": 0.9945115257958288,
+          "popularity": 0.7480559875583204,
+          "intensity": 0.9221481700249072,
+          "demographicScore": 0.7468926034408113,
+          "trafficScore": 0.2995758368087046,
+          "proximityScore": 0.9263028392041336
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.9945115257958288,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_2",
+        "location": {
+          "latitude": 11.03302,
+          "longitude": 76.99768,
+          "geohash": "t9yyb0",
+          "name": "Tech Hub (11.033, 76.998)",
+          "type": "mall",
+          "address": "830 Street, Coimbatore, Tamil Nadu",
+          "category": "mall",
+          "amenities": [
+            "WiFi",
+            "Parking",
+            "AC",
+            "24/7"
+          ],
+          "businessRating": "4.1",
+          "priceLevel": 1
+        },
+        "query": {
+          "affinity": 0.9968895800933126,
+          "affinity_rank": 0.9931600547195623,
+          "popularity": 0.880248833592535,
+          "intensity": 0.9607784985309542,
+          "demographicScore": 0.8775108900976905,
+          "trafficScore": 0.7417152522967096,
+          "proximityScore": 0.9867401965959245
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.9931600547195623,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_3",
+        "location": {
+          "latitude": 11.065979,
+          "longitude": 76.90979,
+          "geohash": "t9ywyn",
+          "name": "Food Court (11.066, 76.910)",
+          "type": "mall",
+          "address": "815 Street, Coimbatore, Tamil Nadu",
+          "category": "mall",
+          "amenities": [
+            "Parking",
+            "AC",
+            "24/7"
+          ],
+          "businessRating": "3.5",
+          "priceLevel": 4
+        },
+        "query": {
+          "affinity": 0.995334370139969,
+          "affinity_rank": 0.9915449654112222,
+          "popularity": 0.926905132192846,
+          "intensity": 0.973668777337208,
+          "demographicScore": 0.922580535930671,
+          "trafficScore": 0.9378910072101925,
+          "proximityScore": 0.6878520469514038
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.9915449654112222,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_4",
+        "location": {
+          "latitude": 11.142883,
+          "longitude": 76.94275,
+          "geohash": "t9yxqu",
+          "name": "Central Plaza (11.143, 76.943)",
+          "type": "shop",
+          "address": "875 Street, Coimbatore, Tamil Nadu",
+          "category": "shop",
+          "amenities": [
+            "Parking"
+          ],
+          "businessRating": "4.3",
+          "priceLevel": 2
+        },
+        "query": {
+          "affinity": 0.9937791601866252,
+          "affinity_rank": 0.9900596421471173,
+          "popularity": 0.614307931570762,
+          "intensity": 0.8788219361900138,
+          "demographicScore": 0.6104864203323747,
+          "trafficScore": 0.7964645194666955,
+          "proximityScore": 0.7827235039337417
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.9900596421471173,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_5",
+        "location": {
+          "latitude": 11.296692,
+          "longitude": 76.8988,
+          "geohash": "tdn8mb",
+          "name": "Food Court (11.297, 76.899)",
+          "type": "hospital",
+          "address": "670 Street, Coimbatore, Tamil Nadu",
+          "category": "hospital",
+          "amenities": [
+            "WiFi",
+            "Parking"
+          ],
+          "businessRating": "3.4",
+          "priceLevel": 4
+        },
+        "query": {
+          "affinity": 0.9922239502332815,
+          "affinity_rank": 0.9879253567508233,
+          "popularity": 0.552099533437014,
+          "intensity": 0.8588970471496638,
+          "demographicScore": 0.5478063799888258,
+          "trafficScore": 0.5595454725865541,
+          "proximityScore": 0.5854189743019399
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.9879253567508233,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_6",
+        "location": {
+          "latitude": 10.961609,
+          "longitude": 76.744995,
+          "geohash": "t9yw67",
+          "name": "Green Park (10.962, 76.745)",
+          "type": "cafe",
+          "address": "842 Street, Coimbatore, Tamil Nadu",
+          "category": "cafe",
+          "amenities": [
+            "Parking"
+          ],
+          "businessRating": "4.0",
+          "priceLevel": 4
+        },
+        "query": {
+          "affinity": 0.9906687402799378,
+          "affinity_rank": 0.9869331283627979,
+          "popularity": 0.9564541213063764,
+          "intensity": 0.9792836710127274,
+          "demographicScore": 0.9475291994901427,
+          "trafficScore": 0.6618060909862189,
+          "proximityScore": 0.8482319641891314
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.9869331283627979,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_7",
+        "location": {
+          "latitude": 10.917664,
+          "longitude": 77.00867,
+          "geohash": "t9yy07",
+          "name": "Green Park (10.918, 77.009)",
+          "type": "restaurant",
+          "address": "11 Street, Coimbatore, Tamil Nadu",
+          "category": "restaurant",
+          "amenities": [
+            "WiFi",
+            "Parking",
+            "24/7"
+          ],
+          "businessRating": "4.9",
+          "priceLevel": 3
+        },
+        "query": {
+          "affinity": 0.9891135303265941,
+          "affinity_rank": 0.9849521203830369,
+          "popularity": 0.5147744945567652,
+          "intensity": 0.8455633966125783,
+          "demographicScore": 0.5091704176331301,
+          "trafficScore": 0.3419207005223484,
+          "proximityScore": 0.5975968020247422
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.9849521203830369,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_8",
+        "location": {
+          "latitude": 10.994568,
+          "longitude": 76.777954,
+          "geohash": "t9ywe1",
+          "name": "Cultural Center (10.995, 76.778)",
+          "type": "hospital",
+          "address": "629 Street, Coimbatore, Tamil Nadu",
+          "category": "hospital",
+          "amenities": [
+            "WiFi",
+            "Parking"
+          ],
+          "businessRating": "4.0",
+          "priceLevel": 2
+        },
+        "query": {
+          "affinity": 0.9875583203732504,
+          "affinity_rank": 0.9823212913143735,
+          "popularity": 0.2534992223950233,
+          "intensity": 0.7657694822621193,
+          "demographicScore": 0.2503452662843543,
+          "trafficScore": 0.2840980404334428,
+          "proximityScore": 0.8337602584818724
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.9823212913143735,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_9",
+        "location": {
+          "latitude": 11.329651,
+          "longitude": 76.90979,
+          "geohash": "tdn8qn",
+          "name": "Tech Hub (11.330, 76.910)",
+          "type": "mall",
+          "address": "746 Street, Coimbatore, Tamil Nadu",
+          "category": "mall",
+          "amenities": [
+            "WiFi",
+            "Parking",
+            "AC"
+          ],
+          "businessRating": "4.8",
+          "priceLevel": 4
+        },
+        "query": {
+          "affinity": 0.9860031104199067,
+          "affinity_rank": 0.9813391877058177,
+          "popularity": 0.9346811819595645,
+          "intensity": 0.9692073550675775,
+          "demographicScore": 0.9215985526630854,
+          "trafficScore": 0.4823213928743485,
+          "proximityScore": 0.9675301521390978
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.9813391877058177,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_10",
+        "location": {
+          "latitude": 10.637512,
+          "longitude": 77.00867,
+          "geohash": "t9yu82",
+          "name": "Tech Hub (10.638, 77.009)",
+          "type": "restaurant",
+          "address": "181 Street, Coimbatore, Tamil Nadu",
+          "category": "restaurant",
+          "amenities": [
+            "WiFi"
+          ],
+          "businessRating": "4.2",
+          "priceLevel": 1
+        },
+        "query": {
+          "affinity": 0.9844479004665629,
+          "affinity_rank": 0.9809885931558935,
+          "popularity": 0.911353032659409,
+          "intensity": 0.961481647931216,
+          "demographicScore": 0.8971795795853902,
+          "trafficScore": 0.9455684089209095,
+          "proximityScore": 0.7206823559836848
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.9809885931558935,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_11",
+        "location": {
+          "latitude": 10.862732,
+          "longitude": 76.87683,
+          "geohash": "t9ytv3",
+          "name": "Central Plaza (10.863, 76.877)",
+          "type": "restaurant",
+          "address": "777 Street, Coimbatore, Tamil Nadu",
+          "category": "restaurant",
+          "amenities": [
+            "24/7"
+          ],
+          "businessRating": "4.7",
+          "priceLevel": 1
+        },
+        "query": {
+          "affinity": 0.9828926905132193,
+          "affinity_rank": 0.9800235017626322,
+          "popularity": 0.5069984447900466,
+          "intensity": 0.8392636601710913,
+          "demographicScore": 0.49832506548570676,
+          "trafficScore": 0.908858591146591,
+          "proximityScore": 0.708154781836059
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.9800235017626322,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_12",
+        "location": {
+          "latitude": 11.148376,
+          "longitude": 76.93176,
+          "geohash": "t9yxqt",
+          "name": "Business District (11.148, 76.932)",
+          "type": "mall",
+          "address": "319 Street, Coimbatore, Tamil Nadu",
+          "category": "mall",
+          "amenities": [
+            "24/7"
+          ],
+          "businessRating": "4.9",
+          "priceLevel": 2
+        },
+        "query": {
+          "affinity": 0.9813374805598756,
+          "affinity_rank": 0.9781312127236581,
+          "popularity": 0.8989113530326595,
+          "intensity": 0.9556477619508454,
+          "demographicScore": 0.8821354024317389,
+          "trafficScore": 0.4319803119407329,
+          "proximityScore": 0.7110362350631055
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.9781312127236581,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_13",
+        "location": {
+          "latitude": 11.060486,
+          "longitude": 76.953735,
+          "geohash": "t9ywzj",
+          "name": "Food Court (11.060, 76.954)",
+          "type": "entertainment",
+          "address": "608 Street, Coimbatore, Tamil Nadu",
+          "category": "entertainment",
+          "amenities": [
+            "AC",
+            "24/7"
+          ],
+          "businessRating": "4.5",
+          "priceLevel": 4
+        },
+        "query": {
+          "affinity": 0.9797822706065319,
+          "affinity_rank": 0.9777094542659492,
+          "popularity": 0.6734059097978227,
+          "intensity": 0.8872475174617442,
+          "demographicScore": 0.6597911713415681,
+          "trafficScore": 0.33332482126768426,
+          "proximityScore": 0.7580029568937844
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.9777094542659492,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_14",
+        "location": {
+          "latitude": 10.47821,
+          "longitude": 76.96472,
+          "geohash": "t9yex7",
+          "name": "Business District (10.478, 76.965)",
+          "type": "office",
+          "address": "58 Street, Coimbatore, Tamil Nadu",
+          "category": "office",
+          "amenities": [
+            "AC"
+          ],
+          "businessRating": "3.5",
+          "priceLevel": 1
+        },
+        "query": {
+          "affinity": 0.9782270606531882,
+          "affinity_rank": 0.9773755656108597,
+          "popularity": 0.9517884914463453,
+          "intensity": 0.9700400413784367,
+          "demographicScore": 0.9310652583510904,
+          "trafficScore": 0.4230323273556133,
+          "proximityScore": 0.7502843623522263
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.9773755656108597,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_15",
+        "location": {
+          "latitude": 11.060486,
+          "longitude": 77.041626,
+          "geohash": "t9yycj",
+          "name": "City Mall (11.060, 77.042)",
+          "type": "hospital",
+          "address": "231 Street, Coimbatore, Tamil Nadu",
+          "category": "hospital",
+          "amenities": [
+            "Parking",
+            "AC",
+            "24/7"
+          ],
+          "businessRating": "3.2",
+          "priceLevel": 4
+        },
+        "query": {
+          "affinity": 0.9766718506998445,
+          "affinity_rank": 0.9767441860465116,
+          "popularity": 0.7278382581648523,
+          "intensity": 0.9020434735433469,
+          "demographicScore": 0.7108591386120174,
+          "trafficScore": 0.5549336135719243,
+          "proximityScore": 0.7906134272480749
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.9767441860465116,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_16",
+        "location": {
+          "latitude": 11.324158,
+          "longitude": 76.90979,
+          "geohash": "tdn8qj",
+          "name": "City Mall (11.324, 76.910)",
+          "type": "school",
+          "address": "377 Street, Coimbatore, Tamil Nadu",
+          "category": "school",
+          "amenities": [
+            "Parking",
+            "24/7"
+          ],
+          "businessRating": "4.6",
+          "priceLevel": 4
+        },
+        "query": {
+          "affinity": 0.9751166407465007,
+          "affinity_rank": 0.9747530186608123,
+          "popularity": 0.8584758942457231,
+          "intensity": 0.9400153301705608,
+          "demographicScore": 0.8371141301587377,
+          "trafficScore": 0.3914100651587642,
+          "proximityScore": 0.8240328684010889
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.9747530186608123,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_17",
+        "location": {
+          "latitude": 10.994568,
+          "longitude": 76.93176,
+          "geohash": "t9yww9",
+          "name": "Business District (10.995, 76.932)",
+          "type": "mall",
+          "address": "515 Street, Coimbatore, Tamil Nadu",
+          "category": "mall",
+          "amenities": [
+            "WiFi",
+            "Parking",
+            "AC",
+            "24/7"
+          ],
+          "businessRating": "4.1",
+          "priceLevel": 1
+        },
+        "query": {
+          "affinity": 0.973561430793157,
+          "affinity_rank": 0.973097617217525,
+          "popularity": 0.6858475894245724,
+          "intensity": 0.887108134309892,
+          "demographicScore": 0.6677147604662244,
+          "trafficScore": 0.5416168929229368,
+          "proximityScore": 0.950523478828381
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.973097617217525,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_18",
+        "location": {
+          "latitude": 10.873718,
+          "longitude": 76.88782,
+          "geohash": "t9ytve",
+          "name": "Cultural Center (10.874, 76.888)",
+          "type": "hotel",
+          "address": "738 Street, Coimbatore, Tamil Nadu",
+          "category": "hotel",
+          "amenities": [
+            "AC"
+          ],
+          "businessRating": "3.4",
+          "priceLevel": 3
+        },
+        "query": {
+          "affinity": 0.9704510108864697,
+          "affinity_rank": 0.972972972972973,
+          "popularity": 0.687402799377916,
+          "intensity": 0.8862931360598546,
+          "demographicScore": 0.6670907415424877,
+          "trafficScore": 0.40750426050904864,
+          "proximityScore": 0.5102169461477406
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.972972972972973,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_19",
+        "location": {
+          "latitude": 10.659485,
+          "longitude": 76.87683,
+          "geohash": "t9ystk",
+          "name": "Shopping Complex (10.659, 76.877)",
+          "type": "school",
+          "address": "143 Street, Coimbatore, Tamil Nadu",
+          "category": "school",
+          "amenities": [
+            "Parking",
+            "AC"
+          ],
+          "businessRating": "4.1",
+          "priceLevel": 4
+        },
+        "query": {
+          "affinity": 0.9704510108864697,
+          "affinity_rank": 0.972972972972973,
+          "popularity": 0.2130637636080871,
+          "intensity": 0.7439914253289059,
+          "demographicScore": 0.20676794477674393,
+          "trafficScore": 0.9025344547822696,
+          "proximityScore": 0.6879641632920378
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.972972972972973,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_20",
+        "location": {
+          "latitude": 10.82428,
+          "longitude": 77.01965,
+          "geohash": "t9yv8d",
+          "name": "Food Court (10.824, 77.020)",
+          "type": "shop",
+          "address": "928 Street, Coimbatore, Tamil Nadu",
+          "category": "shop",
+          "amenities": [
+            "WiFi",
+            "AC"
+          ],
+          "businessRating": "4.9",
+          "priceLevel": 3
+        },
+        "query": {
+          "affinity": 0.968895800933126,
+          "affinity_rank": 0.9700598802395209,
+          "popularity": 0.4727838258164852,
+          "intensity": 0.8204114321900522,
+          "demographicScore": 0.45807826358269094,
+          "trafficScore": 0.860680354053299,
+          "proximityScore": 0.6104088101734381
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.9700598802395209,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_21",
+        "location": {
+          "latitude": 11.0824585,
+          "longitude": 77.18445,
+          "geohash": "t9yzh3",
+          "name": "City Mall (11.082, 77.184)",
+          "type": "shop",
+          "address": "168 Street, Coimbatore, Tamil Nadu",
+          "category": "shop",
+          "amenities": [
+            "Parking",
+            "24/7"
+          ],
+          "businessRating": "4.4",
+          "priceLevel": 4
+        },
+        "query": {
+          "affinity": 0.9673405909797823,
+          "affinity_rank": 0.9685362517099864,
+          "popularity": 0.7387247278382582,
+          "intensity": 0.8991145302563863,
+          "demographicScore": 0.7145984147984394,
+          "trafficScore": 0.9578454536597305,
+          "proximityScore": 0.7018191416711065
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.9685362517099864,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_22",
+        "location": {
+          "latitude": 11.038513,
+          "longitude": 76.92078,
+          "geohash": "t9ywy3",
+          "name": "Central Plaza (11.039, 76.921)",
+          "type": "shop",
+          "address": "800 Street, Coimbatore, Tamil Nadu",
+          "category": "shop",
+          "amenities": [
+            "WiFi",
+            "Parking",
+            "AC",
+            "24/7"
+          ],
+          "businessRating": "3.4",
+          "priceLevel": 4
+        },
+        "query": {
+          "affinity": 0.9657853810264385,
+          "affinity_rank": 0.9684857801691007,
+          "popularity": 0.6267496111975117,
+          "intensity": 0.8648847698205591,
+          "demographicScore": 0.605305612058561,
+          "trafficScore": 0.24544171593561348,
+          "proximityScore": 0.671736033724819
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.9684857801691007,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_23",
+        "location": {
+          "latitude": 11.302185,
+          "longitude": 76.986694,
+          "geohash": "tdn8rc",
+          "name": "Central Plaza (11.302, 76.987)",
+          "type": "park",
+          "address": "982 Street, Coimbatore, Tamil Nadu",
+          "category": "park",
+          "amenities": [
+            "Parking",
+            "AC",
+            "24/7"
+          ],
+          "businessRating": "4.4",
+          "priceLevel": 4
+        },
+        "query": {
+          "affinity": 0.9642301710730948,
+          "affinity_rank": 0.9681668496158068,
+          "popularity": 0.2690513219284603,
+          "intensity": 0.756857519892518,
+          "demographicScore": 0.2594274021705216,
+          "trafficScore": 0.2776243655743262,
+          "proximityScore": 0.9400439936343752
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.9681668496158068,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_24",
+        "location": {
+          "latitude": 11.0824585,
+          "longitude": 76.97571,
+          "geohash": "t9yxp9",
+          "name": "Central Plaza (11.082, 76.976)",
+          "type": "park",
+          "address": "281 Street, Coimbatore, Tamil Nadu",
+          "category": "park",
+          "amenities": [
+            "WiFi"
+          ],
+          "businessRating": "4.0",
+          "priceLevel": 1
+        },
+        "query": {
+          "affinity": 0.9626749611197511,
+          "affinity_rank": 0.9662027833001988,
+          "popularity": 0.6065318818040435,
+          "intensity": 0.8568903839791733,
+          "demographicScore": 0.5838930557335971,
+          "trafficScore": 0.5393573786420105,
+          "proximityScore": 0.7936066935318635
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.9662027833001988,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_25",
+        "location": {
+          "latitude": 10.313416,
+          "longitude": 76.953735,
+          "geohash": "t9ydxj",
+          "name": "City Mall (10.313, 76.954)",
+          "type": "shop",
+          "address": "527 Street, Coimbatore, Tamil Nadu",
+          "category": "shop",
+          "amenities": [
+            "WiFi",
+            "Parking",
+            "AC",
+            "24/7"
+          ],
+          "businessRating": "3.0",
+          "priceLevel": 1
+        },
+        "query": {
+          "affinity": 0.9611197511664075,
+          "affinity_rank": 0.965034965034965,
+          "popularity": 0.7573872472783826,
+          "intensity": 0.9011745641605673,
+          "demographicScore": 0.7279398426408094,
+          "trafficScore": 0.8143185573965108,
+          "proximityScore": 0.5865755591013206
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.965034965034965,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_26",
+        "location": {
+          "latitude": 10.939636,
+          "longitude": 76.8988,
+          "geohash": "t9ywjz",
+          "name": "Tech Hub (10.940, 76.899)",
+          "type": "cafe",
+          "address": "45 Street, Coimbatore, Tamil Nadu",
+          "category": "cafe",
+          "amenities": [
+            "Parking",
+            "AC"
+          ],
+          "businessRating": "4.1",
+          "priceLevel": 1
+        },
+        "query": {
+          "affinity": 0.9595645412130638,
+          "affinity_rank": 0.9638739431206764,
+          "popularity": 0.6423017107309487,
+          "intensity": 0.8656785126407132,
+          "demographicScore": 0.6163299463779087,
+          "trafficScore": 0.9803849597516727,
+          "proximityScore": 0.6037918236856502
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.9638739431206764,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_27",
+        "location": {
+          "latitude": 11.285706,
+          "longitude": 76.88782,
+          "geohash": "tdn8jw",
+          "name": "Tech Hub (11.286, 76.888)",
+          "type": "hospital",
+          "address": "881 Street, Coimbatore, Tamil Nadu",
+          "category": "hospital",
+          "amenities": [
+            "WiFi",
+            "Parking",
+            "24/7"
+          ],
+          "businessRating": "4.3",
+          "priceLevel": 2
+        },
+        "query": {
+          "affinity": 0.9580093312597201,
+          "affinity_rank": 0.9615806805708014,
+          "popularity": 0.49611197511664074,
+          "intensity": 0.8205115292101206,
+          "demographicScore": 0.4752799015114319,
+          "trafficScore": 0.5056639293317682,
+          "proximityScore": 0.7943112644869015
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.9615806805708014,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_28",
+        "location": {
+          "latitude": 10.978088,
+          "longitude": 77.03064,
+          "geohash": "t9yy2y",
+          "name": "Cultural Center (10.978, 77.031)",
+          "type": "hotel",
+          "address": "887 Street, Coimbatore, Tamil Nadu",
+          "category": "hotel",
+          "amenities": [
+            "WiFi",
+            "Parking",
+            "AC"
+          ],
+          "businessRating": "3.8",
+          "priceLevel": 1
+        },
+        "query": {
+          "affinity": 0.9564541213063764,
+          "affinity_rank": 0.960328317373461,
+          "popularity": 0.47900466562986005,
+          "intensity": 0.8143815434235468,
+          "demographicScore": 0.45814598656666244,
+          "trafficScore": 0.3907495819179989,
+          "proximityScore": 0.7706748690193084
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.960328317373461,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_29",
+        "location": {
+          "latitude": 11.044006,
+          "longitude": 76.865845,
+          "geohash": "t9ywv4",
+          "name": "Food Court (11.044, 76.866)",
+          "type": "park",
+          "address": "995 Street, Coimbatore, Tamil Nadu",
+          "category": "park",
+          "amenities": [
+            "WiFi",
+            "Parking"
+          ],
+          "businessRating": "3.3",
+          "priceLevel": 2
+        },
+        "query": {
+          "affinity": 0.9548989113530326,
+          "affinity_rank": 0.9592621060722522,
+          "popularity": 0.9284603421461898,
+          "intensity": 0.9482762990067456,
+          "demographicScore": 0.8865857699498608,
+          "trafficScore": 0.5753616369572723,
+          "proximityScore": 0.6798308764354545
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.9592621060722522,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_30",
+        "location": {
+          "latitude": 10.879211,
+          "longitude": 76.93176,
+          "geohash": "t9ytys",
+          "name": "Green Park (10.879, 76.932)",
+          "type": "hospital",
+          "address": "436 Street, Coimbatore, Tamil Nadu",
+          "category": "hospital",
+          "amenities": [
+            "24/7"
+          ],
+          "businessRating": "4.1",
+          "priceLevel": 1
+        },
+        "query": {
+          "affinity": 0.9533437013996889,
+          "affinity_rank": 0.9588719153936546,
+          "popularity": 0.8926905132192846,
+          "intensity": 0.9368062091437573,
+          "demographicScore": 0.8510408780768607,
+          "trafficScore": 0.33361373061124944,
+          "proximityScore": 0.9238523147008048
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.9588719153936546,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_31",
+        "location": {
+          "latitude": 10.664978,
+          "longitude": 76.99768,
+          "geohash": "t9yu8j",
+          "name": "Shopping Complex (10.665, 76.998)",
+          "type": "restaurant",
+          "address": "257 Street, Coimbatore, Tamil Nadu",
+          "category": "restaurant",
+          "amenities": [
+            "24/7"
+          ],
+          "businessRating": "3.6",
+          "priceLevel": 2
+        },
+        "query": {
+          "affinity": 0.9517884914463453,
+          "affinity_rank": 0.9581749049429658,
+          "popularity": 0.5863141524105754,
+          "intensity": 0.8440621137846004,
+          "demographicScore": 0.558047062636504,
+          "trafficScore": 0.9976509058692029,
+          "proximityScore": 0.7277116665541183
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.9581749049429658,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_32",
+        "location": {
+          "latitude": 11.307678,
+          "longitude": 76.93176,
+          "geohash": "tdn8qd",
+          "name": "Food Court (11.308, 76.932)",
+          "type": "office",
+          "address": "791 Street, Coimbatore, Tamil Nadu",
+          "category": "office",
+          "amenities": [],
+          "businessRating": "3.4",
+          "priceLevel": 1
+        },
+        "query": {
+          "affinity": 0.9502332814930016,
+          "affinity_rank": 0.9549945115257958,
+          "popularity": 0.8724727838258165,
+          "intensity": 0.9283335012026843,
+          "demographicScore": 0.8290526763881398,
+          "trafficScore": 0.5010899943102862,
+          "proximityScore": 0.5199555350749778
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.9549945115257958,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_33",
+        "location": {
+          "latitude": 10.994568,
+          "longitude": 76.76697,
+          "geohash": "t9ywdc",
+          "name": "Central Plaza (10.995, 76.767)",
+          "type": "shop",
+          "address": "176 Street, Coimbatore, Tamil Nadu",
+          "category": "shop",
+          "amenities": [
+            "AC",
+            "24/7"
+          ],
+          "businessRating": "3.4",
+          "priceLevel": 4
+        },
+        "query": {
+          "affinity": 0.9486780715396579,
+          "affinity_rank": 0.9546502690238279,
+          "popularity": 0.6842923794712286,
+          "intensity": 0.8711540231643801,
+          "demographicScore": 0.6491731749260489,
+          "trafficScore": 0.35317676413848265,
+          "proximityScore": 0.7484316024621933
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.9546502690238279,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_34",
+        "location": {
+          "latitude": 11.175842,
+          "longitude": 76.96472,
+          "geohash": "t9yxx6",
+          "name": "Shopping Complex (11.176, 76.965)",
+          "type": "cafe",
+          "address": "712 Street, Coimbatore, Tamil Nadu",
+          "category": "cafe",
+          "amenities": [
+            "AC",
+            "24/7"
+          ],
+          "businessRating": "3.1",
+          "priceLevel": 1
+        },
+        "query": {
+          "affinity": 0.9471228615863142,
+          "affinity_rank": 0.9542743538767395,
+          "popularity": 0.6220839813374806,
+          "intensity": 0.8517566451987917,
+          "demographicScore": 0.5891899605513619,
+          "trafficScore": 0.737294728164837,
+          "proximityScore": 0.8293268808794408
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.9542743538767395,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_35",
+        "location": {
+          "latitude": 11.027527,
+          "longitude": 77.1405,
+          "geohash": "t9yyer",
+          "name": "City Mall (11.028, 77.141)",
+          "type": "office",
+          "address": "978 Street, Coimbatore, Tamil Nadu",
+          "category": "office",
+          "amenities": [
+            "WiFi",
+            "AC"
+          ],
+          "businessRating": "3.8",
+          "priceLevel": 1
+        },
+        "query": {
+          "affinity": 0.9455676516329704,
+          "affinity_rank": 0.9521203830369357,
+          "popularity": 0.7356143079315708,
+          "intensity": 0.8845474679437402,
+          "demographicScore": 0.6955730936584682,
+          "trafficScore": 0.7703412816441735,
+          "proximityScore": 0.5535187564091584
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.9521203830369357,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_36",
+        "location": {
+          "latitude": 10.489197,
+          "longitude": 76.97571,
+          "geohash": "t9yext",
+          "name": "Green Park (10.489, 76.976)",
+          "type": "park",
+          "address": "903 Street, Coimbatore, Tamil Nadu",
+          "category": "park",
+          "amenities": [
+            "WiFi",
+            "AC",
+            "24/7"
+          ],
+          "businessRating": "3.4",
+          "priceLevel": 1
+        },
+        "query": {
+          "affinity": 0.9440124416796267,
+          "affinity_rank": 0.9502262443438914,
+          "popularity": 0.9051321928460342,
+          "intensity": 0.9342125078288284,
+          "demographicScore": 0.8544560514114194,
+          "trafficScore": 0.333773050685085,
+          "proximityScore": 0.7928664463329037
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.9502262443438914,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_37",
+        "location": {
+          "latitude": 10.961609,
+          "longitude": 76.986694,
+          "geohash": "t9ywrg",
+          "name": "Central Plaza (10.962, 76.987)",
+          "type": "mall",
+          "address": "965 Street, Coimbatore, Tamil Nadu",
+          "category": "mall",
+          "amenities": [
+            "Parking"
+          ],
+          "businessRating": "3.9",
+          "priceLevel": 1
+        },
+        "query": {
+          "affinity": 0.942457231726283,
+          "affinity_rank": 0.9500384319754035,
+          "popularity": 0.76049766718507,
+          "intensity": 0.8901437224386552,
+          "demographicScore": 0.7167365261495371,
+          "trafficScore": 0.5474757360228131,
+          "proximityScore": 0.7222983940305041
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.9500384319754035,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_38",
+        "location": {
+          "latitude": 11.044006,
+          "longitude": 76.85486,
+          "geohash": "t9ywuf",
+          "name": "Green Park (11.044, 76.855)",
+          "type": "restaurant",
+          "address": "361 Street, Coimbatore, Tamil Nadu",
+          "category": "restaurant",
+          "amenities": [
+            "WiFi",
+            "AC"
+          ],
+          "businessRating": "4.2",
+          "priceLevel": 2
+        },
+        "query": {
+          "affinity": 0.9409020217729394,
+          "affinity_rank": 0.9454265949269792,
+          "popularity": 0.973561430793157,
+          "intensity": 0.9520572164252166,
+          "demographicScore": 0.9160259185534371,
+          "trafficScore": 0.948566827305199,
+          "proximityScore": 0.7213806477530864
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.9454265949269792,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_39",
+        "location": {
+          "latitude": 11.065979,
+          "longitude": 77.08557,
+          "geohash": "t9yyfn",
+          "name": "Green Park (11.066, 77.086)",
+          "type": "hospital",
+          "address": "14 Street, Coimbatore, Tamil Nadu",
+          "category": "hospital",
+          "amenities": [
+            "WiFi",
+            "Parking"
+          ],
+          "businessRating": "4.3",
+          "priceLevel": 3
+        },
+        "query": {
+          "affinity": 0.9393468118195957,
+          "affinity_rank": 0.9439124487004104,
+          "popularity": 0.4401244167962675,
+          "intensity": 0.7909497843768416,
+          "demographicScore": 0.4134294677215328,
+          "trafficScore": 0.2474551225790103,
+          "proximityScore": 0.8490907590153179
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.9439124487004104,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_40",
+        "location": {
+          "latitude": 11.098938,
+          "longitude": 76.96472,
+          "geohash": "t9yxpk",
+          "name": "Tech Hub (11.099, 76.965)",
+          "type": "park",
+          "address": "362 Street, Coimbatore, Tamil Nadu",
+          "category": "park",
+          "amenities": [
+            "WiFi",
+            "AC"
+          ],
+          "businessRating": "3.0",
+          "priceLevel": 3
+        },
+        "query": {
+          "affinity": 0.937791601866252,
+          "affinity_rank": 0.9423459244532804,
+          "popularity": 0.8009331259720062,
+          "intensity": 0.8981003558740868,
+          "demographicScore": 0.7511083591930322,
+          "trafficScore": 0.3291074322410008,
+          "proximityScore": 0.7544425750442901
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.9423459244532804,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_41",
+        "location": {
+          "latitude": 11.318665,
+          "longitude": 76.92078,
+          "geohash": "tdn8qk",
+          "name": "Central Plaza (11.319, 76.921)",
+          "type": "restaurant",
+          "address": "802 Street, Coimbatore, Tamil Nadu",
+          "category": "restaurant",
+          "amenities": [
+            "WiFi",
+            "24/7"
+          ],
+          "businessRating": "4.8",
+          "priceLevel": 3
+        },
+        "query": {
+          "affinity": 0.9362363919129082,
+          "affinity_rank": 0.9418221734357849,
+          "popularity": 0.8771384136858476,
+          "intensity": 0.920182732901653,
+          "demographicScore": 0.8212089036374498,
+          "trafficScore": 0.2153788066736361,
+          "proximityScore": 0.5641720117252734
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.9418221734357849,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_42",
+        "location": {
+          "latitude": 10.939636,
+          "longitude": 76.96472,
+          "geohash": "t9ywpr",
+          "name": "Business District (10.940, 76.965)",
+          "type": "cafe",
+          "address": "406 Street, Coimbatore, Tamil Nadu",
+          "category": "cafe",
+          "amenities": [
+            "AC",
+            "24/7"
+          ],
+          "businessRating": "3.1",
+          "priceLevel": 2
+        },
+        "query": {
+          "affinity": 0.9346811819595645,
+          "affinity_rank": 0.940814757878555,
+          "popularity": 0.8709175738724728,
+          "intensity": 0.9173921723091342,
+          "demographicScore": 0.8140302673364792,
+          "trafficScore": 0.7645085208339708,
+          "proximityScore": 0.8564921848068565
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.940814757878555,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_43",
+        "location": {
+          "latitude": 11.03302,
+          "longitude": 76.97571,
+          "geohash": "t9ywz8",
+          "name": "Central Plaza (11.033, 76.976)",
+          "type": "shop",
+          "address": "362 Street, Coimbatore, Tamil Nadu",
+          "category": "shop",
+          "amenities": [
+            "AC",
+            "24/7"
+          ],
+          "businessRating": "4.9",
+          "priceLevel": 3
+        },
+        "query": {
+          "affinity": 0.9331259720062208,
+          "affinity_rank": 0.9362029208301307,
+          "popularity": 0.7807153965785381,
+          "intensity": 0.8883258840250889,
+          "demographicScore": 0.7285058132925705,
+          "trafficScore": 0.9802547146050975,
+          "proximityScore": 0.730766249043198
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.9362029208301307,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_44",
+        "location": {
+          "latitude": 11.038513,
+          "longitude": 77.074585,
+          "geohash": "t9yycc",
+          "name": "Cultural Center (11.039, 77.075)",
+          "type": "hotel",
+          "address": "811 Street, Coimbatore, Tamil Nadu",
+          "category": "hotel",
+          "amenities": [
+            "WiFi",
+            "Parking",
+            "24/7"
+          ],
+          "businessRating": "4.8",
+          "priceLevel": 3
+        },
+        "query": {
+          "affinity": 0.9300155520995335,
+          "affinity_rank": 0.9357045143638851,
+          "popularity": 0.7465007776049767,
+          "intensity": 0.8766678084304719,
+          "demographicScore": 0.6942573328270234,
+          "trafficScore": 0.2786247585178437,
+          "proximityScore": 0.8160399865774531
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.9357045143638851,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_45",
+        "location": {
+          "latitude": 11.093445,
+          "longitude": 77.18445,
+          "geohash": "t9yzh7",
+          "name": "Green Park (11.093, 77.184)",
+          "type": "restaurant",
+          "address": "809 Street, Coimbatore, Tamil Nadu",
+          "category": "restaurant",
+          "amenities": [
+            "Parking",
+            "AC"
+          ],
+          "businessRating": "3.1",
+          "priceLevel": 3
+        },
+        "query": {
+          "affinity": 0.9300155520995335,
+          "affinity_rank": 0.9357045143638851,
+          "popularity": 0.5381026438569206,
+          "intensity": 0.8141483683060551,
+          "demographicScore": 0.5004438274128127,
+          "trafficScore": 0.7314714546871341,
+          "proximityScore": 0.8310836995929105
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.9357045143638851,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_46",
+        "location": {
+          "latitude": 11.296692,
+          "longitude": 76.90979,
+          "geohash": "tdn8q0",
+          "name": "Central Plaza (11.297, 76.910)",
+          "type": "hotel",
+          "address": "688 Street, Coimbatore, Tamil Nadu",
+          "category": "hotel",
+          "amenities": [
+            "WiFi"
+          ],
+          "businessRating": "4.1",
+          "priceLevel": 1
+        },
+        "query": {
+          "affinity": 0.9284603421461898,
+          "affinity_rank": 0.9352360043907794,
+          "popularity": 0.5754276827371695,
+          "intensity": 0.8245832429968606,
+          "demographicScore": 0.5342617831945415,
+          "trafficScore": 0.594999112269943,
+          "proximityScore": 0.9016756225551396
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.9352360043907794,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_47",
+        "location": {
+          "latitude": 10.879211,
+          "longitude": 77.01965,
+          "geohash": "t9yvbs",
+          "name": "Tech Hub (10.879, 77.020)",
+          "type": "mall",
+          "address": "406 Street, Coimbatore, Tamil Nadu",
+          "category": "mall",
+          "amenities": [
+            "AC"
+          ],
+          "businessRating": "4.0",
+          "priceLevel": 3
+        },
+        "query": {
+          "affinity": 0.926905132192846,
+          "affinity_rank": 0.9341317365269461,
+          "popularity": 0.8849144634525661,
+          "intensity": 0.9164759128709921,
+          "demographicScore": 0.8202317577258621,
+          "trafficScore": 0.7897100114165376,
+          "proximityScore": 0.8555823906221851
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.9341317365269461,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_48",
+        "location": {
+          "latitude": 10.307922,
+          "longitude": 77.01965,
+          "geohash": "t9yf8s",
+          "name": "Shopping Complex (10.308, 77.020)",
+          "type": "park",
+          "address": "934 Street, Coimbatore, Tamil Nadu",
+          "category": "park",
+          "amenities": [
+            "WiFi",
+            "Parking",
+            "24/7"
+          ],
+          "businessRating": "3.8",
+          "priceLevel": 2
+        },
+        "query": {
+          "affinity": 0.9253499222395023,
+          "affinity_rank": 0.9316770186335404,
+          "popularity": 0.7371695178849145,
+          "intensity": 0.8707939298513373,
+          "demographicScore": 0.6821397560521371,
+          "trafficScore": 0.3308187515694854,
+          "proximityScore": 0.6268176539771674
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.9316770186335404,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_49",
+        "location": {
+          "latitude": 10.939636,
+          "longitude": 76.93176,
+          "geohash": "t9ywnx",
+          "name": "City Mall (10.940, 76.932)",
+          "type": "hotel",
+          "address": "536 Street, Coimbatore, Tamil Nadu",
+          "category": "hotel",
+          "amenities": [
+            "WiFi",
+            "Parking"
+          ],
+          "businessRating": "4.4",
+          "priceLevel": 3
+        },
+        "query": {
+          "affinity": 0.9237947122861586,
+          "affinity_rank": 0.9315910837817064,
+          "popularity": 0.8553654743390358,
+          "intensity": 0.9056048523506861,
+          "demographicScore": 0.7901821022665432,
+          "trafficScore": 0.3597268264488614,
+          "proximityScore": 0.9518769675672144
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.9315910837817064,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_50",
+        "location": {
+          "latitude": 11.120911,
+          "longitude": 76.94275,
+          "geohash": "t9yxqb",
+          "name": "Green Park (11.121, 76.943)",
+          "type": "park",
+          "address": "131 Street, Coimbatore, Tamil Nadu",
+          "category": "park",
+          "amenities": [
+            "WiFi"
+          ],
+          "businessRating": "4.1",
+          "priceLevel": 3
+        },
+        "query": {
+          "affinity": 0.9222395023328149,
+          "affinity_rank": 0.9304174950298211,
+          "popularity": 0.7122861586314152,
+          "intensity": 0.8617068970314969,
+          "demographicScore": 0.6568984324547888,
+          "trafficScore": 0.762732471733615,
+          "proximityScore": 0.7920352071234473
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.9304174950298211,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_51",
+        "location": {
+          "latitude": 11.302185,
+          "longitude": 76.953735,
+          "geohash": "tdn8r1",
+          "name": "City Mall (11.302, 76.954)",
+          "type": "park",
+          "address": "36 Street, Coimbatore, Tamil Nadu",
+          "category": "park",
+          "amenities": [
+            "Parking",
+            "AC"
+          ],
+          "businessRating": "4.5",
+          "priceLevel": 4
+        },
+        "query": {
+          "affinity": 0.9206842923794712,
+          "affinity_rank": 0.9286498353457738,
+          "popularity": 0.9875583203732504,
+          "intensity": 0.9431361636674958,
+          "demographicScore": 0.9092294333763052,
+          "trafficScore": 0.771555215589971,
+          "proximityScore": 0.6028791873732511
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.9286498353457738,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_52",
+        "location": {
+          "latitude": 11.000061,
+          "longitude": 77.08557,
+          "geohash": "t9yyd4",
+          "name": "Cultural Center (11.000, 77.086)",
+          "type": "shop",
+          "address": "7 Street, Coimbatore, Tamil Nadu",
+          "category": "shop",
+          "amenities": [
+            "WiFi",
+            "24/7"
+          ],
+          "businessRating": "4.7",
+          "priceLevel": 2
+        },
+        "query": {
+          "affinity": 0.9191290824261276,
+          "affinity_rank": 0.9274965800273598,
+          "popularity": 0.6376360808709176,
+          "intensity": 0.8371914312399343,
+          "demographicScore": 0.5860698659326786,
+          "trafficScore": 0.3643929049373437,
+          "proximityScore": 0.5588854715015232
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.9274965800273598,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_53",
+        "location": {
+          "latitude": 11.071472,
+          "longitude": 76.97571,
+          "geohash": "t9ywzx",
+          "name": "Tech Hub (11.071, 76.976)",
+          "type": "restaurant",
+          "address": "869 Street, Coimbatore, Tamil Nadu",
+          "category": "restaurant",
+          "amenities": [
+            "Parking"
+          ],
+          "businessRating": "3.2",
+          "priceLevel": 1
+        },
+        "query": {
+          "affinity": 0.9175738724727839,
+          "affinity_rank": 0.9269792467332821,
+          "popularity": 0.4354587869362364,
+          "intensity": 0.7757609590899692,
+          "demographicScore": 0.39956560543138336,
+          "trafficScore": 0.3408769657980253,
+          "proximityScore": 0.6125167692043679
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.9269792467332821,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_54",
+        "location": {
+          "latitude": 10.533142,
+          "longitude": 76.97571,
+          "geohash": "t9yezt",
+          "name": "Central Plaza (10.533, 76.976)",
+          "type": "school",
+          "address": "273 Street, Coimbatore, Tamil Nadu",
+          "category": "school",
+          "amenities": [
+            "Parking"
+          ],
+          "businessRating": "4.0",
+          "priceLevel": 2
+        },
+        "query": {
+          "affinity": 0.9160186625194401,
+          "affinity_rank": 0.9230769230769231,
+          "popularity": 0.5272161741835147,
+          "intensity": 0.8014953941859074,
+          "demographicScore": 0.4829398547341993,
+          "trafficScore": 0.797948235823507,
+          "proximityScore": 0.7808104912177082
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.9230769230769231,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_55",
+        "location": {
+          "latitude": 10.972595,
+          "longitude": 76.96472,
+          "geohash": "t9ywrm",
+          "name": "Food Court (10.973, 76.965)",
+          "type": "entertainment",
+          "address": "822 Street, Coimbatore, Tamil Nadu",
+          "category": "entertainment",
+          "amenities": [
+            "Parking"
+          ],
+          "businessRating": "4.1",
+          "priceLevel": 1
+        },
+        "query": {
+          "affinity": 0.9144634525660964,
+          "affinity_rank": 0.9223674096848578,
+          "popularity": 0.7231726283048211,
+          "intensity": 0.8594473924233422,
+          "demographicScore": 0.661314938480925,
+          "trafficScore": 0.3803573235832254,
+          "proximityScore": 0.8264426992754996
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.9223674096848578,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_56",
+        "location": {
+          "latitude": 11.054993,
+          "longitude": 76.99768,
+          "geohash": "t9yybh",
+          "name": "Food Court (11.055, 76.998)",
+          "type": "hotel",
+          "address": "171 Street, Coimbatore, Tamil Nadu",
+          "category": "hotel",
+          "amenities": [
+            "WiFi",
+            "24/7"
+          ],
+          "businessRating": "3.4",
+          "priceLevel": 1
+        },
+        "query": {
+          "affinity": 0.911353032659409,
+          "affinity_rank": 0.9192886456908345,
+          "popularity": 0.9766718506998445,
+          "intensity": 0.9333293619809673,
+          "demographicScore": 0.8900928530483808,
+          "trafficScore": 0.9771763792216979,
+          "proximityScore": 0.7903287003561718
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.9192886456908345,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_57",
+        "location": {
+          "latitude": 11.230774,
+          "longitude": 77.107544,
+          "geohash": "t9yzfs",
+          "name": "City Mall (11.231, 77.108)",
+          "type": "mall",
+          "address": "687 Street, Coimbatore, Tamil Nadu",
+          "category": "mall",
+          "amenities": [
+            "Parking",
+            "24/7"
+          ],
+          "businessRating": "3.3",
+          "priceLevel": 4
+        },
+        "query": {
+          "affinity": 0.911353032659409,
+          "affinity_rank": 0.9192886456908345,
+          "popularity": 0.8942457231726283,
+          "intensity": 0.9086015237228025,
+          "demographicScore": 0.8149735517560812,
+          "trafficScore": 0.6992248794800517,
+          "proximityScore": 0.5181288367743386
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.9192886456908345,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_58",
+        "location": {
+          "latitude": 11.24176,
+          "longitude": 76.96472,
+          "geohash": "t9yxzq",
+          "name": "Food Court (11.242, 76.965)",
+          "type": "shop",
+          "address": "564 Street, Coimbatore, Tamil Nadu",
+          "category": "shop",
+          "amenities": [],
+          "businessRating": "3.9",
+          "priceLevel": 3
+        },
+        "query": {
+          "affinity": 0.9097978227060654,
+          "affinity_rank": 0.9184890656063618,
+          "popularity": 0.8491446345256609,
+          "intensity": 0.8942092391220331,
+          "demographicScore": 0.7725499396539839,
+          "trafficScore": 0.5994593222870843,
+          "proximityScore": 0.7857870128640817
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.9184890656063618,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_59",
+        "location": {
+          "latitude": 11.071472,
+          "longitude": 76.93176,
+          "geohash": "t9ywyx",
+          "name": "Central Plaza (11.071, 76.932)",
+          "type": "shop",
+          "address": "289 Street, Coimbatore, Tamil Nadu",
+          "category": "shop",
+          "amenities": [
+            "AC"
+          ],
+          "businessRating": "3.3",
+          "priceLevel": 4
+        },
+        "query": {
+          "affinity": 0.9082426127527217,
+          "affinity_rank": 0.9177555726364335,
+          "popularity": 0.7993779160186625,
+          "intensity": 0.8784370916976174,
+          "demographicScore": 0.7260290870216157,
+          "trafficScore": 0.9742109336056288,
+          "proximityScore": 0.6060502580281786
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.9177555726364335,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_60",
+        "location": {
+          "latitude": 10.950623,
+          "longitude": 76.93176,
+          "geohash": "t9ywq9",
+          "name": "Cultural Center (10.951, 76.932)",
+          "type": "cafe",
+          "address": "906 Street, Coimbatore, Tamil Nadu",
+          "category": "cafe",
+          "amenities": [
+            "Parking",
+            "24/7"
+          ],
+          "businessRating": "3.3",
+          "priceLevel": 4
+        },
+        "query": {
+          "affinity": 0.9066874027993779,
+          "affinity_rank": 0.9131437355880092,
+          "popularity": 0.7091757387247278,
+          "intensity": 0.8493708034135723,
+          "demographicScore": 0.6430007086726537,
+          "trafficScore": 0.2643328640365679,
+          "proximityScore": 0.7279853001719192
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.9131437355880092,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_61",
+        "location": {
+          "latitude": 10.643005,
+          "longitude": 77.00867,
+          "geohash": "t9yu83",
+          "name": "Food Court (10.643, 77.009)",
+          "type": "mall",
+          "address": "939 Street, Coimbatore, Tamil Nadu",
+          "category": "mall",
+          "amenities": [
+            "Parking",
+            "AC"
+          ],
+          "businessRating": "4.3",
+          "priceLevel": 1
+        },
+        "query": {
+          "affinity": 0.9051321928460342,
+          "affinity_rank": 0.9125475285171103,
+          "popularity": 0.5645412130637636,
+          "intensity": 0.8051794996126759,
+          "demographicScore": 0.5109844261323645,
+          "trafficScore": 0.7558268631020872,
+          "proximityScore": 0.8557668347619234
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.9125475285171103,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_62",
+        "location": {
+          "latitude": 11.027527,
+          "longitude": 77.03064,
+          "geohash": "t9yy8z",
+          "name": "Green Park (11.028, 77.031)",
+          "type": "shop",
+          "address": "300 Street, Coimbatore, Tamil Nadu",
+          "category": "shop",
+          "amenities": [
+            "WiFi"
+          ],
+          "businessRating": "4.6",
+          "priceLevel": 3
+        },
+        "query": {
+          "affinity": 0.9020217729393468,
+          "affinity_rank": 0.9110807113543091,
+          "popularity": 0.8911353032659409,
+          "intensity": 0.9014735135618137,
+          "demographicScore": 0.8038234461807865,
+          "trafficScore": 0.9202485724406466,
+          "proximityScore": 0.5439091202216685
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.9110807113543091,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_63",
+        "location": {
+          "latitude": 11.104431,
+          "longitude": 77.03064,
+          "geohash": "t9yz0v",
+          "name": "Central Plaza (11.104, 77.031)",
+          "type": "school",
+          "address": "800 Street, Coimbatore, Tamil Nadu",
+          "category": "school",
+          "amenities": [
+            "WiFi",
+            "Parking",
+            "AC"
+          ],
+          "businessRating": "3.1",
+          "priceLevel": 2
+        },
+        "query": {
+          "affinity": 0.9020217729393468,
+          "affinity_rank": 0.9110807113543091,
+          "popularity": 0.7262830482115086,
+          "intensity": 0.8520178370454841,
+          "demographicScore": 0.655123122803538,
+          "trafficScore": 0.6233280167336817,
+          "proximityScore": 0.953571921534672
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.9110807113543091,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_64",
+        "location": {
+          "latitude": 11.291199,
+          "longitude": 76.94275,
+          "geohash": "tdn8nz",
+          "name": "Tech Hub (11.291, 76.943)",
+          "type": "hospital",
+          "address": "388 Street, Coimbatore, Tamil Nadu",
+          "category": "hospital",
+          "amenities": [
+            "AC",
+            "24/7"
+          ],
+          "businessRating": "3.8",
+          "priceLevel": 2
+        },
+        "query": {
+          "affinity": 0.9004665629860031,
+          "affinity_rank": 0.9088913282107574,
+          "popularity": 0.5614307931570762,
+          "intensity": 0.8012832616047513,
+          "demographicScore": 0.505549656668658,
+          "trafficScore": 0.6565689703465365,
+          "proximityScore": 0.9514452308635215
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.9088913282107574,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_65",
+        "location": {
+          "latitude": 11.027527,
+          "longitude": 76.8988,
+          "geohash": "t9ywtz",
+          "name": "Central Plaza (11.028, 76.899)",
+          "type": "restaurant",
+          "address": "954 Street, Coimbatore, Tamil Nadu",
+          "category": "restaurant",
+          "amenities": [
+            "Parking",
+            "24/7"
+          ],
+          "businessRating": "3.8",
+          "priceLevel": 4
+        },
+        "query": {
+          "affinity": 0.8989113530326595,
+          "affinity_rank": 0.9085318985395849,
+          "popularity": 0.8398133748055988,
+          "intensity": 0.884068123216619,
+          "demographicScore": 0.7549177770414248,
+          "trafficScore": 0.22223231314121997,
+          "proximityScore": 0.7835087949652292
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.9085318985395849,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_66",
+        "location": {
+          "latitude": 11.098938,
+          "longitude": 76.953735,
+          "geohash": "t9yxph",
+          "name": "Tech Hub (11.099, 76.954)",
+          "type": "cafe",
+          "address": "152 Street, Coimbatore, Tamil Nadu",
+          "category": "cafe",
+          "amenities": [
+            "WiFi"
+          ],
+          "businessRating": "4.5",
+          "priceLevel": 3
+        },
+        "query": {
+          "affinity": 0.8973561430793157,
+          "affinity_rank": 0.9065606361829026,
+          "popularity": 0.4059097978227061,
+          "intensity": 0.752683587433409,
+          "demographicScore": 0.3642456506122883,
+          "trafficScore": 0.8548703826247355,
+          "proximityScore": 0.8424675326564128
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.9065606361829026,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_67",
+        "location": {
+          "latitude": 10.917664,
+          "longitude": 76.986694,
+          "geohash": "t9ywpg",
+          "name": "Business District (10.918, 76.987)",
+          "type": "hospital",
+          "address": "48 Street, Coimbatore, Tamil Nadu",
+          "category": "hospital",
+          "amenities": [
+            "AC",
+            "24/7"
+          ],
+          "businessRating": "3.7",
+          "priceLevel": 2
+        },
+        "query": {
+          "affinity": 0.895800933125972,
+          "affinity_rank": 0.9039200614911607,
+          "popularity": 0.9160186625194401,
+          "intensity": 0.904301990453569,
+          "demographicScore": 0.8205703726457192,
+          "trafficScore": 0.7092399196837564,
+          "proximityScore": 0.8687338511263551
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.9039200614911607,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_68",
+        "location": {
+          "latitude": 10.989075,
+          "longitude": 76.99768,
+          "geohash": "t9yy80",
+          "name": "Food Court (10.989, 76.998)",
+          "type": "hotel",
+          "address": "46 Street, Coimbatore, Tamil Nadu",
+          "category": "hotel",
+          "amenities": [
+            "WiFi",
+            "24/7"
+          ],
+          "businessRating": "3.5",
+          "priceLevel": 1
+        },
+        "query": {
+          "affinity": 0.8926905132192846,
+          "affinity_rank": 0.9028727770177839,
+          "popularity": 0.9797822706065319,
+          "intensity": 0.9218727195750086,
+          "demographicScore": 0.874642337990901,
+          "trafficScore": 0.7002898260051453,
+          "proximityScore": 0.5577779753778321
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.9028727770177839,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_69",
+        "location": {
+          "latitude": 11.087952,
+          "longitude": 77.15149,
+          "geohash": "t9yz5d",
+          "name": "Green Park (11.088, 77.151)",
+          "type": "school",
+          "address": "147 Street, Coimbatore, Tamil Nadu",
+          "category": "school",
+          "amenities": [
+            "Parking",
+            "24/7"
+          ],
+          "businessRating": "4.5",
+          "priceLevel": 3
+        },
+        "query": {
+          "affinity": 0.8926905132192846,
+          "affinity_rank": 0.9028727770177839,
+          "popularity": 0.7636080870917574,
+          "intensity": 0.8570204645205763,
+          "demographicScore": 0.6816656951643372,
+          "trafficScore": 0.7005718147317346,
+          "proximityScore": 0.54114337222482
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.9028727770177839,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_70",
+        "location": {
+          "latitude": 11.022034,
+          "longitude": 76.93176,
+          "geohash": "t9ywww",
+          "name": "Tech Hub (11.022, 76.932)",
+          "type": "mall",
+          "address": "432 Street, Coimbatore, Tamil Nadu",
+          "category": "mall",
+          "amenities": [
+            "WiFi",
+            "Parking",
+            "AC"
+          ],
+          "businessRating": "3.1",
+          "priceLevel": 4
+        },
+        "query": {
+          "affinity": 0.8911353032659409,
+          "affinity_rank": 0.8993082244427364,
+          "popularity": 0.6998444790046656,
+          "intensity": 0.8361999323405969,
+          "demographicScore": 0.6236561220368171,
+          "trafficScore": 0.9939777577189972,
+          "proximityScore": 0.8635340647245991
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.8993082244427364,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_71",
+        "location": {
+          "latitude": 10.818787,
+          "longitude": 77.27234,
+          "geohash": "t9yvw3",
+          "name": "Cultural Center (10.819, 77.272)",
+          "type": "cafe",
+          "address": "546 Street, Coimbatore, Tamil Nadu",
+          "category": "cafe",
+          "amenities": [
+            "WiFi",
+            "Parking"
+          ],
+          "businessRating": "4.9",
+          "priceLevel": 4
+        },
+        "query": {
+          "affinity": 0.8895800933125972,
+          "affinity_rank": 0.8982035928143712,
+          "popularity": 0.3359253499222395,
+          "intensity": 0.7260707201460221,
+          "demographicScore": 0.2988325041298927,
+          "trafficScore": 0.29935733740808446,
+          "proximityScore": 0.7863972995896308
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.8982035928143712,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_72",
+        "location": {
+          "latitude": 10.516663,
+          "longitude": 76.953735,
+          "geohash": "t9yez4",
+          "name": "Central Plaza (10.517, 76.954)",
+          "type": "park",
+          "address": "883 Street, Coimbatore, Tamil Nadu",
+          "category": "park",
+          "amenities": [
+            "WiFi",
+            "Parking",
+            "AC",
+            "24/7"
+          ],
+          "businessRating": "4.8",
+          "priceLevel": 3
+        },
+        "query": {
+          "affinity": 0.8880248833592534,
+          "affinity_rank": 0.8959276018099548,
+          "popularity": 0.6640746500777605,
+          "intensity": 0.823210628910016,
+          "demographicScore": 0.5897148136771403,
+          "trafficScore": 0.4808872331612449,
+          "proximityScore": 0.9850933563745625
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.8959276018099548,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_73",
+        "location": {
+          "latitude": 10.994568,
+          "longitude": 76.94275,
+          "geohash": "t9ywwc",
+          "name": "City Mall (10.995, 76.943)",
+          "type": "school",
+          "address": "431 Street, Coimbatore, Tamil Nadu",
+          "category": "school",
+          "amenities": [
+            "WiFi",
+            "Parking",
+            "AC"
+          ],
+          "businessRating": "3.8",
+          "priceLevel": 3
+        },
+        "query": {
+          "affinity": 0.8864696734059098,
+          "affinity_rank": 0.8946963873943121,
+          "popularity": 0.776049766718507,
+          "intensity": 0.8558117155962096,
+          "demographicScore": 0.6879445832496873,
+          "trafficScore": 0.22188653252739493,
+          "proximityScore": 0.5687764677231459
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.8946963873943121,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_74",
+        "location": {
+          "latitude": 11.022034,
+          "longitude": 77.074585,
+          "geohash": "t9yy9y",
+          "name": "Central Plaza (11.022, 77.075)",
+          "type": "hospital",
+          "address": "666 Street, Coimbatore, Tamil Nadu",
+          "category": "hospital",
+          "amenities": [
+            "WiFi",
+            "AC",
+            "24/7"
+          ],
+          "businessRating": "4.7",
+          "priceLevel": 3
+        },
+        "query": {
+          "affinity": 0.8849144634525661,
+          "affinity_rank": 0.8946648426812586,
+          "popularity": 0.5583203732503889,
+          "intensity": 0.7898613501605207,
+          "demographicScore": 0.49406577352950426,
+          "trafficScore": 0.6451378588537824,
+          "proximityScore": 0.8175237010322063
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.8946648426812586,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_75",
+        "location": {
+          "latitude": 11.104431,
+          "longitude": 76.94275,
+          "geohash": "t9yxnv",
+          "name": "Cultural Center (11.104, 76.943)",
+          "type": "entertainment",
+          "address": "594 Street, Coimbatore, Tamil Nadu",
+          "category": "entertainment",
+          "amenities": [
+            "AC"
+          ],
+          "businessRating": "4.9",
+          "priceLevel": 2
+        },
+        "query": {
+          "affinity": 0.8833592534992224,
+          "affinity_rank": 0.8946322067594433,
+          "popularity": 0.7340590979782271,
+          "intensity": 0.8419510928209901,
+          "demographicScore": 0.6484378968143593,
+          "trafficScore": 0.7511395624233004,
+          "proximityScore": 0.6452618587874269
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.8946322067594433,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_76",
+        "location": {
+          "latitude": 11.011047,
+          "longitude": 76.832886,
+          "geohash": "t9ywsk",
+          "name": "Shopping Complex (11.011, 76.833)",
+          "type": "hospital",
+          "address": "110 Street, Coimbatore, Tamil Nadu",
+          "category": "hospital",
+          "amenities": [
+            "WiFi",
+            "Parking"
+          ],
+          "businessRating": "4.5",
+          "priceLevel": 4
+        },
+        "query": {
+          "affinity": 0.8818040435458787,
+          "affinity_rank": 0.8900845503458877,
+          "popularity": 0.7713841368584758,
+          "intensity": 0.8511622235796605,
+          "demographicScore": 0.6802096510089515,
+          "trafficScore": 0.9594886571692951,
+          "proximityScore": 0.507987978101289
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.8900845503458877,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_77",
+        "location": {
+          "latitude": 11.011047,
+          "longitude": 76.99768,
+          "geohash": "t9yy8h",
+          "name": "City Mall (11.011, 76.998)",
+          "type": "office",
+          "address": "838 Street, Coimbatore, Tamil Nadu",
+          "category": "office",
+          "amenities": [
+            "WiFi"
+          ],
+          "businessRating": "4.1",
+          "priceLevel": 3
+        },
+        "query": {
+          "affinity": 0.8786936236391913,
+          "affinity_rank": 0.8864569083447332,
+          "popularity": 0.9502332814930016,
+          "intensity": 0.902484506406997,
+          "demographicScore": 0.8349639254176453,
+          "trafficScore": 0.7353179683776443,
+          "proximityScore": 0.9660228944413453
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.8864569083447332,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_78",
+        "location": {
+          "latitude": 11.181335,
+          "longitude": 77.08557,
+          "geohash": "t9yzd5",
+          "name": "Business District (11.181, 77.086)",
+          "type": "entertainment",
+          "address": "501 Street, Coimbatore, Tamil Nadu",
+          "category": "entertainment",
+          "amenities": [
+            "Parking",
+            "24/7"
+          ],
+          "businessRating": "3.0",
+          "priceLevel": 3
+        },
+        "query": {
+          "affinity": 0.8786936236391913,
+          "affinity_rank": 0.8864569083447332,
+          "popularity": 0.6034214618973561,
+          "intensity": 0.7984409605283034,
+          "demographicScore": 0.5302225909362461,
+          "trafficScore": 0.2326907751367916,
+          "proximityScore": 0.9308619056154055
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.8864569083447332,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_79",
+        "location": {
+          "latitude": 11.054993,
+          "longitude": 76.84387,
+          "geohash": "t9ywus",
+          "name": "City Mall (11.055, 76.844)",
+          "type": "hotel",
+          "address": "482 Street, Coimbatore, Tamil Nadu",
+          "category": "hotel",
+          "amenities": [
+            "WiFi"
+          ],
+          "businessRating": "3.3",
+          "priceLevel": 2
+        },
+        "query": {
+          "affinity": 0.8771384136858476,
+          "affinity_rank": 0.8854727132974635,
+          "popularity": 0.6531881804043546,
+          "intensity": 0.8124536335848844,
+          "demographicScore": 0.5729364443982208,
+          "trafficScore": 0.5334236175581695,
+          "proximityScore": 0.935002145793476
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.8854727132974635,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_80",
+        "location": {
+          "latitude": 11.164856,
+          "longitude": 76.953735,
+          "geohash": "t9yxx0",
+          "name": "Food Court (11.165, 76.954)",
+          "type": "office",
+          "address": "978 Street, Coimbatore, Tamil Nadu",
+          "category": "office",
+          "amenities": [
+            "WiFi",
+            "Parking",
+            "AC",
+            "24/7"
+          ],
+          "businessRating": "3.8",
+          "priceLevel": 1
+        },
+        "query": {
+          "affinity": 0.8755832037325039,
+          "affinity_rank": 0.882703777335984,
+          "popularity": 0.4494556765163297,
+          "intensity": 0.7498811176486957,
+          "demographicScore": 0.3935358411799279,
+          "trafficScore": 0.8189667252033173,
+          "proximityScore": 0.8707968202103027
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.882703777335984,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_81",
+        "location": {
+          "latitude": 10.274963,
+          "longitude": 76.986694,
+          "geohash": "t9ydry",
+          "name": "Shopping Complex (10.275, 76.987)",
+          "type": "entertainment",
+          "address": "983 Street, Coimbatore, Tamil Nadu",
+          "category": "entertainment",
+          "amenities": [
+            "AC"
+          ],
+          "businessRating": "4.5",
+          "priceLevel": 4
+        },
+        "query": {
+          "affinity": 0.8740279937791602,
+          "affinity_rank": 0.8811188811188811,
+          "popularity": 0.48989113530326595,
+          "intensity": 0.7609142024383082,
+          "demographicScore": 0.42817856615930866,
+          "trafficScore": 0.9245314156265343,
+          "proximityScore": 0.5580167868573261
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.8811188811188811,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_83",
+        "location": {
+          "latitude": 11.060486,
+          "longitude": 77.03064,
+          "geohash": "t9yybv",
+          "name": "Tech Hub (11.060, 77.031)",
+          "type": "hospital",
+          "address": "335 Street, Coimbatore, Tamil Nadu",
+          "category": "hospital",
+          "amenities": [
+            "Parking",
+            "AC",
+            "24/7"
+          ],
+          "businessRating": "4.6",
+          "priceLevel": 1
+        },
+        "query": {
+          "affinity": 0.8709175738724728,
+          "affinity_rank": 0.8782489740082079,
+          "popularity": 0.6982892690513219,
+          "intensity": 0.8213285024668481,
+          "demographicScore": 0.6081523960633597,
+          "trafficScore": 0.6247469390917395,
+          "proximityScore": 0.5897577162329602
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.8782489740082079,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_84",
+        "location": {
+          "latitude": 10.950623,
+          "longitude": 76.986694,
+          "geohash": "t9ywrc",
+          "name": "City Mall (10.951, 76.987)",
+          "type": "restaurant",
+          "address": "264 Street, Coimbatore, Tamil Nadu",
+          "category": "restaurant",
+          "amenities": [
+            "WiFi",
+            "Parking"
+          ],
+          "businessRating": "4.4",
+          "priceLevel": 1
+        },
+        "query": {
+          "affinity": 0.8693623639191291,
+          "affinity_rank": 0.8762490392006149,
+          "popularity": 0.8460342146189735,
+          "intensity": 0.8644299217135283,
+          "demographicScore": 0.7355103047776147,
+          "trafficScore": 0.34630772160271467,
+          "proximityScore": 0.7429583326111122
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.8762490392006149,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_85",
+        "location": {
+          "latitude": 11.011047,
+          "longitude": 76.96472,
+          "geohash": "t9ywxk",
+          "name": "Business District (11.011, 76.965)",
+          "type": "hotel",
+          "address": "43 Street, Coimbatore, Tamil Nadu",
+          "category": "hotel",
+          "amenities": [
+            "Parking",
+            "AC",
+            "24/7"
+          ],
+          "businessRating": "3.2",
+          "priceLevel": 4
+        },
+        "query": {
+          "affinity": 0.8678071539657853,
+          "affinity_rank": 0.8716372021521906,
+          "popularity": 0.9906687402799378,
+          "intensity": 0.9058146443159527,
+          "demographicScore": 0.8597094200252026,
+          "trafficScore": 0.47512441586712595,
+          "proximityScore": 0.976401594063075
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.8716372021521906,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_86",
+        "location": {
+          "latitude": 11.104431,
+          "longitude": 76.986694,
+          "geohash": "t9yxpv",
+          "name": "Green Park (11.104, 76.987)",
+          "type": "office",
+          "address": "609 Street, Coimbatore, Tamil Nadu",
+          "category": "office",
+          "amenities": [
+            "Parking",
+            "24/7"
+          ],
+          "businessRating": "4.2",
+          "priceLevel": 1
+        },
+        "query": {
+          "affinity": 0.8662519440124417,
+          "affinity_rank": 0.8707753479125249,
+          "popularity": 0.8227060653188181,
+          "intensity": 0.8545452015743795,
+          "demographicScore": 0.712670728433253,
+          "trafficScore": 0.25118977469093073,
+          "proximityScore": 0.7334335069223581
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.8707753479125249,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_87",
+        "location": {
+          "latitude": 11.038513,
+          "longitude": 77.00867,
+          "geohash": "t9yyb3",
+          "name": "Central Plaza (11.039, 77.009)",
+          "type": "park",
+          "address": "558 Street, Coimbatore, Tamil Nadu",
+          "category": "park",
+          "amenities": [
+            "WiFi",
+            "AC"
+          ],
+          "businessRating": "4.6",
+          "priceLevel": 2
+        },
+        "query": {
+          "affinity": 0.864696734059098,
+          "affinity_rank": 0.8700410396716827,
+          "popularity": 0.6329704510108864,
+          "intensity": 0.7967821408284099,
+          "demographicScore": 0.5473274817450278,
+          "trafficScore": 0.8501853269239896,
+          "proximityScore": 0.5146373217697081
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.8700410396716827,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_88",
+        "location": {
+          "latitude": 11.291199,
+          "longitude": 76.8988,
+          "geohash": "tdn8jz",
+          "name": "Tech Hub (11.291, 76.899)",
+          "type": "shop",
+          "address": "15 Street, Coimbatore, Tamil Nadu",
+          "category": "shop",
+          "amenities": [
+            "WiFi",
+            "Parking",
+            "AC"
+          ],
+          "businessRating": "3.8",
+          "priceLevel": 4
+        },
+        "query": {
+          "affinity": 0.8631415241057543,
+          "affinity_rank": 0.8693743139407245,
+          "popularity": 0.3110419906687403,
+          "intensity": 0.6993815010251412,
+          "demographicScore": 0.2684732578867043,
+          "trafficScore": 0.5746739354501843,
+          "proximityScore": 0.6294432774379114
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.8693743139407245,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_89",
+        "location": {
+          "latitude": 10.857239,
+          "longitude": 76.865845,
+          "geohash": "t9ytv0",
+          "name": "Tech Hub (10.857, 76.866)",
+          "type": "cafe",
+          "address": "543 Street, Coimbatore, Tamil Nadu",
+          "category": "cafe",
+          "amenities": [
+            "Parking",
+            "AC"
+          ],
+          "businessRating": "3.8",
+          "priceLevel": 3
+        },
+        "query": {
+          "affinity": 0.8615863141524106,
+          "affinity_rank": 0.8672150411280846,
+          "popularity": 0.7869362363919129,
+          "intensity": 0.8408799089169634,
+          "demographicScore": 0.6780134913858783,
+          "trafficScore": 0.999041463364484,
+          "proximityScore": 0.8649769344492141
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.8672150411280846,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_90",
+        "location": {
+          "latitude": 10.994568,
+          "longitude": 76.96472,
+          "geohash": "t9ywx3",
+          "name": "City Mall (10.995, 76.965)",
+          "type": "mall",
+          "address": "677 Street, Coimbatore, Tamil Nadu",
+          "category": "mall",
+          "amenities": [
+            "24/7"
+          ],
+          "businessRating": "4.1",
+          "priceLevel": 2
+        },
+        "query": {
+          "affinity": 0.8600311041990669,
+          "affinity_rank": 0.8670253651037664,
+          "popularity": 0.9937791601866252,
+          "intensity": 0.9022537992667443,
+          "demographicScore": 0.8546809884653246,
+          "trafficScore": 0.8332210723279736,
+          "proximityScore": 0.6265475150364784
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.8670253651037664,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_91",
+        "location": {
+          "latitude": 10.653992,
+          "longitude": 77.03064,
+          "geohash": "t9yu8g",
+          "name": "Business District (10.654, 77.031)",
+          "type": "restaurant",
+          "address": "295 Street, Coimbatore, Tamil Nadu",
+          "category": "restaurant",
+          "amenities": [
+            "24/7"
+          ],
+          "businessRating": "3.2",
+          "priceLevel": 3
+        },
+        "query": {
+          "affinity": 0.8584758942457231,
+          "affinity_rank": 0.8669201520912547,
+          "popularity": 0.8413685847589425,
+          "intensity": 0.8558769787533484,
+          "demographicScore": 0.7222946481911916,
+          "trafficScore": 0.7436963269080195,
+          "proximityScore": 0.64083566821173
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.8669201520912547,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_92",
+        "location": {
+          "latitude": 10.956116,
+          "longitude": 76.92078,
+          "geohash": "t9ywq6",
+          "name": "Green Park (10.956, 76.921)",
+          "type": "hospital",
+          "address": "549 Street, Coimbatore, Tamil Nadu",
+          "category": "hospital",
+          "amenities": [
+            "AC"
+          ],
+          "businessRating": "4.6",
+          "priceLevel": 4
+        },
+        "query": {
+          "affinity": 0.8569206842923794,
+          "affinity_rank": 0.862413528055342,
+          "popularity": 0.505443234836703,
+          "intensity": 0.7531253025845652,
+          "demographicScore": 0.43312476266722133,
+          "trafficScore": 0.9967004612330375,
+          "proximityScore": 0.8348312205774431
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.862413528055342,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_93",
+        "location": {
+          "latitude": 10.818787,
+          "longitude": 77.01965,
+          "geohash": "t9yv89",
+          "name": "Food Court (10.819, 77.020)",
+          "type": "park",
+          "address": "203 Street, Coimbatore, Tamil Nadu",
+          "category": "park",
+          "amenities": [
+            "Parking",
+            "AC",
+            "24/7"
+          ],
+          "businessRating": "4.7",
+          "priceLevel": 4
+        },
+        "query": {
+          "affinity": 0.8553654743390358,
+          "affinity_rank": 0.8622754491017964,
+          "popularity": 0.864696734059098,
+          "intensity": 0.8602378446838826,
+          "demographicScore": 0.7396317320878754,
+          "trafficScore": 0.2976644707808571,
+          "proximityScore": 0.5995233557973533
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.8622754491017964,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_94",
+        "location": {
+          "latitude": 11.016541,
+          "longitude": 76.99768,
+          "geohash": "t9yy8j",
+          "name": "Central Plaza (11.017, 76.998)",
+          "type": "school",
+          "address": "721 Street, Coimbatore, Tamil Nadu",
+          "category": "school",
+          "amenities": [
+            "WiFi",
+            "AC"
+          ],
+          "businessRating": "3.3",
+          "priceLevel": 3
+        },
+        "query": {
+          "affinity": 0.8522550544323484,
+          "affinity_rank": 0.8618331053351573,
+          "popularity": 0.6205287713841369,
+          "intensity": 0.7856105847887276,
+          "demographicScore": 0.5288487818328258,
+          "trafficScore": 0.5805353966521294,
+          "proximityScore": 0.5745127704823664
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.8618331053351573,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_95",
+        "location": {
+          "latitude": 11.230774,
+          "longitude": 77.12952,
+          "geohash": "t9yzgh",
+          "name": "Cultural Center (11.231, 77.130)",
+          "type": "school",
+          "address": "129 Street, Coimbatore, Tamil Nadu",
+          "category": "school",
+          "amenities": [
+            "AC",
+            "24/7"
+          ],
+          "businessRating": "3.8",
+          "priceLevel": 1
+        },
+        "query": {
+          "affinity": 0.8522550544323484,
+          "affinity_rank": 0.8618331053351573,
+          "popularity": 0.37947122861586313,
+          "intensity": 0.7132933219582455,
+          "demographicScore": 0.32340627259952254,
+          "trafficScore": 0.570137410938283,
+          "proximityScore": 0.8804813436643085
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.8618331053351573,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      },
+      {
+        "id": "heatmap_96",
+        "location": {
+          "latitude": 11.159363,
+          "longitude": 76.94275,
+          "geohash": "t9yxqz",
+          "name": "Business District (11.159, 76.943)",
+          "type": "cafe",
+          "address": "54 Street, Coimbatore, Tamil Nadu",
+          "category": "cafe",
+          "amenities": [
+            "WiFi",
+            "AC",
+            "24/7"
+          ],
+          "businessRating": "3.3",
+          "priceLevel": 1
+        },
+        "query": {
+          "affinity": 0.8506998444790047,
+          "affinity_rank": 0.8588469184890656,
+          "popularity": 0.8351477449455676,
+          "intensity": 0.8484783368219918,
+          "demographicScore": 0.7104600567421859,
+          "trafficScore": 0.561589653626752,
+          "proximityScore": 0.6522364741008884
+        },
+        "metadata": {
+          "timestamp": "2025-08-01T13:04:35.507Z",
+          "dataSource": "locationiq_heatmap",
+          "confidence": 0.8588469184890656,
+          "lastUpdated": "2025-08-01T13:04:35.507Z"
+        }
+      }
+    ],
+    "summary": {
+      "totalPoints": 96,
+      "avgIntensity": 0.8619870429696043,
+      "topCategory": "restaurant",
+      "coverageArea": "6852.75",
+      "qualityScore": 0.9257873250388803
+    }
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "endpoint": "compare_entities",
+  "timestamp": "2025-08-01T13:05:14.189Z",
+  "sessionId": "1754048202796",
+  "metadata": {
+    "entityA": "64204EC5-9065-440A-9E4F-CB0691630FC5",
+    "entityB": "B387FADE-EBAA-4AD5-838E-33EE2FBA296B"
+  },
+  "data": {
+    "tags": [
+      {
+        "name": "Place",
+        "type": "urn:tag",
+        "subtype": "urn:tag:genre:place",
+        "entity_id": "69142520-E6CC-47A4-A12E-526BC0B5A764",
+        "popularity": 1,
+        "query": {
+          "score": 0.7310585786300049
+        }
+      },
+      {
+        "name": "Restaurant",
+        "type": "urn:tag",
+        "subtype": "urn:tag:genre:place",
+        "entity_id": "47BA6D7D-8A7D-4092-B356-CBA3480873CA",
+        "popularity": 0.999998731320277,
+        "query": {
+          "score": 0.7310583325312605
+        }
+      },
+      {
+        "name": "Coffee",
+        "type": "urn:tag",
+        "subtype": "urn:tag:offerings:place",
+        "entity_id": "93805461-CACD-4EF5-9CE1-D4D96FE84BB9",
+        "popularity": 0.9999951367277282,
+        "query": {
+          "score": 0.7310576176721956
+        }
+      },
+      {
+        "name": "Dessert",
+        "type": "urn:tag",
+        "subtype": "urn:tag:dining_options:place",
+        "entity_id": "76C6F436-8FB9-4C83-A774-CE6B563981B7",
+        "popularity": 0.9999930222615231,
+        "query": {
+          "score": 0.7310572075066161
+        }
+      },
+      {
+        "name": "Vegetarian Meals",
+        "type": "urn:tag",
+        "subtype": "urn:tag:offerings:place",
+        "entity_id": "A33DE81E-09E6-4383-8A68-973D5A3C0983",
+        "popularity": 0.9999794896778104,
+        "query": {
+          "score": 0.7310545472802589
+        }
+      },
+      {
+        "name": "Coffee Shop",
+        "type": "urn:tag",
+        "subtype": "urn:tag:category:place",
+        "entity_id": "6DDB7993-086E-43D3-9367-525BAD62E7EB",
+        "popularity": 0.9999752607454001,
+        "query": {
+          "score": 0.7310537152236662
+        }
+      },
+      {
+        "name": "Coffee Shop",
+        "type": "urn:tag",
+        "subtype": "urn:tag:genre:place",
+        "entity_id": "84FE0455-9A8B-4828-8E8F-CE833F036288",
+        "popularity": 0.9999737806190565,
+        "query": {
+          "score": 0.7310534222456054
+        }
+      },
+      {
+        "name": "Sweet",
+        "type": "urn:tag",
+        "subtype": "urn:tag:flavor:place",
+        "entity_id": "27F79595-E825-4379-B059-28DE4ADE7DE0",
+        "popularity": 0,
+        "query": {
+          "score": 0.562175448260313
+        }
+      },
+      {
+        "name": "Vegetarian",
+        "type": "urn:tag",
+        "subtype": "urn:tag:dietary_accommodations:place",
+        "entity_id": "3657C519-1254-4754-AC5F-62C4DBB37B79",
+        "popularity": 0,
+        "query": {
+          "score": 0.562175448260313
+        }
+      },
+      {
+        "name": "Relaxed",
+        "type": "urn:tag",
+        "subtype": "urn:tag:characteristic:place",
+        "entity_id": "37C4EA83-3B42-4C95-AAA7-DE2ED2D57CE7",
+        "popularity": 0,
+        "query": {
+          "score": 0.562175448260313
+        }
+      },
+      {
+        "name": "Gluten Free",
+        "type": "urn:tag",
+        "subtype": "urn:tag:dietary_accommodations:place",
+        "entity_id": "3F1E09FB-251A-48ED-9546-04C075272880",
+        "popularity": 0,
+        "query": {
+          "score": 0.562175448260313
+        }
+      },
+      {
+        "name": "Vegan",
+        "type": "urn:tag",
+        "subtype": "urn:tag:dietary_accommodations:place",
+        "entity_id": "5D69FE46-A52C-4FDF-9A00-8155D2612861",
+        "popularity": 0,
+        "query": {
+          "score": 0.562175448260313
+        }
+      },
+      {
+        "name": "Casual",
+        "type": "urn:tag",
+        "subtype": "urn:tag:characteristic:place",
+        "entity_id": "86CEB6C1-3B01-4B29-B197-17937F7F9224",
+        "popularity": 0,
+        "query": {
+          "score": 0.562175448260313
+        }
+      },
+      {
+        "name": "Relaxed",
+        "type": "urn:tag",
+        "subtype": "urn:tag:experience:place",
+        "entity_id": "A172D2AF-2072-4AA9-A849-EFE5DC833B38",
+        "popularity": 0,
+        "query": {
+          "score": 0.562175448260313
+        }
+      },
+      {
+        "name": "Casual",
+        "type": "urn:tag",
+        "subtype": "urn:tag:experience:place",
+        "entity_id": "B1600D2B-3B56-4A7A-8A23-DED66AE016E0",
+        "popularity": 0,
+        "query": {
+          "score": 0.562175448260313
+        }
+      },
+      {
+        "name": "Social",
+        "type": "urn:tag",
+        "subtype": "urn:tag:characteristic:place",
+        "entity_id": "B87EBC07-EB81-43DC-8E81-406837DBD7F5",
+        "popularity": 0,
+        "query": {
+          "score": 0.562175448260313
+        }
+      },
+      {
+        "name": "Social",
+        "type": "urn:tag",
+        "subtype": "urn:tag:experience:place",
+        "entity_id": "C4E87AA6-B8EC-4B96-B944-0A3918AF9DDA",
+        "popularity": 0,
+        "query": {
+          "score": 0.562175448260313
+        }
+      },
+      {
+        "name": "Pastries",
+        "type": "urn:tag",
+        "subtype": "urn:tag:ingredient:place",
+        "entity_id": "D192A67D-221B-4F02-9573-A8A8803A3ED2",
+        "popularity": 0,
+        "query": {
+          "score": 0.562175448260313
+        }
+      },
+      {
+        "name": "Average",
+        "type": "urn:tag",
+        "subtype": "urn:tag:health:place",
+        "entity_id": "E7E022E0-0367-43A0-8699-EE738E3F3B50",
+        "popularity": 0,
+        "query": {
+          "score": 0.562175448260313
+        }
+      },
+      {
+        "name": "Baking",
+        "type": "urn:tag",
+        "subtype": "urn:tag:cooking_method:place",
+        "entity_id": "F2030EB2-CD0F-44D8-9B21-980D5ADECDC3",
+        "popularity": 0,
+        "query": {
+          "score": 0.562175448260313
+        }
+      }
+    ],
+    "entities": []
+  }
+}

@@ -1,0 +1,5205 @@
+{
+  "endpoint": "artist_insights",
+  "timestamp": "2025-08-01T11:39:38.098Z",
+  "sessionId": "1754048202796",
+  "metadata": {
+    "location": "Coimbatore",
+    "age": "25_to_29",
+    "take": "15"
+  },
+  "data": [
+    {
+      "name": "G. V. Prakash",
+      "entity_id": "987EF4A4-2130-477C-B8E4-8AC2DF0960C8",
+      "type": "urn:entity",
+      "subtype": "urn:entity:artist",
+      "properties": {
+        "akas": [
+          {
+            "value": "G. V. Prakash Kumar",
+            "languages": [
+              "id"
+            ]
+          },
+          {
+            "value": "जी. वी. प्रकाश कुमार",
+            "languages": [
+              "hi"
+            ]
+          },
+          {
+            "value": "G. V. Prakash Kumar",
+            "languages": [
+              "sq"
+            ]
+          },
+          {
+            "value": "G·V·普拉卡什·库马尔",
+            "languages": [
+              "zh"
+            ]
+          },
+          {
+            "value": "जि.व्ही.प्रकाशकुमार",
+            "languages": [
+              "mr"
+            ]
+          },
+          {
+            "value": "G・V・プラカーシュ・クマール",
+            "languages": [
+              "ja"
+            ]
+          },
+          {
+            "value": "ஜி. வி. பிரகாஷ் குமார்",
+            "languages": [
+              "ta"
+            ]
+          },
+          {
+            "value": "G. V. Prakash Kumar",
+            "languages": [
+              "pt"
+            ]
+          },
+          {
+            "value": "G. V. Prakash Kumar",
+            "languages": [
+              "sl"
+            ]
+          },
+          {
+            "value": "ജി.വി. പ്രകാശ്കുമാർ",
+            "languages": [
+              "ml"
+            ]
+          },
+          {
+            "value": "G. V. Prakash Kumar",
+            "languages": [
+              "nl"
+            ]
+          },
+          {
+            "value": "जी.व्ही. प्रकाशकुमार",
+            "languages": [
+              "mr"
+            ]
+          },
+          {
+            "value": "Г. В. Пракаш Кумар",
+            "languages": [
+              "ru"
+            ]
+          },
+          {
+            "value": "G. V. Prakash Kumar",
+            "languages": [
+              "fr"
+            ]
+          },
+          {
+            "value": "G. V. Prakash Kumar",
+            "languages": [
+              "es"
+            ]
+          },
+          {
+            "value": "G. V. Prakash Kumar",
+            "languages": [
+              "de"
+            ]
+          },
+          {
+            "value": "G. V. Prakash Kumar",
+            "languages": [
+              "ga"
+            ]
+          },
+          {
+            "value": "GV Prakash Kumar",
+            "languages": [
+              "ms"
+            ]
+          },
+          {
+            "value": "జి. వి. ప్రకాష్",
+            "languages": [
+              "te"
+            ]
+          },
+          {
+            "value": "G. V. Prakash Kumar",
+            "languages": [
+              "ca"
+            ]
+          },
+          {
+            "value": "G. V. Prakash Kumar",
+            "languages": [
+              "fi"
+            ]
+          }
+        ],
+        "short_descriptions": [
+          {
+            "value": "Indian composer, singer, and actor known for his work in Tamil cinema.",
+            "languages": [
+              "en"
+            ]
+          }
+        ],
+        "image": {
+          "url": "https://images.qloo.com/i/987EF4A4-2130-477C-B8E4-8AC2DF0960C8-420x-auto.jpg"
+        }
+      },
+      "popularity": 0.5941884747866982,
+      "query": {
+        "affinity": 0.9989412752915723,
+        "measurements": {
+          "audience_growth": 0
+        }
+      },
+      "disambiguation": "G. V. Prakash",
+      "external": {
+        "wikidata": [
+          {
+            "id": "q5512526"
+          }
+        ],
+        "twitter": [
+          {
+            "id": "gvprakash"
+          }
+        ],
+        "imdb": [
+          {
+            "id": "nm1574854"
+          }
+        ],
+        "facebook": [
+          {
+            "id": "g.v.prakash"
+          }
+        ],
+        "musicbrainz": [
+          {
+            "id": "a740619d-27d6-46da-a438-7b9bc70d6633",
+            "artist_type": "Person"
+          }
+        ],
+        "spotify": [
+          {
+            "id": "5VVN3xZw1i2qihfITZlvCZ",
+            "followers": 768649,
+            "monthly_listeners": 1999110,
+            "first_release": 2006,
+            "last_release": 2020,
+            "verified": true
+          }
+        ]
+      }
+    },
+    {
+      "name": "Anirudh Ravichander",
+      "entity_id": "5A206DF6-6266-473F-9996-630902823985",
+      "type": "urn:entity",
+      "subtype": "urn:entity:artist",
+      "properties": {
+        "akas": [
+          {
+            "value": "அனிருத் ரவிச்சந்திரன்",
+            "languages": [
+              "ta"
+            ]
+          },
+          {
+            "value": "Anirudh Ravichander",
+            "languages": [
+              "tr"
+            ]
+          },
+          {
+            "value": "అనిరుద్ రవిచందర్",
+            "languages": [
+              "te"
+            ]
+          },
+          {
+            "value": "Anirudh Ravichander",
+            "languages": [
+              "nl"
+            ]
+          },
+          {
+            "value": "Anirudh Ravichander",
+            "languages": [
+              "ca"
+            ]
+          },
+          {
+            "value": "انیرود روی چندر",
+            "languages": [
+              "ur"
+            ]
+          },
+          {
+            "value": "ଅନିମୁଦ୍ଧ ରବିଚନ୍ଦର",
+            "languages": [
+              "or"
+            ]
+          },
+          {
+            "value": "Anirudh Ravichander",
+            "languages": [
+              "nb"
+            ]
+          },
+          {
+            "value": "Anirudh Ravichander",
+            "languages": [
+              "sl"
+            ]
+          },
+          {
+            "value": "অনিরুদ্ধ রবিচন্দ্রন",
+            "languages": [
+              "bn"
+            ]
+          },
+          {
+            "value": "Anirudh Ravichander",
+            "languages": [
+              "it"
+            ]
+          },
+          {
+            "value": "Anirudh Ravichander",
+            "languages": [
+              "fr"
+            ]
+          },
+          {
+            "value": "Anirudh Ravichander",
+            "languages": [
+              "es"
+            ]
+          },
+          {
+            "value": "阿尼魯德·拉維昌德",
+            "languages": [
+              "zh"
+            ]
+          },
+          {
+            "value": "ಅನಿರುಧ್ ರವಿಚಂದರ್",
+            "languages": [
+              "kn"
+            ]
+          },
+          {
+            "value": "Anirudh Ravichander",
+            "languages": [
+              "de"
+            ]
+          },
+          {
+            "value": "අනිරුධ් රවිචන්දර්",
+            "languages": [
+              "si"
+            ]
+          },
+          {
+            "value": "Anirudh Ravichander",
+            "languages": [
+              "da"
+            ]
+          },
+          {
+            "value": "アニルッド",
+            "languages": [
+              "ja"
+            ]
+          },
+          {
+            "value": "Anirudh",
+            "languages": [
+              "en"
+            ]
+          },
+          {
+            "value": "അനിരുദ്ധ് രവിചന്ദർ",
+            "languages": [
+              "ml"
+            ]
+          },
+          {
+            "value": "安鲁德·拉维奇德",
+            "languages": [
+              "zh"
+            ]
+          },
+          {
+            "value": "أنايرود",
+            "languages": [
+              "ar"
+            ]
+          },
+          {
+            "value": "アニルド・ラヴィチャンダル",
+            "languages": [
+              "ja"
+            ]
+          },
+          {
+            "value": "Анируд Равичандер",
+            "languages": [
+              "ru"
+            ]
+          },
+          {
+            "value": "Anirudh Ravichander",
+            "languages": [
+              "sq"
+            ]
+          },
+          {
+            "value": "Anirudh Ravichander",
+            "languages": [
+              "ga"
+            ]
+          },
+          {
+            "value": "अनिरुद्ध रविचंदर",
+            "languages": [
+              "hi"
+            ]
+          },
+          {
+            "value": "アニルーダ・ラヴィチャンダル",
+            "languages": [
+              "ja"
+            ]
+          }
+        ],
+        "short_descriptions": [
+          {
+            "value": "Indian music composer and singer known for his work in Tamil cinema.",
+            "languages": [
+              "en"
+            ]
+          }
+        ],
+        "date_of_birth": "1990-10-16",
+        "place_of_birth": "Chennai, Tamil Nadu, India",
+        "image": {
+          "url": "https://images.qloo.com/i/5A206DF6-6266-473F-9996-630902823985-420x-auto.jpg"
+        }
+      },
+      "popularity": 0.881242598958878,
+      "tags": [
+        {
+          "id": "urn:tag:genre:music:alternative_rock",
+          "name": "Alternative Rock",
+          "type": "urn:tag:genre:music"
+        },
+        {
+          "id": "urn:tag:genre:music:rock",
+          "name": "Rock",
+          "type": "urn:tag:genre:music"
+        },
+        {
+          "id": "urn:tag:genre:music:tamil",
+          "name": "Tamil",
+          "type": "urn:tag:genre:music"
+        }
+      ],
+      "query": {
+        "affinity": 0.9988886481717619,
+        "measurements": {
+          "audience_growth": -0.1598438704110371
+        }
+      },
+      "disambiguation": "Anirudh Ravichander",
+      "external": {
+        "instagram": [
+          {
+            "id": "anirudhofficial"
+          }
+        ],
+        "wikidata": [
+          {
+            "id": "q4765271"
+          }
+        ],
+        "twitter": [
+          {
+            "id": "anirudhofficial"
+          }
+        ],
+        "imdb": [
+          {
+            "id": "nm4794064"
+          }
+        ],
+        "facebook": [
+          {
+            "id": "anirudhofficial"
+          }
+        ],
+        "lastfm": [
+          {
+            "id": "anirudh%20ravichander",
+            "listeners": 107787,
+            "scrobbles": 8178663
+          }
+        ],
+        "musicbrainz": [
+          {
+            "id": "cf76861a-c1f5-456d-8d17-5994d05eecf8",
+            "artist_type": "Person"
+          }
+        ],
+        "spotify": [
+          {
+            "id": "4zCH9qm4R2DADamUHMCa6O",
+            "followers": 3140331,
+            "monthly_listeners": 2635660,
+            "first_release": 1999,
+            "last_release": 2020,
+            "verified": true
+          }
+        ]
+      }
+    },
+    {
+      "name": "Hiphop Tamizha",
+      "entity_id": "801553AB-4335-43F2-9A9B-46971F9931E6",
+      "type": "urn:entity",
+      "subtype": "urn:entity:artist",
+      "properties": {
+        "akas": [
+          {
+            "value": "Hiphop Tamizha",
+            "languages": [
+              "nl"
+            ]
+          },
+          {
+            "value": "Hiphop Tamizha",
+            "languages": [
+              "pt"
+            ]
+          },
+          {
+            "value": "Hiphop Tamizha",
+            "languages": [
+              "se"
+            ]
+          },
+          {
+            "value": "Hiphop Tamizha",
+            "languages": [
+              "it"
+            ]
+          },
+          {
+            "value": "Hiphop Tamizha",
+            "languages": [
+              "es"
+            ]
+          },
+          {
+            "value": "Hiphop Tamizha",
+            "languages": [
+              "sv"
+            ]
+          },
+          {
+            "value": "Hiphop Tamizha",
+            "languages": [
+              "ca"
+            ]
+          },
+          {
+            "value": "Hiphop Tamizha",
+            "languages": [
+              "nn"
+            ]
+          },
+          {
+            "value": "Hiphop Tamizha",
+            "languages": [
+              "fr"
+            ]
+          },
+          {
+            "value": "Hiphop Tamizha",
+            "languages": [
+              "sq"
+            ]
+          },
+          {
+            "value": "హిప్హాప్ తమిజా",
+            "languages": [
+              "te"
+            ]
+          },
+          {
+            "value": "Hiphop Tamizha",
+            "languages": [
+              "ro"
+            ]
+          },
+          {
+            "value": "Hiphop Tamizha",
+            "languages": [
+              "da"
+            ]
+          },
+          {
+            "value": "Hiphop Tamizha",
+            "languages": [
+              "pl"
+            ]
+          },
+          {
+            "value": "Hiphop Tamizha",
+            "languages": [
+              "id"
+            ]
+          },
+          {
+            "value": "Hiphop Tamizha",
+            "languages": [
+              "de"
+            ]
+          },
+          {
+            "value": "Hiphop Tamizha",
+            "languages": [
+              "tr"
+            ]
+          },
+          {
+            "value": "Hiphop Tamizha",
+            "languages": [
+              "ha"
+            ]
+          },
+          {
+            "value": "Hiphop Tamizha",
+            "languages": [
+              "hu"
+            ]
+          },
+          {
+            "value": "ஹிப்பாப் தமிழா",
+            "languages": [
+              "ta"
+            ]
+          },
+          {
+            "value": "Hiphop Tamizha",
+            "languages": [
+              "nb"
+            ]
+          },
+          {
+            "value": "Hiphop Tamizha",
+            "languages": [
+              "eu"
+            ]
+          },
+          {
+            "value": "கிப்கொப் தமிழா",
+            "languages": [
+              "ta"
+            ]
+          },
+          {
+            "value": "Хип-хоп Тамижа",
+            "languages": [
+              "ru"
+            ]
+          },
+          {
+            "value": "Hiphop Tamizha",
+            "languages": [
+              "fi"
+            ]
+          }
+        ],
+        "short_descriptions": [
+          {
+            "value": "Indian musical duo known for pioneering Tamil hip hop and film music.",
+            "languages": [
+              "en"
+            ]
+          }
+        ],
+        "image": {
+          "url": "https://images.qloo.com/i/801553AB-4335-43F2-9A9B-46971F9931E6-420x-auto.jpg"
+        }
+      },
+      "popularity": 0.6977507582377173,
+      "tags": [
+        {
+          "id": "urn:tag:genre:music:indian",
+          "name": "Indian",
+          "type": "urn:tag:genre:music"
+        },
+        {
+          "id": "urn:tag:genre:music:hip_hop",
+          "name": "Hip - Hop",
+          "type": "urn:tag:genre:music"
+        },
+        {
+          "id": "urn:tag:genre:music:all",
+          "name": "All",
+          "type": "urn:tag:genre:music"
+        }
+      ],
+      "query": {
+        "affinity": 0.9987927238766691,
+        "measurements": {
+          "audience_growth": 0
+        }
+      },
+      "disambiguation": "Hiphop Tamizha",
+      "external": {
+        "instagram": [
+          {
+            "id": "hiphoptamizha"
+          }
+        ],
+        "wikidata": [
+          {
+            "id": "q14565611"
+          }
+        ],
+        "twitter": [
+          {
+            "id": "hiphoptamizha"
+          }
+        ],
+        "imdb": [
+          {
+            "id": "nm5657066"
+          }
+        ],
+        "facebook": [
+          {
+            "id": "hiphoptamizha"
+          }
+        ],
+        "lastfm": [
+          {
+            "id": "hiphop%20tamizha",
+            "listeners": 19061,
+            "scrobbles": 867886
+          }
+        ],
+        "musicbrainz": [
+          {
+            "id": "3eca58c1-7927-4f79-ac0c-01844e04899c",
+            "artist_type": "Group"
+          }
+        ],
+        "spotify": [
+          {
+            "id": "7zFBW2JxM4bgTTKxCRcS8Q",
+            "followers": 1657014,
+            "monthly_listeners": 1364185,
+            "first_release": 2012,
+            "last_release": 2020,
+            "verified": true
+          }
+        ]
+      }
+    },
+    {
+      "name": "Yuvan",
+      "entity_id": "E5DD0C42-4CC7-46C0-BCE8-87D75528E2ED",
+      "type": "urn:entity",
+      "subtype": "urn:entity:artist",
+      "properties": {
+        "image": {
+          "url": "https://images.qloo.com/i/E5DD0C42-4CC7-46C0-BCE8-87D75528E2ED-420x-auto.jpg"
+        }
+      },
+      "popularity": 0.30358522456993836,
+      "query": {
+        "affinity": 0.9986526755382003,
+        "measurements": {
+          "audience_growth": 0
+        }
+      },
+      "disambiguation": "Yuvan",
+      "external": {}
+    },
+    {
+      "name": "Yuvan Shankar Raja",
+      "entity_id": "37B587E9-ABD1-4F81-9529-FC56E2906F07",
+      "type": "urn:entity",
+      "subtype": "urn:entity:artist",
+      "properties": {
+        "akas": [
+          {
+            "value": "尤万·申科尔·拉杰",
+            "languages": [
+              "zh"
+            ]
+          },
+          {
+            "value": "Yuvan Shankar Raja",
+            "languages": [
+              "es"
+            ]
+          },
+          {
+            "value": "Yuvan Shankar Raja",
+            "languages": [
+              "de"
+            ]
+          },
+          {
+            "value": "யுவன் ஷங்கர் ராஜா",
+            "languages": [
+              "ta"
+            ]
+          },
+          {
+            "value": "Yuvan Shankar Raja",
+            "languages": [
+              "fi"
+            ]
+          },
+          {
+            "value": "യുവൻ ശങ്കർ രാജ",
+            "languages": [
+              "ml"
+            ]
+          },
+          {
+            "value": "Yuvan Shankar Raja",
+            "languages": [
+              "su"
+            ]
+          },
+          {
+            "value": "Yuvan Shankar Raja",
+            "languages": [
+              "nl"
+            ]
+          },
+          {
+            "value": "Yuvan Shankar Raja",
+            "languages": [
+              "fr"
+            ]
+          },
+          {
+            "value": "युवन शंकर राजा",
+            "languages": [
+              "mr"
+            ]
+          },
+          {
+            "value": "யுவன் சங்கர் ராஜா",
+            "languages": [
+              "ta"
+            ]
+          },
+          {
+            "value": "যুবন শঙ্কর রাজা",
+            "languages": [
+              "bn"
+            ]
+          },
+          {
+            "value": "ユーヴァン・シャンカール・ラージャ",
+            "languages": [
+              "ja"
+            ]
+          },
+          {
+            "value": "Yuvan Shankar Raja",
+            "languages": [
+              "sq"
+            ]
+          },
+          {
+            "value": "Yuvan Shankar Raja",
+            "languages": [
+              "ca"
+            ]
+          },
+          {
+            "value": "Yuvan Shankar Raja",
+            "languages": [
+              "ms"
+            ]
+          },
+          {
+            "value": "Yuvan Shankar Raja",
+            "languages": [
+              "eu"
+            ]
+          },
+          {
+            "value": "Yuvan Shankar Raja",
+            "languages": [
+              "id"
+            ]
+          },
+          {
+            "value": "युवान शंकर राजा",
+            "languages": [
+              "hi"
+            ]
+          },
+          {
+            "value": "Yuvan Shankar Raja",
+            "languages": [
+              "jv"
+            ]
+          },
+          {
+            "value": "Yuvan Shankar Raja",
+            "languages": [
+              "sl"
+            ]
+          },
+          {
+            "value": "Yuvan Shankar Raja",
+            "languages": [
+              "hu"
+            ]
+          },
+          {
+            "value": "Yuvan Shankar Raja",
+            "languages": [
+              "ga"
+            ]
+          },
+          {
+            "value": "Yuvan Shankar Raja",
+            "languages": [
+              "pt"
+            ]
+          },
+          {
+            "value": "Yuvan Shankar Raja",
+            "languages": [
+              "nb"
+            ]
+          },
+          {
+            "value": "యువన్ శంకర్ రాజా",
+            "languages": [
+              "te"
+            ]
+          },
+          {
+            "value": "Юван Шанкар Раджа",
+            "languages": [
+              "ru"
+            ]
+          }
+        ],
+        "short_descriptions": [
+          {
+            "value": "Indian film composer and singer known for his work in Tamil cinema.",
+            "languages": [
+              "en"
+            ]
+          }
+        ],
+        "date_of_birth": "1979-08-31",
+        "place_of_birth": "Chennai, Tamil Nadu, India",
+        "image": {
+          "url": "https://images.qloo.com/i/37B587E9-ABD1-4F81-9529-FC56E2906F07-420x-auto.jpg"
+        }
+      },
+      "popularity": 0.8658653018950039,
+      "tags": [
+        {
+          "id": "urn:tag:genre:music:tamil",
+          "name": "Tamil",
+          "type": "urn:tag:genre:music"
+        },
+        {
+          "id": "urn:tag:genre:music:soundtrack",
+          "name": "Soundtrack",
+          "type": "urn:tag:genre:music"
+        },
+        {
+          "id": "urn:tag:genre:music:indian",
+          "name": "Indian",
+          "type": "urn:tag:genre:music"
+        }
+      ],
+      "query": {
+        "affinity": 0.9986453907687005,
+        "measurements": {
+          "audience_growth": 0.18711413004584404
+        }
+      },
+      "disambiguation": "Yuvan Shankar Raja",
+      "external": {
+        "instagram": [
+          {
+            "id": "itsyuvan"
+          }
+        ],
+        "wikidata": [
+          {
+            "id": "q1387724"
+          }
+        ],
+        "twitter": [
+          {
+            "id": "thisisysr"
+          },
+          {
+            "id": "raja_yuvan"
+          }
+        ],
+        "imdb": [
+          {
+            "id": "nm1421776"
+          }
+        ],
+        "facebook": [
+          {
+            "id": "u1records"
+          }
+        ],
+        "lastfm": [
+          {
+            "id": "yuvan%20shankar%20raja",
+            "listeners": 38110,
+            "scrobbles": 1829792
+          }
+        ],
+        "musicbrainz": [
+          {
+            "id": "94439fdd-273b-4255-9608-04cb1969fcfa",
+            "artist_type": "Person"
+          }
+        ],
+        "spotify": [
+          {
+            "id": "6AiX12wXdXFoGJ2vk8zBjy",
+            "followers": 1843112,
+            "monthly_listeners": 1803615,
+            "first_release": 1991,
+            "last_release": 2020,
+            "verified": true
+          }
+        ]
+      }
+    },
+    {
+      "name": "A.R. Rahman",
+      "entity_id": "9986F595-C20E-4EBB-828F-55E7DEEBE448",
+      "type": "urn:entity",
+      "subtype": "urn:entity:artist",
+      "properties": {
+        "akas": [
+          {
+            "value": "Allah Rakha Rahman",
+            "languages": [
+              "en"
+            ]
+          },
+          {
+            "value": "Allah Rakha Rahman",
+            "languages": [
+              "id"
+            ]
+          },
+          {
+            "value": "A. R. Rahman",
+            "languages": [
+              "oc"
+            ]
+          },
+          {
+            "value": "A. R. Rahman",
+            "languages": [
+              "eu"
+            ]
+          },
+          {
+            "value": "A.R. Rahman",
+            "languages": [
+              "fi"
+            ]
+          },
+          {
+            "value": "Allah Rakha Rahman",
+            "languages": [
+              "de"
+            ]
+          },
+          {
+            "value": "阿拉·雷卡·拉曼",
+            "languages": [
+              "zh"
+            ]
+          },
+          {
+            "value": "A. R. Rahman",
+            "languages": [
+              "pt"
+            ]
+          },
+          {
+            "value": "أي.أر. رحمان",
+            "languages": [
+              "ar"
+            ]
+          },
+          {
+            "value": "A. S. Dileep Kumar",
+            "languages": [
+              "cs"
+            ]
+          },
+          {
+            "value": "Rahman, A R",
+            "languages": [
+              "sv"
+            ]
+          },
+          {
+            "value": "ಎ. ಆರ್. ರಹಮಾನ್‌",
+            "languages": [
+              "kn"
+            ]
+          },
+          {
+            "value": "A.R. Rahman",
+            "languages": [
+              "tr"
+            ]
+          },
+          {
+            "value": "എ.ആർ.റഹ്മാൻ",
+            "languages": [
+              "ml"
+            ]
+          },
+          {
+            "value": "เอ.อาร์. ราห์มาน",
+            "languages": [
+              "th"
+            ]
+          },
+          {
+            "value": "Allahrakka Rahman",
+            "languages": [
+              "ro"
+            ]
+          },
+          {
+            "value": "ఏ.ఆర్.రెహమాన్",
+            "languages": [
+              "te"
+            ]
+          },
+          {
+            "value": "AR Rahman",
+            "languages": [
+              "fr"
+            ]
+          },
+          {
+            "value": "ए.आर. रेहमान",
+            "languages": [
+              "mr"
+            ]
+          },
+          {
+            "value": "ਏ. ਆਰ. ਰਹਿਮਾਨ",
+            "languages": [
+              "pa"
+            ]
+          },
+          {
+            "value": "Алла Ракха Рахман",
+            "languages": [
+              "ru"
+            ]
+          },
+          {
+            "value": "ఏ.ఆర్. రెహమాన్‌",
+            "languages": [
+              "te"
+            ]
+          },
+          {
+            "value": "A. R. Rahman",
+            "languages": [
+              "id"
+            ]
+          },
+          {
+            "value": "ए. आर. रहमान",
+            "languages": [
+              "hi"
+            ]
+          },
+          {
+            "value": "ए आर रहमान",
+            "languages": [
+              "hi"
+            ]
+          },
+          {
+            "value": "ஏ. ஆர். ரகுமான்",
+            "languages": [
+              "ta"
+            ]
+          },
+          {
+            "value": "A.R.ラフマーン",
+            "languages": [
+              "ja"
+            ]
+          },
+          {
+            "value": "ఎ. ఎస్‌. దిలీప్‌ కుమార్",
+            "languages": [
+              "te"
+            ]
+          },
+          {
+            "value": "A. R. Rahman",
+            "languages": [
+              "th"
+            ]
+          },
+          {
+            "value": "A.R.Rahman",
+            "languages": [
+              "th"
+            ]
+          },
+          {
+            "value": "அல்லா ரக்கா ரஹ்மான்",
+            "languages": [
+              "ta"
+            ]
+          },
+          {
+            "value": "എ. ആർ. റഹ്‌മാൻ",
+            "languages": [
+              "ml"
+            ]
+          },
+          {
+            "value": "এ. আর. রহমান",
+            "languages": [
+              "bn"
+            ]
+          },
+          {
+            "value": "A.R. Rahman",
+            "languages": [
+              "pl"
+            ]
+          },
+          {
+            "value": "اللہ رکھا رحمان",
+            "languages": [
+              "ur"
+            ]
+          },
+          {
+            "value": "ای ار رحمان",
+            "languages": [
+              "fa"
+            ]
+          },
+          {
+            "value": "Alla Rakha Rahman",
+            "languages": [
+              "ms"
+            ]
+          },
+          {
+            "value": "ای. ار. رحمان",
+            "languages": [
+              "fa"
+            ]
+          },
+          {
+            "value": "A. R. Rahman",
+            "languages": [
+              "ms"
+            ]
+          },
+          {
+            "value": "A. R. Rahman",
+            "languages": [
+              "fi"
+            ]
+          },
+          {
+            "value": "ரஹ்மான்",
+            "languages": [
+              "ta"
+            ]
+          },
+          {
+            "value": "A. R. Rahman",
+            "languages": [
+              "pl"
+            ]
+          },
+          {
+            "value": "ଏ. ଆର. ରେହମାନ",
+            "languages": [
+              "or"
+            ]
+          },
+          {
+            "value": "એ. આર. રહેમાન",
+            "languages": [
+              "gu"
+            ]
+          },
+          {
+            "value": "എ.ആർ. റഹ്മാൻ",
+            "languages": [
+              "ml"
+            ]
+          },
+          {
+            "value": "Ա․ Ռ․ Ռահման",
+            "languages": [
+              "hy"
+            ]
+          },
+          {
+            "value": "A.R. Rahman",
+            "languages": [
+              "de"
+            ]
+          },
+          {
+            "value": "A. R. Rahman",
+            "languages": [
+              "ro"
+            ]
+          },
+          {
+            "value": "A·R·拉曼",
+            "languages": [
+              "zh"
+            ]
+          },
+          {
+            "value": "A. R. 라만",
+            "languages": [
+              "ko"
+            ]
+          },
+          {
+            "value": "A. R. Rahman",
+            "languages": [
+              "su"
+            ]
+          },
+          {
+            "value": "ए आर रहमान",
+            "languages": [
+              "sa"
+            ]
+          },
+          {
+            "value": "ए. आर. रेहमान",
+            "languages": [
+              "mr"
+            ]
+          },
+          {
+            "value": "A. R. Rahman",
+            "languages": [
+              "ca"
+            ]
+          },
+          {
+            "value": "A. R. Rahman",
+            "languages": [
+              "it"
+            ]
+          },
+          {
+            "value": "A. R. Rahman",
+            "languages": [
+              "nl"
+            ]
+          },
+          {
+            "value": "Allahrakka Rahman",
+            "languages": [
+              "gl"
+            ]
+          },
+          {
+            "value": "আল্লাহ রাখা রহমান",
+            "languages": [
+              "bn"
+            ]
+          },
+          {
+            "value": "ఎ.ఆర్ రెహమాన్",
+            "languages": [
+              "te"
+            ]
+          },
+          {
+            "value": "A. R. Rahman",
+            "languages": [
+              "fr"
+            ]
+          },
+          {
+            "value": "א. ר. רהמן",
+            "languages": [
+              "he"
+            ]
+          },
+          {
+            "value": "ای آر رحمان",
+            "languages": [
+              "fa"
+            ]
+          },
+          {
+            "value": "A. R. Rahman",
+            "languages": [
+              "de"
+            ]
+          },
+          {
+            "value": "ఏ.ఆర్.రెహ్మాన్",
+            "languages": [
+              "te"
+            ]
+          },
+          {
+            "value": "Allah Rakha Rahman",
+            "languages": [
+              "fi"
+            ]
+          },
+          {
+            "value": "A. R. Rahman",
+            "languages": [
+              "ku"
+            ]
+          },
+          {
+            "value": "A R Rahman",
+            "languages": [
+              "ml"
+            ]
+          },
+          {
+            "value": "اے آر رحمان",
+            "languages": [
+              "ks"
+            ]
+          },
+          {
+            "value": "ए.आर.रहमान",
+            "languages": [
+              "mr"
+            ]
+          },
+          {
+            "value": "A.R. Rahman",
+            "languages": [
+              "nl"
+            ]
+          },
+          {
+            "value": "A.R. Rahman",
+            "languages": [
+              "it"
+            ]
+          },
+          {
+            "value": "ای. آر. رحمان",
+            "languages": [
+              "fa"
+            ]
+          },
+          {
+            "value": "เอ. อาร์. ราห์แมน",
+            "languages": [
+              "th"
+            ]
+          },
+          {
+            "value": "A. R. Rahman",
+            "languages": [
+              "gl"
+            ]
+          },
+          {
+            "value": "A. R. Rahman",
+            "languages": [
+              "sv"
+            ]
+          },
+          {
+            "value": "A. S. Dileep Kumar",
+            "languages": [
+              "tr"
+            ]
+          },
+          {
+            "value": "अल्लाह रक्खा रहमान",
+            "languages": [
+              "ne"
+            ]
+          },
+          {
+            "value": "ஏ. ஆர். ரஹ்மான்",
+            "languages": [
+              "ta"
+            ]
+          },
+          {
+            "value": "ఏ.ఆర్. రెహమాన్",
+            "languages": [
+              "te"
+            ]
+          },
+          {
+            "value": "ఎ.ఆర్. రెహ్మాన్",
+            "languages": [
+              "te"
+            ]
+          },
+          {
+            "value": "ఎ.ఆర్.రెహమాన్",
+            "languages": [
+              "te"
+            ]
+          },
+          {
+            "value": "ए. आर. रहमान",
+            "languages": [
+              "mr"
+            ]
+          },
+          {
+            "value": "এ. আৰ. ৰহমান",
+            "languages": [
+              "as"
+            ]
+          },
+          {
+            "value": "Аллах Ракха Рахман",
+            "languages": [
+              "bg"
+            ]
+          },
+          {
+            "value": "A.R Rahman",
+            "languages": [
+              "fr"
+            ]
+          },
+          {
+            "value": "ఎ.ఆర్. రహమాన్",
+            "languages": [
+              "te"
+            ]
+          },
+          {
+            "value": "Алла Ракха Рахман",
+            "languages": [
+              "uk"
+            ]
+          },
+          {
+            "value": "ए. आर्. रहमान्",
+            "languages": [
+              "sa"
+            ]
+          },
+          {
+            "value": "Allah Rakha Rahman",
+            "languages": [
+              "ca"
+            ]
+          },
+          {
+            "value": "Рахман, Аллах Ракха",
+            "languages": [
+              "ru"
+            ]
+          },
+          {
+            "value": "ఏ.ఆర్.రహమాన్",
+            "languages": [
+              "te"
+            ]
+          },
+          {
+            "value": "A.R. Rahman",
+            "languages": [
+              "eo"
+            ]
+          },
+          {
+            "value": "A.R. Rahman",
+            "languages": [
+              "da"
+            ]
+          },
+          {
+            "value": "A. R. Rehman",
+            "languages": [
+              "cs"
+            ]
+          },
+          {
+            "value": "AR Rahman",
+            "languages": [
+              "nl"
+            ]
+          },
+          {
+            "value": "എ.ആർ. റഹ്‌മാൻ",
+            "languages": [
+              "ml"
+            ]
+          },
+          {
+            "value": "എ. ആർ. റഹ്മാൻ",
+            "languages": [
+              "ml"
+            ]
+          },
+          {
+            "value": "A. R. Rahman",
+            "languages": [
+              "tr"
+            ]
+          },
+          {
+            "value": "A. R. Rahman",
+            "languages": [
+              "jv"
+            ]
+          },
+          {
+            "value": "Allah Rakha Rahman",
+            "languages": [
+              "pt"
+            ]
+          },
+          {
+            "value": "اے آر رحمان",
+            "languages": [
+              "ur"
+            ]
+          },
+          {
+            "value": "А. Р. Рахман",
+            "languages": [
+              "ru"
+            ]
+          },
+          {
+            "value": "এ আর রহমান",
+            "languages": [
+              "bn"
+            ]
+          },
+          {
+            "value": "A. R. Rahman",
+            "languages": [
+              "ml"
+            ]
+          },
+          {
+            "value": "A. R. Rakuman",
+            "languages": [
+              "cs"
+            ]
+          },
+          {
+            "value": "Allah Rakha Rahman",
+            "languages": [
+              "cs"
+            ]
+          },
+          {
+            "value": "ఎ.ఆర్ రెహ్మాన్",
+            "languages": [
+              "te"
+            ]
+          },
+          {
+            "value": "ए॰ आर॰ रहमान",
+            "languages": [
+              "hi"
+            ]
+          },
+          {
+            "value": "A. R. Rahman",
+            "languages": [
+              "hu"
+            ]
+          },
+          {
+            "value": "A.R.Rahman",
+            "languages": [
+              "de"
+            ]
+          },
+          {
+            "value": "A.R. Rahman",
+            "languages": [
+              "fr"
+            ]
+          },
+          {
+            "value": "Allahrakka Rahman",
+            "languages": [
+              "en"
+            ]
+          },
+          {
+            "value": "ఎ.ఆర్.రహమాన్",
+            "languages": [
+              "te"
+            ]
+          },
+          {
+            "value": "ए आर रहमान",
+            "languages": [
+              "ne"
+            ]
+          },
+          {
+            "value": "A.R. Rahman",
+            "languages": [
+              "ca"
+            ]
+          },
+          {
+            "value": "அ·ர·拉曼",
+            "languages": [
+              "zh"
+            ]
+          },
+          {
+            "value": "ఎ.ఆర్ రహ్మాన్",
+            "languages": [
+              "te"
+            ]
+          },
+          {
+            "value": "ଏ. ଆର. ରହମାନ",
+            "languages": [
+              "or"
+            ]
+          },
+          {
+            "value": "A. R. Rahman",
+            "languages": [
+              "es"
+            ]
+          },
+          {
+            "value": "A.R. Rahman",
+            "languages": [
+              "jv"
+            ]
+          },
+          {
+            "value": "A.R. Rahman",
+            "languages": [
+              "sv"
+            ]
+          },
+          {
+            "value": "A. S. Dileep Kumar",
+            "languages": [
+              "en"
+            ]
+          },
+          {
+            "value": "A R Rahman",
+            "languages": [
+              "nl"
+            ]
+          },
+          {
+            "value": "എ.ആർ. റഹ്മാൻ‍",
+            "languages": [
+              "ml"
+            ]
+          },
+          {
+            "value": "ఎ.ఆర్ రహమాన్",
+            "languages": [
+              "te"
+            ]
+          },
+          {
+            "value": "ඒ.ආර්. රහ්මන්",
+            "languages": [
+              "si"
+            ]
+          },
+          {
+            "value": "A. R. Rahman",
+            "languages": [
+              "nn"
+            ]
+          },
+          {
+            "value": "A. R. Rahman",
+            "languages": [
+              "sq"
+            ]
+          },
+          {
+            "value": "Allah Rakha Rahman",
+            "languages": [
+              "it"
+            ]
+          },
+          {
+            "value": "A.R. Rahman",
+            "languages": [
+              "sl"
+            ]
+          },
+          {
+            "value": "A.R. Rahman",
+            "languages": [
+              "nb"
+            ]
+          },
+          {
+            "value": "Alla Rakha Rahman",
+            "languages": [
+              "fr"
+            ]
+          },
+          {
+            "value": "A・R・ラフマーン",
+            "languages": [
+              "ja"
+            ]
+          },
+          {
+            "value": "Allah Rakha Rahman",
+            "languages": [
+              "tr"
+            ]
+          },
+          {
+            "value": "Allah Rakha Rahman",
+            "languages": [
+              "pl"
+            ]
+          },
+          {
+            "value": "Allah Rakha Rahman",
+            "languages": [
+              "sv"
+            ]
+          },
+          {
+            "value": "A.R. Rahman",
+            "languages": [
+              "es"
+            ]
+          },
+          {
+            "value": "ఎ.ఆర్. రెహమాన్",
+            "languages": [
+              "te"
+            ]
+          },
+          {
+            "value": "เอ.อาร์. ราห์แมน",
+            "languages": [
+              "th"
+            ]
+          },
+          {
+            "value": "A. R. Rahman",
+            "languages": [
+              "ga"
+            ]
+          },
+          {
+            "value": "A r rahman",
+            "languages": [
+              "es"
+            ]
+          },
+          {
+            "value": "ए.आर. रहमान",
+            "languages": [
+              "mr"
+            ]
+          },
+          {
+            "value": "Allah Rakha Rahman",
+            "languages": [
+              "ku"
+            ]
+          }
+        ],
+        "short_descriptions": [
+          {
+            "value": "A.R. Rahman is an Indian composer, singer, and music producer known for his film scores and soundtracks blending Indian classical music with electronic music.",
+            "languages": [
+              "en"
+            ]
+          }
+        ],
+        "image": {
+          "url": "https://images.qloo.com/i/9986F595-C20E-4EBB-828F-55E7DEEBE448-420x-auto.jpg"
+        }
+      },
+      "popularity": 0.9921055561365806,
+      "tags": [
+        {
+          "id": "urn:tag:genre:music:soundtrack",
+          "name": "Soundtrack",
+          "type": "urn:tag:genre:music"
+        },
+        {
+          "id": "urn:tag:genre:music:bollywood",
+          "name": "Bollywood",
+          "type": "urn:tag:genre:music"
+        },
+        {
+          "id": "urn:tag:genre:music:indian",
+          "name": "Indian",
+          "type": "urn:tag:genre:music"
+        },
+        {
+          "id": "urn:tag:genre:music:hindi",
+          "name": "Hindi",
+          "type": "urn:tag:genre:music"
+        }
+      ],
+      "query": {
+        "affinity": 0.9984218731543378,
+        "measurements": {
+          "audience_growth": 0.1124754583386882
+        }
+      },
+      "disambiguation": "A.R. Rahman",
+      "external": {
+        "instagram": [
+          {
+            "id": "arrahman"
+          }
+        ],
+        "wikidata": [
+          {
+            "id": "q108560"
+          }
+        ],
+        "twitter": [
+          {
+            "id": "arrahman"
+          }
+        ],
+        "imdb": [
+          {
+            "id": "nm0006246"
+          }
+        ],
+        "facebook": [
+          {
+            "id": "arrahman"
+          }
+        ],
+        "lastfm": [
+          {
+            "id": "a.r.%20rahman",
+            "listeners": 644935,
+            "scrobbles": 14484627
+          }
+        ],
+        "musicbrainz": [
+          {
+            "id": "e0bba708-bdd3-478d-84ea-c706413bedab",
+            "artist_type": "Person"
+          }
+        ],
+        "spotify": [
+          {
+            "id": "1mYsTxnqsietFxj1OgoGbG",
+            "followers": 9708138,
+            "monthly_listeners": 7924925,
+            "first_release": 2010,
+            "last_release": 2020,
+            "verified": true
+          }
+        ]
+      }
+    },
+    {
+      "name": "Devi Sri Prasad",
+      "entity_id": "342575BF-4DC4-46C3-A40E-A522FDF0AFFC",
+      "type": "urn:entity",
+      "subtype": "urn:entity:artist",
+      "properties": {
+        "akas": [
+          {
+            "value": "Devi Sri Prasad",
+            "languages": [
+              "sl"
+            ]
+          },
+          {
+            "value": "Деви Сри Прасад",
+            "languages": [
+              "ru"
+            ]
+          },
+          {
+            "value": "Devi Sri Prasad",
+            "languages": [
+              "es"
+            ]
+          },
+          {
+            "value": "Devi Sri Prasad",
+            "languages": [
+              "nl"
+            ]
+          },
+          {
+            "value": "தேவி ஸ்ரீ பிரசாத்",
+            "languages": [
+              "ta"
+            ]
+          },
+          {
+            "value": "দেৱী শ্ৰী প্ৰসাদ",
+            "languages": [
+              "as"
+            ]
+          },
+          {
+            "value": "దేవి శ్రీ ప్రసాద్",
+            "languages": [
+              "te"
+            ]
+          },
+          {
+            "value": "Devi Sri Prasad",
+            "languages": [
+              "ca"
+            ]
+          },
+          {
+            "value": "ଦେବୀ ଶ୍ରୀ ପ୍ରସାଦ",
+            "languages": [
+              "or"
+            ]
+          },
+          {
+            "value": "Devi Sri Prasad",
+            "languages": [
+              "sq"
+            ]
+          },
+          {
+            "value": "Devi Sri Prasad",
+            "languages": [
+              "ga"
+            ]
+          },
+          {
+            "value": "దేవిశ్రీప్రసాద్",
+            "languages": [
+              "te"
+            ]
+          },
+          {
+            "value": "డి. ఎస్. పి",
+            "languages": [
+              "te"
+            ]
+          },
+          {
+            "value": "Դևի Սրի Պրասադ",
+            "languages": [
+              "hy"
+            ]
+          },
+          {
+            "value": "دیوی سری پرساد",
+            "languages": [
+              "ur"
+            ]
+          },
+          {
+            "value": "DSP",
+            "languages": [
+              "en"
+            ]
+          },
+          {
+            "value": "דווי שרי פראסד",
+            "languages": [
+              "he"
+            ]
+          },
+          {
+            "value": "देवी श्री प्रसाद",
+            "languages": [
+              "hi"
+            ]
+          },
+          {
+            "value": "デーヴィ・シュリー・プラサード",
+            "languages": [
+              "ja"
+            ]
+          },
+          {
+            "value": "தேவி ஸ்ரீ பிரசாத்",
+            "languages": [
+              "ru"
+            ]
+          },
+          {
+            "value": "Devi Sri Prasad",
+            "languages": [
+              "fr"
+            ]
+          },
+          {
+            "value": "देवी श्री प्रसाद",
+            "languages": [
+              "mr"
+            ]
+          },
+          {
+            "value": "দেবী শ্রী প্রসাদ",
+            "languages": [
+              "bn"
+            ]
+          }
+        ],
+        "short_descriptions": [
+          {
+            "value": "Indian music composer and playback singer known for his work in Telugu and Tamil cinema.",
+            "languages": [
+              "en"
+            ]
+          }
+        ],
+        "date_of_birth": "1979-08-02",
+        "image": {
+          "url": "https://images.qloo.com/i/342575BF-4DC4-46C3-A40E-A522FDF0AFFC-420x-auto.jpg"
+        }
+      },
+      "popularity": 0.8112013386817628,
+      "tags": [
+        {
+          "id": "urn:tag:genre:music:indian",
+          "name": "Indian",
+          "type": "urn:tag:genre:music"
+        },
+        {
+          "id": "urn:tag:genre:music:tollywood",
+          "name": "Tollywood",
+          "type": "urn:tag:genre:music"
+        },
+        {
+          "id": "urn:tag:genre:music:tamil",
+          "name": "Tamil",
+          "type": "urn:tag:genre:music"
+        }
+      ],
+      "query": {
+        "affinity": 0.9979486789555586,
+        "measurements": {
+          "audience_growth": 0
+        }
+      },
+      "disambiguation": "Devi Sri Prasad",
+      "external": {
+        "instagram": [
+          {
+            "id": "thisisdsp"
+          }
+        ],
+        "wikidata": [
+          {
+            "id": "q3523638"
+          }
+        ],
+        "twitter": [
+          {
+            "id": "thisisdsp"
+          }
+        ],
+        "imdb": [
+          {
+            "id": "nm1196042"
+          }
+        ],
+        "facebook": [
+          {
+            "id": "thisisdsp"
+          }
+        ],
+        "lastfm": [
+          {
+            "id": "devi%20sri%20prasad",
+            "listeners": 34480,
+            "scrobbles": 785633
+          }
+        ],
+        "musicbrainz": [
+          {
+            "id": "fef84622-4761-483e-a821-a54651fb03df",
+            "artist_type": "Person"
+          }
+        ],
+        "spotify": [
+          {
+            "id": "5sSzCxHtgL82pYDvx2QyEU",
+            "followers": 2072311,
+            "monthly_listeners": 1703890,
+            "first_release": 1998,
+            "last_release": 2020,
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "name": "Imran Khan",
+      "entity_id": "E3D6696B-9B10-4578-B456-61BC5B13CD3E",
+      "type": "urn:entity",
+      "subtype": "urn:entity:artist",
+      "properties": {
+        "akas": [
+          {
+            "value": "imran khan",
+            "languages": [
+              "mr"
+            ]
+          },
+          {
+            "value": "Imran Khan",
+            "languages": [
+              "pl"
+            ]
+          },
+          {
+            "value": "Imran Khan",
+            "languages": [
+              "it"
+            ]
+          },
+          {
+            "value": "Imran Khan",
+            "languages": [
+              "es"
+            ]
+          },
+          {
+            "value": "Имран Кхан",
+            "languages": [
+              "ru"
+            ]
+          },
+          {
+            "value": "इमरान ख़ान (गायक)",
+            "languages": [
+              "hi"
+            ]
+          },
+          {
+            "value": "Imran Khan",
+            "languages": [
+              "tr"
+            ]
+          },
+          {
+            "value": "The King of Urban Punjabi Music",
+            "languages": [
+              "en"
+            ]
+          },
+          {
+            "value": "Imran Khan",
+            "languages": [
+              "sq"
+            ]
+          },
+          {
+            "value": "Imran Khan",
+            "languages": [
+              "nl"
+            ]
+          },
+          {
+            "value": "Zoya Amina",
+            "languages": [
+              "da"
+            ]
+          },
+          {
+            "value": "Imran khan (singer)",
+            "languages": [
+              "tr"
+            ]
+          },
+          {
+            "value": "ਇਮਰਾਨ ਖਾਨ",
+            "languages": [
+              "pa"
+            ]
+          },
+          {
+            "value": "ইমরান খান",
+            "languages": [
+              "bn"
+            ]
+          },
+          {
+            "value": "ఇమ్రాన్ ఖాన్",
+            "languages": [
+              "te"
+            ]
+          },
+          {
+            "value": "عمران خان",
+            "languages": [
+              "ar"
+            ]
+          },
+          {
+            "value": "Imran Khan",
+            "languages": [
+              "ca"
+            ]
+          },
+          {
+            "value": "عمران خان",
+            "languages": [
+              "ur"
+            ]
+          },
+          {
+            "value": "Imran Khan",
+            "languages": [
+              "fr"
+            ]
+          },
+          {
+            "value": "Imran Khan",
+            "languages": [
+              "sl"
+            ]
+          },
+          {
+            "value": "Imran Khan (singer)",
+            "languages": [
+              "tr"
+            ]
+          },
+          {
+            "value": "Imran Khan",
+            "languages": [
+              "de"
+            ]
+          },
+          {
+            "value": "イムラーン・カーン (歌手)",
+            "languages": [
+              "ja"
+            ]
+          }
+        ],
+        "short_descriptions": [
+          {
+            "value": "Imran Khan is a Dutch-Pakistani singer and songwriter known for his Punjabi and Bhangra music.",
+            "languages": [
+              "en"
+            ]
+          }
+        ],
+        "date_of_birth": "1984-02-07",
+        "place_of_birth": "The Hague, Zuid-Holland, Netherl",
+        "image": {
+          "url": "https://images.qloo.com/i/E3D6696B-9B10-4578-B456-61BC5B13CD3E-420x-auto.jpg"
+        }
+      },
+      "popularity": 0.9155193295795365,
+      "tags": [
+        {
+          "id": "urn:tag:genre:music:bhangra",
+          "name": "Bhangra",
+          "type": "urn:tag:genre:music"
+        },
+        {
+          "id": "urn:tag:genre:music:punjabi",
+          "name": "Punjabi",
+          "type": "urn:tag:genre:music"
+        }
+      ],
+      "query": {
+        "affinity": 0.9977417710749867,
+        "measurements": {
+          "audience_growth": -0.22242875196983047
+        }
+      },
+      "disambiguation": "Imran Khan",
+      "external": {
+        "instagram": [
+          {
+            "id": "imrankmusic"
+          },
+          {
+            "id": "imran_50"
+          },
+          {
+            "id": "imrankhanworld"
+          }
+        ],
+        "wikidata": [
+          {
+            "id": "q1660487"
+          }
+        ],
+        "twitter": [
+          {
+            "id": "imransitar"
+          },
+          {
+            "id": "imrankhanworld"
+          }
+        ],
+        "lastfm": [
+          {
+            "id": "imran%20khan",
+            "listeners": 80914,
+            "scrobbles": 1551868
+          }
+        ],
+        "musicbrainz": [
+          {
+            "id": "09afbc6e-ec61-4cfe-bd4a-811fbc6dcc62",
+            "artist_type": "Person"
+          }
+        ],
+        "spotify": [
+          {
+            "id": "68vntfkVU2b4nLDaBMYaOh",
+            "followers": 276,
+            "monthly_listeners": 6252,
+            "verified": true
+          },
+          {
+            "id": "1UrxT8kr1FXLymiN3SWpEP",
+            "followers": 6,
+            "monthly_listeners": 18,
+            "verified": false
+          },
+          {
+            "id": "24BYRlsS8uIO4jA71mJ4Js",
+            "followers": 656358,
+            "monthly_listeners": 1659480,
+            "verified": true
+          }
+        ]
+      }
+    },
+    {
+      "name": "Shreya Ghoshal",
+      "entity_id": "1B70567C-63F3-482C-9E6F-141FDD2B5746",
+      "type": "urn:entity",
+      "subtype": "urn:entity:artist",
+      "properties": {
+        "akas": [
+          {
+            "value": "श्रेया घोषाल",
+            "languages": [
+              "hi"
+            ]
+          },
+          {
+            "value": "শ্ৰেয়া ঘোষাল",
+            "languages": [
+              "as"
+            ]
+          },
+          {
+            "value": "Shreya Ghoshal",
+            "languages": [
+              "nn"
+            ]
+          },
+          {
+            "value": "ශ්‍රියා ගෝෂාල්",
+            "languages": [
+              "si"
+            ]
+          },
+          {
+            "value": "شرئييا",
+            "languages": [
+              "sd"
+            ]
+          },
+          {
+            "value": "シュレイヤ・ゴーシャル",
+            "languages": [
+              "ja"
+            ]
+          },
+          {
+            "value": "Гхошал, Шрея",
+            "languages": [
+              "ru"
+            ]
+          },
+          {
+            "value": "ஷ்ரேயா கோஷல்",
+            "languages": [
+              "ta"
+            ]
+          },
+          {
+            "value": "Papia Ghoshal",
+            "languages": [
+              "nl"
+            ]
+          },
+          {
+            "value": "شريا",
+            "languages": [
+              "ar"
+            ]
+          },
+          {
+            "value": "ശ്രേയ ഘോഷാൽ",
+            "languages": [
+              "ml"
+            ]
+          },
+          {
+            "value": "Shreya Ghoshal",
+            "languages": [
+              "tr"
+            ]
+          },
+          {
+            "value": "শ্রেয়া ঘোষাল",
+            "languages": [
+              "bn"
+            ]
+          },
+          {
+            "value": "슈레야 고샬",
+            "languages": [
+              "ko"
+            ]
+          },
+          {
+            "value": "Shreya",
+            "languages": [
+              "sw"
+            ]
+          },
+          {
+            "value": "Shreya Ghoshal",
+            "languages": [
+              "su"
+            ]
+          },
+          {
+            "value": "Шрея Гхошал",
+            "languages": [
+              "uk"
+            ]
+          },
+          {
+            "value": "श्रेया घोषाल",
+            "languages": [
+              "mr"
+            ]
+          },
+          {
+            "value": "Shreya Ghoshal",
+            "languages": [
+              "jv"
+            ]
+          },
+          {
+            "value": "Шрея Гхошал",
+            "languages": [
+              "ru"
+            ]
+          },
+          {
+            "value": "Shreya Ghoshal",
+            "languages": [
+              "es"
+            ]
+          },
+          {
+            "value": "شريا غوشال",
+            "languages": [
+              "ar"
+            ]
+          },
+          {
+            "value": "श्रेया",
+            "languages": [
+              "hi"
+            ]
+          },
+          {
+            "value": "Shreya Ghoshal",
+            "languages": [
+              "ms"
+            ]
+          },
+          {
+            "value": "شریا گھوشال",
+            "languages": [
+              "ur"
+            ]
+          },
+          {
+            "value": "Shreya Ghoshal",
+            "languages": [
+              "it"
+            ]
+          },
+          {
+            "value": "Shreya Ghoshal",
+            "languages": [
+              "sv"
+            ]
+          },
+          {
+            "value": "શ્રેયા",
+            "languages": [
+              "gu"
+            ]
+          },
+          {
+            "value": "Shreya Ghoshal",
+            "languages": [
+              "fi"
+            ]
+          },
+          {
+            "value": "Shreya Ghoshal",
+            "languages": [
+              "id"
+            ]
+          },
+          {
+            "value": "श्रेया घोषाल्",
+            "languages": [
+              "sa"
+            ]
+          },
+          {
+            "value": "Shreya Ghoshal",
+            "languages": [
+              "sl"
+            ]
+          },
+          {
+            "value": "شریا",
+            "languages": [
+              "fa"
+            ]
+          },
+          {
+            "value": "శ్రేయ ఘోషాల్",
+            "languages": [
+              "te"
+            ]
+          },
+          {
+            "value": "Shreya Ghoshal",
+            "languages": [
+              "uz"
+            ]
+          },
+          {
+            "value": "Shreya Ghoshal",
+            "languages": [
+              "pt"
+            ]
+          },
+          {
+            "value": "Shreya Ghoshal",
+            "languages": [
+              "da"
+            ]
+          },
+          {
+            "value": "Shreya Ghoshal",
+            "languages": [
+              "hu"
+            ]
+          },
+          {
+            "value": "Shreya Ghoshal",
+            "languages": [
+              "de"
+            ]
+          },
+          {
+            "value": "Shreya Ghoshal",
+            "languages": [
+              "lt"
+            ]
+          },
+          {
+            "value": "Shreya Ghoshal",
+            "languages": [
+              "vi"
+            ]
+          },
+          {
+            "value": "شريا گوشل",
+            "languages": [
+              "ps"
+            ]
+          },
+          {
+            "value": "舒蕾亞·戈沙爾",
+            "languages": [
+              "zh"
+            ]
+          },
+          {
+            "value": "شريا",
+            "languages": [
+              "sd"
+            ]
+          },
+          {
+            "value": "Shreya Ghoshal",
+            "languages": [
+              "af"
+            ]
+          },
+          {
+            "value": "Shreya Ghoshal",
+            "languages": [
+              "fr"
+            ]
+          },
+          {
+            "value": "Shreya Ghoshal",
+            "languages": [
+              "ca"
+            ]
+          },
+          {
+            "value": "श्रेया घोषाल",
+            "languages": [
+              "ne"
+            ]
+          },
+          {
+            "value": "Shreya Ghoshal",
+            "languages": [
+              "sq"
+            ]
+          },
+          {
+            "value": "சிரேயா கோசல்",
+            "languages": [
+              "ta"
+            ]
+          },
+          {
+            "value": "شريا گهوشال",
+            "languages": [
+              "sd"
+            ]
+          },
+          {
+            "value": "श्रेया",
+            "languages": [
+              "mr"
+            ]
+          },
+          {
+            "value": "ਸ਼੍ਰੇਆ ਘੋਸ਼ਾਲ",
+            "languages": [
+              "pa"
+            ]
+          },
+          {
+            "value": "ଶ୍ରେୟା ଘୋଷାଲ",
+            "languages": [
+              "or"
+            ]
+          },
+          {
+            "value": "Shreya Ghoshal",
+            "languages": [
+              "ga"
+            ]
+          },
+          {
+            "value": "Shreya Ghoshal",
+            "languages": [
+              "nl"
+            ]
+          },
+          {
+            "value": "Shreya Ghoshal",
+            "languages": [
+              "sw"
+            ]
+          },
+          {
+            "value": "شریا گھوشال",
+            "languages": [
+              "ks"
+            ]
+          },
+          {
+            "value": "ਸ਼ਰੇਈਆ ਘੋਸ਼ਾਲ",
+            "languages": [
+              "pa"
+            ]
+          },
+          {
+            "value": "Shreya Ghoshal",
+            "languages": [
+              "nb"
+            ]
+          },
+          {
+            "value": "Shreya Ghoshal",
+            "languages": [
+              "ku"
+            ]
+          },
+          {
+            "value": "શ્રેયા ઘોષાલ",
+            "languages": [
+              "gu"
+            ]
+          },
+          {
+            "value": "スレーヤ・ゴーシャル",
+            "languages": [
+              "ja"
+            ]
+          },
+          {
+            "value": "שרייה גושאל",
+            "languages": [
+              "he"
+            ]
+          },
+          {
+            "value": "ಶ್ರೇಯಾ ಘೋಷಾಲ್",
+            "languages": [
+              "kn"
+            ]
+          }
+        ],
+        "short_descriptions": [
+          {
+            "value": "Shreya Ghoshal is an acclaimed Indian playback singer known for her melodious voice and versatility across multiple Indian languages.",
+            "languages": [
+              "en"
+            ]
+          }
+        ],
+        "date_of_birth": "1984-03-12",
+        "image": {
+          "url": "https://images.qloo.com/i/1B70567C-63F3-482C-9E6F-141FDD2B5746-420x-auto.jpg"
+        }
+      },
+      "popularity": 0.9535003761668764,
+      "tags": [
+        {
+          "id": "urn:tag:genre:music:indian",
+          "name": "Indian",
+          "type": "urn:tag:genre:music"
+        },
+        {
+          "id": "urn:tag:genre:music:hindi",
+          "name": "Hindi",
+          "type": "urn:tag:genre:music"
+        },
+        {
+          "id": "urn:tag:genre:music:bollywood",
+          "name": "Bollywood",
+          "type": "urn:tag:genre:music"
+        }
+      ],
+      "query": {
+        "affinity": 0.9973716630550293,
+        "measurements": {
+          "audience_growth": 0.22390442872659425
+        }
+      },
+      "disambiguation": "Shreya Ghoshal",
+      "external": {
+        "instagram": [
+          {
+            "id": "shreyaghoshal"
+          }
+        ],
+        "wikidata": [
+          {
+            "id": "q2050788"
+          }
+        ],
+        "twitter": [
+          {
+            "id": "shreyaghoshal"
+          }
+        ],
+        "imdb": [
+          {
+            "id": "nm1304975"
+          }
+        ],
+        "facebook": [
+          {
+            "id": "shreyaghoshal"
+          }
+        ],
+        "lastfm": [
+          {
+            "id": "shreya%20ghoshal",
+            "listeners": 153766,
+            "scrobbles": 2593135
+          }
+        ],
+        "musicbrainz": [
+          {
+            "id": "a8740949-50a8-4e71-8133-17d31b7cf69c",
+            "artist_type": "Person"
+          }
+        ],
+        "spotify": [
+          {
+            "id": "0oOet2f43PA68X5RxKobEy",
+            "followers": 6126482,
+            "monthly_listeners": 6380740,
+            "first_release": 1999,
+            "last_release": 2020,
+            "verified": true
+          }
+        ]
+      }
+    },
+    {
+      "name": "Chinmayi",
+      "entity_id": "E829537F-4A9F-48FE-B386-B3669AAEA638",
+      "type": "urn:entity",
+      "subtype": "urn:entity:artist",
+      "properties": {
+        "akas": [
+          {
+            "value": "Chinmayee",
+            "languages": [
+              "hu"
+            ]
+          },
+          {
+            "value": "Chinmayi",
+            "languages": [
+              "es"
+            ]
+          },
+          {
+            "value": "Chinmayi Sripada",
+            "languages": [
+              "fr"
+            ]
+          },
+          {
+            "value": "ਚਿਨਮਈ",
+            "languages": [
+              "pa"
+            ]
+          },
+          {
+            "value": "צ'ינמאי סריפדה",
+            "languages": [
+              "he"
+            ]
+          },
+          {
+            "value": "チンマイ",
+            "languages": [
+              "ja"
+            ]
+          },
+          {
+            "value": "צ'ינמאי",
+            "languages": [
+              "he"
+            ]
+          },
+          {
+            "value": "চিন্ময়ী শ্ৰীপদা",
+            "languages": [
+              "as"
+            ]
+          },
+          {
+            "value": "Chinmayee",
+            "languages": [
+              "en"
+            ]
+          },
+          {
+            "value": "Chinmayi Sripada",
+            "languages": [
+              "sq"
+            ]
+          },
+          {
+            "value": "Chinmayee",
+            "languages": [
+              "fr"
+            ]
+          },
+          {
+            "value": "Chinmayi",
+            "languages": [
+              "fr"
+            ]
+          },
+          {
+            "value": "Chinmayi",
+            "languages": [
+              "uz"
+            ]
+          },
+          {
+            "value": "Chinmayi",
+            "languages": [
+              "nl"
+            ]
+          },
+          {
+            "value": "Chinmayi Sripada",
+            "languages": [
+              "nl"
+            ]
+          },
+          {
+            "value": "ચિન્મયી",
+            "languages": [
+              "gu"
+            ]
+          },
+          {
+            "value": "చిన్మయి",
+            "languages": [
+              "te"
+            ]
+          },
+          {
+            "value": "Chinmayi",
+            "languages": [
+              "hu"
+            ]
+          },
+          {
+            "value": "Chinmayi Sripada",
+            "languages": [
+              "sl"
+            ]
+          },
+          {
+            "value": "चिनमयी",
+            "languages": [
+              "hi"
+            ]
+          },
+          {
+            "value": "Chinmayi",
+            "languages": [
+              "en"
+            ]
+          },
+          {
+            "value": "ચીનમાયી",
+            "languages": [
+              "gu"
+            ]
+          },
+          {
+            "value": "Chinmayi Sripada",
+            "languages": [
+              "id"
+            ]
+          },
+          {
+            "value": "Chinmayee",
+            "languages": [
+              "de"
+            ]
+          },
+          {
+            "value": "ચિન્મયી શ્રીપાડા",
+            "languages": [
+              "gu"
+            ]
+          },
+          {
+            "value": "ചിന്മയി",
+            "languages": [
+              "ml"
+            ]
+          },
+          {
+            "value": "চিন্ময়ী শ্রীপদা",
+            "languages": [
+              "bn"
+            ]
+          },
+          {
+            "value": "చిన్మయి శ్రీపాద",
+            "languages": [
+              "te"
+            ]
+          },
+          {
+            "value": "Chinmayi Sripada",
+            "languages": [
+              "ca"
+            ]
+          },
+          {
+            "value": "Chinmayi Sripada",
+            "languages": [
+              "hu"
+            ]
+          },
+          {
+            "value": "Chinmayi Sripada",
+            "languages": [
+              "fi"
+            ]
+          },
+          {
+            "value": "Chinmayi Sripada",
+            "languages": [
+              "jv"
+            ]
+          },
+          {
+            "value": "Chinmayi Sripada",
+            "languages": [
+              "pt"
+            ]
+          },
+          {
+            "value": "Chinmayi Sripada",
+            "languages": [
+              "ga"
+            ]
+          },
+          {
+            "value": "Chinmayee",
+            "languages": [
+              "nl"
+            ]
+          },
+          {
+            "value": "ಚಿನ್ಮಯಿ (ಗಾಯಕಿ)",
+            "languages": [
+              "kn"
+            ]
+          },
+          {
+            "value": "Chinmayi Sripada",
+            "languages": [
+              "su"
+            ]
+          },
+          {
+            "value": "Chinmayi",
+            "languages": [
+              "de"
+            ]
+          },
+          {
+            "value": "钦马伊",
+            "languages": [
+              "zh"
+            ]
+          },
+          {
+            "value": "Chinmayi Sripada",
+            "languages": [
+              "de"
+            ]
+          },
+          {
+            "value": "Chinmayi Sripada",
+            "languages": [
+              "es"
+            ]
+          },
+          {
+            "value": "சின்மயி",
+            "languages": [
+              "ta"
+            ]
+          },
+          {
+            "value": "Chinmayee",
+            "languages": [
+              "es"
+            ]
+          }
+        ],
+        "short_descriptions": [
+          {
+            "value": "Indian playback singer and voice artist known for her versatile singing and dubbing work.",
+            "languages": [
+              "en"
+            ]
+          }
+        ],
+        "date_of_birth": "1984-09-10",
+        "place_of_birth": "Mumbai, Maharashtra, India",
+        "image": {
+          "url": "https://images.qloo.com/i/E829537F-4A9F-48FE-B386-B3669AAEA638-420x-auto.jpg"
+        }
+      },
+      "popularity": 0.653673446666959,
+      "tags": [
+        {
+          "id": "urn:tag:genre:music:tamil",
+          "name": "Tamil",
+          "type": "urn:tag:genre:music"
+        }
+      ],
+      "query": {
+        "affinity": 0.997083207738624,
+        "measurements": {
+          "audience_growth": -1.352093218170191
+        }
+      },
+      "disambiguation": "Chinmayi",
+      "external": {
+        "instagram": [
+          {
+            "id": "chinmayisripaada"
+          },
+          {
+            "id": "chinmayi.sripada"
+          }
+        ],
+        "wikidata": [
+          {
+            "id": "q2049922"
+          }
+        ],
+        "twitter": [
+          {
+            "id": "chinmayi"
+          }
+        ],
+        "imdb": [
+          {
+            "id": "nm1819884"
+          }
+        ],
+        "facebook": [
+          {
+            "id": "chinmayisripada"
+          }
+        ],
+        "lastfm": [
+          {
+            "id": "chinmayi",
+            "listeners": 30707,
+            "scrobbles": 301287
+          }
+        ],
+        "musicbrainz": [
+          {
+            "id": "5a14bca0-8afa-4c1d-a885-bf5938af7f16",
+            "artist_type": "Person"
+          }
+        ],
+        "spotify": [
+          {
+            "id": "5UJ2sHO2ELrgW6aXeRLTQQ",
+            "followers": 509378,
+            "monthly_listeners": 2435563,
+            "first_release": 2007,
+            "last_release": 2020,
+            "verified": true
+          },
+          {
+            "id": "223ocJGtOPtAd2EyI8XPZW",
+            "followers": 6,
+            "monthly_listeners": 38,
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "name": "World Wrestling Entertainment",
+      "entity_id": "DE05B156-E854-404C-91A5-1F1D59A86DBD",
+      "type": "urn:entity",
+      "subtype": "urn:entity:artist",
+      "properties": {
+        "akas": [
+          {
+            "value": "Список чемпионов WWF в полутяжёлом весе",
+            "languages": [
+              "ru"
+            ]
+          },
+          {
+            "value": "Lista posiadaczy WWF Light Heavyweight Championship",
+            "languages": [
+              "pl"
+            ]
+          },
+          {
+            "value": "WWF World Light Heavyweight Championship",
+            "languages": [
+              "it"
+            ]
+          },
+          {
+            "value": "WWF Light Heavyweight Championship sahipleri listesi",
+            "languages": [
+              "tr"
+            ]
+          },
+          {
+            "value": "World Wrestling Entertainment",
+            "languages": [
+              "cs"
+            ]
+          },
+          {
+            "value": "WWF",
+            "languages": [
+              "fr"
+            ]
+          },
+          {
+            "value": "WWF",
+            "languages": [
+              "es"
+            ]
+          },
+          {
+            "value": "WWE SmackDown",
+            "languages": [
+              "jv"
+            ]
+          },
+          {
+            "value": "WWF",
+            "languages": [
+              "en"
+            ]
+          },
+          {
+            "value": "World Wrestling Entertainment",
+            "languages": [
+              "cy"
+            ]
+          },
+          {
+            "value": "WWE",
+            "languages": [
+              "kl"
+            ]
+          },
+          {
+            "value": "WWE",
+            "languages": [
+              "hr"
+            ]
+          },
+          {
+            "value": "World Wrestling Entertainment",
+            "languages": [
+              "uk"
+            ]
+          },
+          {
+            "value": "World Wrestling Entertainement",
+            "languages": [
+              "nl"
+            ]
+          },
+          {
+            "value": "WWE",
+            "languages": [
+              "et"
+            ]
+          },
+          {
+            "value": "WWE",
+            "languages": [
+              "he"
+            ]
+          },
+          {
+            "value": "डब्ल्यूडब्ल्यूई",
+            "languages": [
+              "ne"
+            ]
+          },
+          {
+            "value": "World Wrestling Entertainment",
+            "languages": [
+              "sk"
+            ]
+          },
+          {
+            "value": "Titan Sports, Inc.",
+            "languages": [
+              "es"
+            ]
+          },
+          {
+            "value": "உலக மற்போர் மகிழ்கலை நிறுவனம்",
+            "languages": [
+              "ta"
+            ]
+          },
+          {
+            "value": "Titan Sports, Inc.",
+            "languages": [
+              "en"
+            ]
+          },
+          {
+            "value": "W.W.E.",
+            "languages": [
+              "sw"
+            ]
+          },
+          {
+            "value": "വേൾഡ് റെസ്‌ലിങ് എന്റർടെയിന്മെന്റ്",
+            "languages": [
+              "ml"
+            ]
+          },
+          {
+            "value": "WWE",
+            "languages": [
+              "tk"
+            ]
+          },
+          {
+            "value": "WWF",
+            "languages": [
+              "nl"
+            ]
+          },
+          {
+            "value": "WWE",
+            "languages": [
+              "hu"
+            ]
+          },
+          {
+            "value": "Дабл ю Дабл ю И",
+            "languages": [
+              "ru"
+            ]
+          },
+          {
+            "value": "World Wrestling Entertainment",
+            "languages": [
+              "sv"
+            ]
+          },
+          {
+            "value": "WWE",
+            "languages": [
+              "bs"
+            ]
+          },
+          {
+            "value": "World Wrestling Entertainment",
+            "languages": [
+              "el"
+            ]
+          },
+          {
+            "value": "World Wrestling Entertainment",
+            "languages": [
+              "fi"
+            ]
+          },
+          {
+            "value": "WWE",
+            "languages": [
+              "ms"
+            ]
+          },
+          {
+            "value": "WWE",
+            "languages": [
+              "oc"
+            ]
+          },
+          {
+            "value": "WWF",
+            "languages": [
+              "ru"
+            ]
+          },
+          {
+            "value": "CWC",
+            "languages": [
+              "pl"
+            ]
+          },
+          {
+            "value": "دبلیو دبلیو ای",
+            "languages": [
+              "fa"
+            ]
+          },
+          {
+            "value": "World Wrestling Entertainment",
+            "languages": [
+              "is"
+            ]
+          },
+          {
+            "value": "World Wrestling Entertainment",
+            "languages": [
+              "ca"
+            ]
+          },
+          {
+            "value": "World Wrestling Entertainment",
+            "languages": [
+              "ro"
+            ]
+          },
+          {
+            "value": "World Wrestling Federation",
+            "languages": [
+              "fr"
+            ]
+          },
+          {
+            "value": "دبليو دبليو إي",
+            "languages": [
+              "ar"
+            ]
+          },
+          {
+            "value": "World Wrestling Federation",
+            "languages": [
+              "nl"
+            ]
+          },
+          {
+            "value": "Wwe",
+            "languages": [
+              "mn"
+            ]
+          },
+          {
+            "value": "World Wrestling Entertainment, Inc.",
+            "languages": [
+              "fr"
+            ]
+          },
+          {
+            "value": "World Wrestling Entertainment",
+            "languages": [
+              "en"
+            ]
+          },
+          {
+            "value": "ดับเบิลยูดับเบิลยูอี",
+            "languages": [
+              "th"
+            ]
+          },
+          {
+            "value": "ವರ್ಲ್ಡ್ ವ್ರೆಸ್ಲಿಂಗ್ ಎಂಟರ್‌ಟೈನ್‌ಮೆಂಟ್",
+            "languages": [
+              "kn"
+            ]
+          },
+          {
+            "value": "WWE, Inc.",
+            "languages": [
+              "en"
+            ]
+          },
+          {
+            "value": "World Wrestling Entertainment",
+            "languages": [
+              "eu"
+            ]
+          },
+          {
+            "value": "WWE",
+            "languages": [
+              "si"
+            ]
+          },
+          {
+            "value": "WWF",
+            "languages": [
+              "pl"
+            ]
+          },
+          {
+            "value": "WWWF",
+            "languages": [
+              "pl"
+            ]
+          },
+          {
+            "value": "WWE",
+            "languages": [
+              "tr"
+            ]
+          },
+          {
+            "value": "WWE",
+            "languages": [
+              "ga"
+            ]
+          },
+          {
+            "value": "WWE, Inc.",
+            "languages": [
+              "pl"
+            ]
+          },
+          {
+            "value": "World Wrestling Federation",
+            "languages": [
+              "en"
+            ]
+          },
+          {
+            "value": "World Wrestling Entertainment",
+            "languages": [
+              "ru"
+            ]
+          },
+          {
+            "value": "WWE",
+            "languages": [
+              "sv"
+            ]
+          },
+          {
+            "value": "เวิลด์ เรสต์ลิง เอ็นเตอร์เทนเมนต์",
+            "languages": [
+              "th"
+            ]
+          },
+          {
+            "value": "WWE",
+            "languages": [
+              "fi"
+            ]
+          },
+          {
+            "value": "WWE",
+            "languages": [
+              "ku"
+            ]
+          },
+          {
+            "value": "WWE, Inc.",
+            "languages": [
+              "es"
+            ]
+          },
+          {
+            "value": "WWE",
+            "languages": [
+              "nl"
+            ]
+          },
+          {
+            "value": "WWE",
+            "languages": [
+              "pt"
+            ]
+          },
+          {
+            "value": "WWE",
+            "languages": [
+              "hy"
+            ]
+          },
+          {
+            "value": "World Wrestling Entertainment",
+            "languages": [
+              "it"
+            ]
+          },
+          {
+            "value": "वर्ल्ड रेसलिंग एनटरटेनमेन्ट, इंक.",
+            "languages": [
+              "hi"
+            ]
+          },
+          {
+            "value": "WWE",
+            "languages": [
+              "pl"
+            ]
+          },
+          {
+            "value": "ڈبلیو ڈبلیو ای",
+            "languages": [
+              "ur"
+            ]
+          },
+          {
+            "value": "World Wrestling Entertainment",
+            "languages": [
+              "de"
+            ]
+          },
+          {
+            "value": "ডব্লিউ ডব্লিউ এফ",
+            "languages": [
+              "as"
+            ]
+          },
+          {
+            "value": "ਡਬਲਯੂ.ਡਬਲਯੂ.ਈ.",
+            "languages": [
+              "pa"
+            ]
+          },
+          {
+            "value": "World Wrestling Entertainment",
+            "languages": [
+              "sm"
+            ]
+          },
+          {
+            "value": "World Wrestling Entertainment",
+            "languages": [
+              "gl"
+            ]
+          },
+          {
+            "value": "World Wrestling Federation",
+            "languages": [
+              "fi"
+            ]
+          },
+          {
+            "value": "WWE",
+            "languages": [
+              "id"
+            ]
+          },
+          {
+            "value": "Titan Sports, Inc.",
+            "languages": [
+              "fr"
+            ]
+          },
+          {
+            "value": "ডাব্লিউডাব্লিউই",
+            "languages": [
+              "bn"
+            ]
+          },
+          {
+            "value": "WWE",
+            "languages": [
+              "vi"
+            ]
+          },
+          {
+            "value": "wwe",
+            "languages": [
+              "mr"
+            ]
+          },
+          {
+            "value": "WWE",
+            "languages": [
+              "uk"
+            ]
+          },
+          {
+            "value": "ഡബ്ലിയു ഡബ്ലിയു ഇ",
+            "languages": [
+              "ml"
+            ]
+          },
+          {
+            "value": "World Wrestling Entertainment",
+            "languages": [
+              "fr"
+            ]
+          },
+          {
+            "value": "ВВИ",
+            "languages": [
+              "ru"
+            ]
+          },
+          {
+            "value": "ВВЕ",
+            "languages": [
+              "ru"
+            ]
+          },
+          {
+            "value": "WWE",
+            "languages": [
+              "so"
+            ]
+          },
+          {
+            "value": "WWE",
+            "languages": [
+              "sr"
+            ]
+          },
+          {
+            "value": "WWE",
+            "languages": [
+              "it"
+            ]
+          },
+          {
+            "value": "World Wrestling Entertainment",
+            "languages": [
+              "yo"
+            ]
+          },
+          {
+            "value": "世界摔角娛樂",
+            "languages": [
+              "zh"
+            ]
+          },
+          {
+            "value": "WWE",
+            "languages": [
+              "ko"
+            ]
+          },
+          {
+            "value": "WWE",
+            "languages": [
+              "ru"
+            ]
+          },
+          {
+            "value": "WWE",
+            "languages": [
+              "sq"
+            ]
+          },
+          {
+            "value": "World Wrestling Entertainment",
+            "languages": [
+              "ny"
+            ]
+          },
+          {
+            "value": "World Wrestling Entertainment",
+            "languages": [
+              "eo"
+            ]
+          },
+          {
+            "value": "WWE",
+            "languages": [
+              "de"
+            ]
+          },
+          {
+            "value": "World Wrestling Entertainment",
+            "languages": [
+              "lt"
+            ]
+          },
+          {
+            "value": "WWE",
+            "languages": [
+              "eu"
+            ]
+          },
+          {
+            "value": "World Wrestling Federation",
+            "languages": [
+              "ru"
+            ]
+          },
+          {
+            "value": "વિશ્વ કુસ્તી મનોરંજન",
+            "languages": [
+              "gu"
+            ]
+          },
+          {
+            "value": "WWE",
+            "languages": [
+              "fr"
+            ]
+          },
+          {
+            "value": "World Wrestling Entertainment",
+            "languages": [
+              "es"
+            ]
+          },
+          {
+            "value": "World Wrestling Federation",
+            "languages": [
+              "de"
+            ]
+          },
+          {
+            "value": "World Wrestling Entertainment",
+            "languages": [
+              "az"
+            ]
+          },
+          {
+            "value": "World Wrestling Entertainment",
+            "languages": [
+              "nb"
+            ]
+          },
+          {
+            "value": "WWE",
+            "languages": [
+              "sc"
+            ]
+          },
+          {
+            "value": "Световна федерация по кеч",
+            "languages": [
+              "bg"
+            ]
+          },
+          {
+            "value": "World Wrestling Entertainment",
+            "languages": [
+              "pl"
+            ]
+          },
+          {
+            "value": "WWE",
+            "languages": [
+              "es"
+            ]
+          },
+          {
+            "value": "World Wrestling Federation",
+            "languages": [
+              "pl"
+            ]
+          },
+          {
+            "value": "ডব্লিউ ডব্লিউ ই",
+            "languages": [
+              "as"
+            ]
+          },
+          {
+            "value": "Titan Sports Promotions",
+            "languages": [
+              "pl"
+            ]
+          },
+          {
+            "value": "World Wrestling Federation",
+            "languages": [
+              "es"
+            ]
+          },
+          {
+            "value": "WWE",
+            "languages": [
+              "lv"
+            ]
+          },
+          {
+            "value": "WWE, Inc.",
+            "languages": [
+              "da"
+            ]
+          },
+          {
+            "value": "WWE",
+            "languages": [
+              "zu"
+            ]
+          },
+          {
+            "value": "Capitol Wrestling Corporation",
+            "languages": [
+              "pl"
+            ]
+          },
+          {
+            "value": "WWE, Inc.",
+            "languages": [
+              "fi"
+            ]
+          },
+          {
+            "value": "WWWF",
+            "languages": [
+              "ja"
+            ]
+          },
+          {
+            "value": "WWF",
+            "languages": [
+              "ja"
+            ]
+          },
+          {
+            "value": "World Wrestling Entertainment",
+            "languages": [
+              "ay"
+            ]
+          },
+          {
+            "value": "WWE",
+            "languages": [
+              "sl"
+            ]
+          },
+          {
+            "value": "WWE, Inc.",
+            "languages": [
+              "tl"
+            ]
+          },
+          {
+            "value": "WWE",
+            "languages": [
+              "ja"
+            ]
+          },
+          {
+            "value": "World Wide Wrestling Federation",
+            "languages": [
+              "pl"
+            ]
+          },
+          {
+            "value": "Lijst van WWE SmackDown Tag Team Champions",
+            "languages": [
+              "nl"
+            ]
+          },
+          {
+            "value": "Список командных чемпионов WWE SmackDown",
+            "languages": [
+              "ru"
+            ]
+          },
+          {
+            "value": "Danh sách các nhà vô địch đai WWE SmackDown Tag Team",
+            "languages": [
+              "vi"
+            ]
+          },
+          {
+            "value": "Lista posiadaczy WWE SmackDown Tag Team Championship",
+            "languages": [
+              "pl"
+            ]
+          },
+          {
+            "value": "WWE SmackDown Tag Team Championship sahipleri listesi",
+            "languages": [
+              "tr"
+            ]
+          },
+          {
+            "value": "Lista de campeões de duplas do WWE SmackDown",
+            "languages": [
+              "pt"
+            ]
+          }
+        ],
+        "short_descriptions": [
+          {
+            "value": "A global entertainment company known for professional wrestling.",
+            "languages": [
+              "en"
+            ]
+          }
+        ],
+        "image": {
+          "url": "https://images.qloo.com/i/DE05B156-E854-404C-91A5-1F1D59A86DBD-420x-auto.jpg"
+        }
+      },
+      "popularity": 0.5023126672087068,
+      "tags": [
+        {
+          "id": "urn:tag:genre:music:american",
+          "name": "American",
+          "type": "urn:tag:genre:music"
+        }
+      ],
+      "query": {
+        "affinity": 0.9967787462515926,
+        "measurements": {
+          "audience_growth": 0
+        }
+      },
+      "disambiguation": "World Wrestling Entertainment",
+      "external": {
+        "instagram": [
+          {
+            "id": "wwe"
+          }
+        ],
+        "wikidata": [
+          {
+            "id": "q35339"
+          },
+          {
+            "id": "q59340831"
+          },
+          {
+            "id": "q6603695"
+          }
+        ],
+        "twitter": [
+          {
+            "id": "wwe"
+          },
+          {
+            "id": "wweuniverse"
+          }
+        ],
+        "facebook": [
+          {
+            "id": "wwe"
+          }
+        ],
+        "lastfm": [
+          {
+            "id": "world%20wrestling%20entertainment",
+            "listeners": 2639,
+            "scrobbles": 24876
+          }
+        ],
+        "musicbrainz": [
+          {
+            "id": "1f58333f-558b-4cfe-ac05-2cab459e75fc",
+            "artist_type": "Group"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Arunraja Kamaraj",
+      "entity_id": "39957168-C2B7-4238-88AC-8F69A3223BD8",
+      "type": "urn:entity",
+      "subtype": "urn:entity:artist",
+      "properties": {
+        "akas": [
+          {
+            "value": "アルンラージャ・カマラージ",
+            "languages": [
+              "ja"
+            ]
+          },
+          {
+            "value": "Arunraja Kamaraj",
+            "languages": [
+              "sq"
+            ]
+          },
+          {
+            "value": "அருண்ராஜா காமராஜ்",
+            "languages": [
+              "ta"
+            ]
+          },
+          {
+            "value": "Arunraja Kamaraj",
+            "languages": [
+              "es"
+            ]
+          },
+          {
+            "value": "Arunraja Kamaraj",
+            "languages": [
+              "nl"
+            ]
+          },
+          {
+            "value": "అరుణ్‌రాజా కామరాజ్",
+            "languages": [
+              "te"
+            ]
+          }
+        ],
+        "short_descriptions": [
+          {
+            "value": "Indian playback singer, lyricist, and actor known for Tamil cinema contributions.",
+            "languages": [
+              "en"
+            ]
+          }
+        ],
+        "place_of_birth": "Tamil Nadu, India",
+        "image": {
+          "url": "https://images.qloo.com/i/39957168-C2B7-4238-88AC-8F69A3223BD8-420x-auto.jpg"
+        }
+      },
+      "popularity": 0.25152237939887523,
+      "tags": [
+        {
+          "id": "urn:tag:genre:music:soundtrack",
+          "name": "Soundtrack",
+          "type": "urn:tag:genre:music"
+        },
+        {
+          "id": "urn:tag:genre:music:kollywood",
+          "name": "Kollywood",
+          "type": "urn:tag:genre:music"
+        },
+        {
+          "id": "urn:tag:genre:music:tamil",
+          "name": "Tamil",
+          "type": "urn:tag:genre:music"
+        },
+        {
+          "id": "urn:tag:genre:music:indian",
+          "name": "Indian",
+          "type": "urn:tag:genre:music"
+        }
+      ],
+      "query": {
+        "affinity": 0.9964456638725341,
+        "measurements": {
+          "audience_growth": 0
+        }
+      },
+      "disambiguation": "Arunraja Kamaraj",
+      "external": {
+        "wikidata": [
+          {
+            "id": "q24851575"
+          }
+        ],
+        "twitter": [
+          {
+            "id": "arunrajakamaraj"
+          }
+        ],
+        "imdb": [
+          {
+            "id": "nm7110319"
+          }
+        ],
+        "lastfm": [
+          {
+            "id": "arunraja%20kamaraj",
+            "listeners": 1749,
+            "scrobbles": 13410
+          }
+        ],
+        "musicbrainz": [
+          {
+            "id": "a7af5008-316f-4106-81e2-4c392c908402",
+            "artist_type": "Person"
+          }
+        ],
+        "spotify": [
+          {
+            "id": "3jw6WnDlhrKkNjgcp8JGQe",
+            "followers": 1203,
+            "monthly_listeners": 170120,
+            "first_release": 2017,
+            "last_release": 2020,
+            "verified": true
+          }
+        ]
+      }
+    },
+    {
+      "name": "Harris Jayaraj",
+      "entity_id": "17A27EC5-B2EB-422E-87B2-18E78FB4D52A",
+      "type": "urn:entity",
+      "subtype": "urn:entity:artist",
+      "properties": {
+        "akas": [
+          {
+            "value": "ഹാരിസ് ജയരാജ്",
+            "languages": [
+              "ml"
+            ]
+          },
+          {
+            "value": "Harris Jayaraj",
+            "languages": [
+              "ms"
+            ]
+          },
+          {
+            "value": "Harris Jayaraj",
+            "languages": [
+              "fr"
+            ]
+          },
+          {
+            "value": "Harris Jayaraj",
+            "languages": [
+              "de"
+            ]
+          },
+          {
+            "value": "Jayaraj",
+            "languages": [
+              "sv"
+            ]
+          },
+          {
+            "value": "Harris Jayaraj",
+            "languages": [
+              "hu"
+            ]
+          },
+          {
+            "value": "ஹாரிஷ் ஜெயராஜ்",
+            "languages": [
+              "ta"
+            ]
+          },
+          {
+            "value": "ஹாரிஷ் ஜயராஜ்",
+            "languages": [
+              "ta"
+            ]
+          },
+          {
+            "value": "Harris Jayaraj",
+            "languages": [
+              "es"
+            ]
+          },
+          {
+            "value": "Harris Jayaraj",
+            "languages": [
+              "jv"
+            ]
+          },
+          {
+            "value": "Harris Jayaraj",
+            "languages": [
+              "id"
+            ]
+          },
+          {
+            "value": "Harris Jayaraj",
+            "languages": [
+              "nl"
+            ]
+          },
+          {
+            "value": "Harris Jayaraj",
+            "languages": [
+              "fi"
+            ]
+          },
+          {
+            "value": "এইচজে, হ্যারিস",
+            "languages": [
+              "bn"
+            ]
+          },
+          {
+            "value": "హ్యారీస్ జయరాజ్",
+            "languages": [
+              "te"
+            ]
+          },
+          {
+            "value": "ハリス・ジャヤラージ",
+            "languages": [
+              "ja"
+            ]
+          },
+          {
+            "value": "Harris Jayaraj",
+            "languages": [
+              "ca"
+            ]
+          },
+          {
+            "value": "Harris Jayaraj",
+            "languages": [
+              "sv"
+            ]
+          },
+          {
+            "value": "Harris Jayaraj",
+            "languages": [
+              "pt"
+            ]
+          },
+          {
+            "value": "హేరిస్ జయరాజ్",
+            "languages": [
+              "te"
+            ]
+          },
+          {
+            "value": "হরিষ জয়রাজ",
+            "languages": [
+              "bn"
+            ]
+          },
+          {
+            "value": "Harris Jayaraj",
+            "languages": [
+              "su"
+            ]
+          },
+          {
+            "value": "ஹாரிஸ் ஜெயராஜ்",
+            "languages": [
+              "ta"
+            ]
+          },
+          {
+            "value": "Harris Jayaraj",
+            "languages": [
+              "sl"
+            ]
+          },
+          {
+            "value": "Харрис Джаярадж",
+            "languages": [
+              "ru"
+            ]
+          },
+          {
+            "value": "हॅरिस जयराज",
+            "languages": [
+              "mr"
+            ]
+          },
+          {
+            "value": "हैरिस जयराज",
+            "languages": [
+              "hi"
+            ]
+          },
+          {
+            "value": "Harris Jayaraj",
+            "languages": [
+              "ga"
+            ]
+          },
+          {
+            "value": "哈里斯·贾雅拉杰",
+            "languages": [
+              "zh"
+            ]
+          },
+          {
+            "value": "Harris Jayaraj",
+            "languages": [
+              "sq"
+            ]
+          },
+          {
+            "value": "Harris Jayaraj",
+            "languages": [
+              "ml"
+            ]
+          },
+          {
+            "value": "હેરિસ જયરાજ",
+            "languages": [
+              "gu"
+            ]
+          },
+          {
+            "value": "ஹாரிஸ் ஜயராஜ்",
+            "languages": [
+              "ta"
+            ]
+          }
+        ],
+        "short_descriptions": [
+          {
+            "value": "Indian film composer known for his work in Tamil cinema and popular soundtracks.",
+            "languages": [
+              "en"
+            ]
+          }
+        ],
+        "date_of_birth": "1975-01-08",
+        "place_of_birth": "Chennai, Tamil Nadu, India",
+        "image": {
+          "url": "https://images.qloo.com/i/17A27EC5-B2EB-422E-87B2-18E78FB4D52A-420x-auto.jpg"
+        }
+      },
+      "popularity": 0.8532611812652027,
+      "tags": [
+        {
+          "id": "urn:tag:genre:music:tamil",
+          "name": "Tamil",
+          "type": "urn:tag:genre:music"
+        },
+        {
+          "id": "urn:tag:genre:music:indian",
+          "name": "Indian",
+          "type": "urn:tag:genre:music"
+        },
+        {
+          "id": "urn:tag:genre:music:hindi",
+          "name": "Hindi",
+          "type": "urn:tag:genre:music"
+        },
+        {
+          "id": "urn:tag:genre:music:kollywood",
+          "name": "Kollywood",
+          "type": "urn:tag:genre:music"
+        }
+      ],
+      "query": {
+        "affinity": 0.9964043307341494,
+        "measurements": {
+          "audience_growth": -0.07297077875463397
+        }
+      },
+      "disambiguation": "Harris Jayaraj",
+      "external": {
+        "wikidata": [
+          {
+            "id": "q2748506"
+          }
+        ],
+        "imdb": [
+          {
+            "id": "nm1069415"
+          }
+        ],
+        "facebook": [
+          {
+            "id": "harrisjayarajofficial"
+          }
+        ],
+        "lastfm": [
+          {
+            "id": "harris%20jayaraj",
+            "listeners": 30772,
+            "scrobbles": 1541810
+          }
+        ],
+        "musicbrainz": [
+          {
+            "id": "ecdd5aa9-b760-47d4-9541-3c3d04da433b",
+            "artist_type": "Person"
+          }
+        ],
+        "spotify": [
+          {
+            "id": "29aw5YCdIw2FEXYyAJZI8l",
+            "followers": 1381762,
+            "monthly_listeners": 1535990,
+            "first_release": 1962,
+            "last_release": 2020,
+            "verified": false
+          }
+        ]
+      }
+    },
+    {
+      "name": "Andrea Jeremiah",
+      "entity_id": "4E3EFB03-DCC1-4F70-B17B-9304E7C0CC54",
+      "type": "urn:entity",
+      "subtype": "urn:entity:artist",
+      "properties": {
+        "akas": [
+          {
+            "value": "آندرئا جرمایا",
+            "languages": [
+              "fa"
+            ]
+          },
+          {
+            "value": "Andrea Jeremiah",
+            "languages": [
+              "es"
+            ]
+          },
+          {
+            "value": "Andrea Jeremiah",
+            "languages": [
+              "nl"
+            ]
+          },
+          {
+            "value": "Andrea Jeremiah",
+            "languages": [
+              "fi"
+            ]
+          },
+          {
+            "value": "अँड्रिआ जेर्मिआ",
+            "languages": [
+              "mr"
+            ]
+          },
+          {
+            "value": "Andrea Jeremiah",
+            "languages": [
+              "sq"
+            ]
+          },
+          {
+            "value": "Andrea Jeremiah",
+            "languages": [
+              "de"
+            ]
+          },
+          {
+            "value": "ஆண்ட்ரியா ஜெரமையா",
+            "languages": [
+              "ta"
+            ]
+          },
+          {
+            "value": "ஆண்ட்ரியா ஜெரெமையா",
+            "languages": [
+              "ta"
+            ]
+          },
+          {
+            "value": "Andrea Jeremiah",
+            "languages": [
+              "su"
+            ]
+          },
+          {
+            "value": "Andrea Jeremiah",
+            "languages": [
+              "ms"
+            ]
+          },
+          {
+            "value": "Andrea Jeremiah",
+            "languages": [
+              "jv"
+            ]
+          },
+          {
+            "value": "আন্দ্রে জেরেমিয়াহ",
+            "languages": [
+              "bn"
+            ]
+          },
+          {
+            "value": "أندريا إرميا",
+            "languages": [
+              "ar"
+            ]
+          },
+          {
+            "value": "Andrea Maria Jeremiah",
+            "languages": [
+              "en"
+            ]
+          },
+          {
+            "value": "Andrea Jeremiah",
+            "languages": [
+              "sv"
+            ]
+          },
+          {
+            "value": "Andrea Jeremiah",
+            "languages": [
+              "fr"
+            ]
+          },
+          {
+            "value": "ആൻഡ്രിയ ജെർമിയ",
+            "languages": [
+              "ml"
+            ]
+          },
+          {
+            "value": "アンドリヤー・ジェレマイヤー",
+            "languages": [
+              "ja"
+            ]
+          },
+          {
+            "value": "Andrea Jeremiah",
+            "languages": [
+              "sl"
+            ]
+          },
+          {
+            "value": "Андреа Джеремэйх",
+            "languages": [
+              "ru"
+            ]
+          },
+          {
+            "value": "Andrea Jeremiah",
+            "languages": [
+              "da"
+            ]
+          },
+          {
+            "value": "اینڈریا جرمیاہ",
+            "languages": [
+              "ur"
+            ]
+          },
+          {
+            "value": "Andrea Jeremiah",
+            "languages": [
+              "nn"
+            ]
+          },
+          {
+            "value": "Andrea Jeremiah",
+            "languages": [
+              "pt"
+            ]
+          },
+          {
+            "value": "એન્ડ્રીયા જેરિયામ",
+            "languages": [
+              "gu"
+            ]
+          },
+          {
+            "value": "Andrea Jeremiah",
+            "languages": [
+              "id"
+            ]
+          },
+          {
+            "value": "एंड्रिया जेरेमिया",
+            "languages": [
+              "hi"
+            ]
+          },
+          {
+            "value": "Andrea Jeremiah",
+            "languages": [
+              "uz"
+            ]
+          },
+          {
+            "value": "اینڈریا ماریا جرمیاہ",
+            "languages": [
+              "ks"
+            ]
+          },
+          {
+            "value": "ఆండ్రియా జర్మియా",
+            "languages": [
+              "te"
+            ]
+          },
+          {
+            "value": "Andrea Jeremiah",
+            "languages": [
+              "nb"
+            ]
+          },
+          {
+            "value": "Andrea Jeremiah",
+            "languages": [
+              "ga"
+            ]
+          },
+          {
+            "value": "ऍन्ड्रिआ जेर्मिआ",
+            "languages": [
+              "mr"
+            ]
+          },
+          {
+            "value": "Andrea Jeremiah",
+            "languages": [
+              "ca"
+            ]
+          },
+          {
+            "value": "اینڈریا جرمیاہ",
+            "languages": [
+              "ks"
+            ]
+          },
+          {
+            "value": "แอนเดรีย เจริไมอาห์",
+            "languages": [
+              "th"
+            ]
+          }
+        ],
+        "short_descriptions": [
+          {
+            "value": "Indian singer, actress, and musician known for her work in Tamil and Malayalam cinema.",
+            "languages": [
+              "en"
+            ]
+          }
+        ],
+        "date_of_birth": "1985-12-21",
+        "place_of_birth": "Chennai, Tamil Nadu, India",
+        "image": {
+          "url": "https://images.qloo.com/i/4E3EFB03-DCC1-4F70-B17B-9304E7C0CC54-420x-auto.jpg"
+        }
+      },
+      "popularity": 0.3818448033305107,
+      "query": {
+        "affinity": 0.9963043759012298,
+        "measurements": {
+          "audience_growth": 0
+        }
+      },
+      "disambiguation": "Andrea Jeremiah",
+      "external": {
+        "instagram": [
+          {
+            "id": "therealandreajeremiah"
+          }
+        ],
+        "wikidata": [
+          {
+            "id": "q3523373"
+          }
+        ],
+        "twitter": [
+          {
+            "id": "andrea_jeremiah"
+          },
+          {
+            "id": "actressandrea"
+          }
+        ],
+        "imdb": [
+          {
+            "id": "nm1942975"
+          }
+        ],
+        "lastfm": [
+          {
+            "id": "andrea%20jeremiah",
+            "listeners": 4883,
+            "scrobbles": 34467
+          }
+        ],
+        "musicbrainz": [
+          {
+            "id": "75583e28-dcbc-4527-b9ae-06f3952a1f8d",
+            "artist_type": "Person"
+          }
+        ],
+        "spotify": [
+          {
+            "id": "5yoqPvofOHrBc3Z6VZyTsj",
+            "followers": 20773,
+            "monthly_listeners": 473788,
+            "first_release": 2014,
+            "last_release": 2020,
+            "verified": true
+          }
+        ]
+      }
+    },
+    {
+      "name": "Shankar Mahadevan",
+      "entity_id": "F081A539-CE96-4CD7-A08C-70AE5D89E7B4",
+      "type": "urn:entity",
+      "subtype": "urn:entity:artist",
+      "properties": {
+        "akas": [
+          {
+            "value": "Shankar Mahadevan",
+            "languages": [
+              "de"
+            ]
+          },
+          {
+            "value": "Shankar Mahadevan",
+            "languages": [
+              "ga"
+            ]
+          },
+          {
+            "value": "शंकर महादेवन",
+            "languages": [
+              "hi"
+            ]
+          },
+          {
+            "value": "Шанкар Махадеван",
+            "languages": [
+              "ru"
+            ]
+          },
+          {
+            "value": "Shankar Mahadevan",
+            "languages": [
+              "es"
+            ]
+          },
+          {
+            "value": "Shankar Mahadevan",
+            "languages": [
+              "pt"
+            ]
+          },
+          {
+            "value": "శంకర్ మహదేవన్",
+            "languages": [
+              "te"
+            ]
+          },
+          {
+            "value": "Shankar Mahadevan Narayan",
+            "languages": [
+              "en"
+            ]
+          },
+          {
+            "value": "Shankar Mahadevan",
+            "languages": [
+              "jv"
+            ]
+          },
+          {
+            "value": "Sankar Mahadevan",
+            "languages": [
+              "en"
+            ]
+          },
+          {
+            "value": "Shankar Mahadevan",
+            "languages": [
+              "sq"
+            ]
+          },
+          {
+            "value": "Shankar Mahadevan",
+            "languages": [
+              "fr"
+            ]
+          },
+          {
+            "value": "Shankar Mahadevan",
+            "languages": [
+              "nl"
+            ]
+          },
+          {
+            "value": "Շանկար Մախադևան",
+            "languages": [
+              "hy"
+            ]
+          },
+          {
+            "value": "શંકર મહાદેવન નારાયણ",
+            "languages": [
+              "gu"
+            ]
+          },
+          {
+            "value": "شنکر مہادیون",
+            "languages": [
+              "ur"
+            ]
+          },
+          {
+            "value": "संकर महादेवन",
+            "languages": [
+              "hi"
+            ]
+          },
+          {
+            "value": "シャンカール・ハマデヴァン",
+            "languages": [
+              "ja"
+            ]
+          },
+          {
+            "value": "शंकर महादेवन",
+            "languages": [
+              "mr"
+            ]
+          },
+          {
+            "value": "Shankar Mahadevan",
+            "languages": [
+              "fi"
+            ]
+          },
+          {
+            "value": "Shankar Mahadevan",
+            "languages": [
+              "id"
+            ]
+          },
+          {
+            "value": "Shankar Mahadevan",
+            "languages": [
+              "sw"
+            ]
+          },
+          {
+            "value": "ଶଙ୍କର ମହାଦେବନ",
+            "languages": [
+              "or"
+            ]
+          },
+          {
+            "value": "Shankar Mahadevan",
+            "languages": [
+              "hu"
+            ]
+          },
+          {
+            "value": "ಶಂಕರ್ ಮಹಾದೇವನ್",
+            "languages": [
+              "kn"
+            ]
+          },
+          {
+            "value": "Shankar Mahadevan",
+            "languages": [
+              "sl"
+            ]
+          },
+          {
+            "value": "સંકર મહાદેવન",
+            "languages": [
+              "gu"
+            ]
+          },
+          {
+            "value": "شانكار ماهاديفان",
+            "languages": [
+              "ar"
+            ]
+          },
+          {
+            "value": "शंकर महादेवन नारायण",
+            "languages": [
+              "hi"
+            ]
+          },
+          {
+            "value": "சங்கர் மகாதேவன்",
+            "languages": [
+              "ta"
+            ]
+          },
+          {
+            "value": "Shankar Mahadevan",
+            "languages": [
+              "su"
+            ]
+          },
+          {
+            "value": "シャンカル・マハデーヴァン",
+            "languages": [
+              "ja"
+            ]
+          },
+          {
+            "value": "Shankar Mahadevan",
+            "languages": [
+              "it"
+            ]
+          },
+          {
+            "value": "শঙ্কর মহাদেবন",
+            "languages": [
+              "bn"
+            ]
+          },
+          {
+            "value": "ശങ്കർ മഹാദേവൻ",
+            "languages": [
+              "ml"
+            ]
+          },
+          {
+            "value": "ශංකර් මහාදේවන්",
+            "languages": [
+              "si"
+            ]
+          },
+          {
+            "value": "શંકર મહાદેવન",
+            "languages": [
+              "gu"
+            ]
+          },
+          {
+            "value": "Shankar Mahadevan",
+            "languages": [
+              "ca"
+            ]
+          },
+          {
+            "value": "ਸ਼ੰਕਰ ਮਹਾਦੇਵਨ",
+            "languages": [
+              "pa"
+            ]
+          }
+        ],
+        "short_descriptions": [
+          {
+            "value": "Shankar Mahadevan is an Indian singer and composer known for his versatile vocal abilities and contributions to Indian film music.",
+            "languages": [
+              "en"
+            ]
+          }
+        ],
+        "date_of_birth": "1967-03-03",
+        "place_of_birth": "Mumbai, Maharashtra, India",
+        "image": {
+          "url": "https://images.qloo.com/i/F081A539-CE96-4CD7-A08C-70AE5D89E7B4-420x-auto.jpg"
+        }
+      },
+      "popularity": 0.9417531738025917,
+      "tags": [
+        {
+          "id": "urn:tag:genre:music:bollywood",
+          "name": "Bollywood",
+          "type": "urn:tag:genre:music"
+        },
+        {
+          "id": "urn:tag:genre:music:world",
+          "name": "World",
+          "type": "urn:tag:genre:music"
+        },
+        {
+          "id": "urn:tag:genre:music:hindi",
+          "name": "Hindi",
+          "type": "urn:tag:genre:music"
+        },
+        {
+          "id": "urn:tag:genre:music:indian",
+          "name": "Indian",
+          "type": "urn:tag:genre:music"
+        }
+      ],
+      "query": {
+        "affinity": 0.9962663031860658,
+        "measurements": {
+          "audience_growth": 0.1648221881887257
+        }
+      },
+      "disambiguation": "Shankar Mahadevan",
+      "external": {
+        "instagram": [
+          {
+            "id": "shankar.mahadevan"
+          }
+        ],
+        "wikidata": [
+          {
+            "id": "q2049494"
+          }
+        ],
+        "twitter": [
+          {
+            "id": "shankar_live"
+          }
+        ],
+        "imdb": [
+          {
+            "id": "nm0536708"
+          }
+        ],
+        "facebook": [
+          {
+            "id": "shankarlive"
+          }
+        ],
+        "lastfm": [
+          {
+            "id": "shankar%20mahadevan",
+            "listeners": 123174,
+            "scrobbles": 1757240
+          }
+        ],
+        "musicbrainz": [
+          {
+            "id": "bdbafa57-cf3f-4b7e-b956-fb6e0071ecd4",
+            "artist_type": "Person"
+          }
+        ],
+        "spotify": [
+          {
+            "id": "1SJOL9HJ08YOn92lFcYf8a",
+            "followers": 2493626,
+            "monthly_listeners": 3840687,
+            "first_release": 1997,
+            "last_release": 2020,
+            "verified": true
+          }
+        ]
+      }
+    }
+  ]
+}

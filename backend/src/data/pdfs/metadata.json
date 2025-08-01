@@ -1,0 +1,45 @@
+[
+  {
+    "filename": "LocationIQ_Analytics_Report_2025-08-01T13-05-45-822Z.pdf",
+    "type": "analytics_report",
+    "metadata": {
+      "title": "Analytics Report - 8/1/2025",
+      "description": "Professional chart collection report",
+      "totalPages": 7,
+      "generation_time": 799,
+      "images_count": 4,
+      "chart_types": [
+        "comparison-chart-radar",
+        "demographics-age",
+        "demographics-panel",
+        "category-distribution"
+      ],
+      "generatedAt": "2025-08-01T13:05:46.619Z"
+    },
+    "timestamp": "2025-08-01T13:05:46.619Z",
+    "filepath": "D:\\APART FORM COLLEGE\\HACKTHONS\\LocationIQ\\LIQ TN\\LIQ - 30 -07-2025\\backend\\src\\data\\pdfs\\LocationIQ_Analytics_Report_2025-08-01T13-05-45-822Z.pdf",
+    "fileSize": 586148
+  },
+  {
+    "filename": "comparison_1754053537910.pdf",
+    "type": "comparison",
+    "metadata": {
+      "title": "Comparison Report - Entity A vs Entity B",
+      "description": "AI-powered comparison analysis generated on 8/1/2025, 6:35:35 PM",
+      "entities": {
+        "entityA": "Unknown",
+        "entityB": "Unknown"
+      },
+      "totalSimilarities": 20,
+      "generation_time": 759,
+      "has_summary": true,
+      "results_count": 20,
+      "reportType": "entity_comparison",
+      "totalPages": "Multiple",
+      "generatedAt": "2025-08-01T13:05:35.467Z"
+    },
+    "timestamp": "2025-08-01T13:05:37.944Z",
+    "filepath": "D:\\APART FORM COLLEGE\\HACKTHONS\\LocationIQ\\LIQ TN\\LIQ - 30 -07-2025\\backend\\src\\data\\pdfs\\comparison_1754053537910.pdf",
+    "fileSize": 2458221
+  }
+]

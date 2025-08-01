@@ -1,0 +1,40 @@
+/* ✅ Enhanced slider styling */
+.slider::-webkit-slider-thumb {
+  appearance: none;
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+  background: #f97316;
+  cursor: pointer;
+  border: 2px solid white;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+}
+
+.slider::-moz-range-thumb {
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+  background: #f97316;
+  cursor: pointer;
+  border: 2px solid white;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+}
+
+/* ✅ Animation for loading delay */
+.animation-delay-75 {
+  animation-delay: 75ms;
+}
+
+/* ✅ ADD THIS CSS CLASS: */
+.animation-delay-75 {
+  animation-delay: 75ms;
+}
+
+/* ✅ ADD TO globals.css or index.css */
+.z-1000 {
+  z-index: 1000;
+}
+
+.z-2000 {
+  z-index: 2000;
+}
