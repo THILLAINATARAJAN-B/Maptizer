@@ -1,8 +1,3 @@
-Here's your fully formatted `.md` content, optimized for easy copy-paste into a README.md or project documentation:
-
----
-
-````markdown
 # 🗺️ Maptizer: Geo-AI Platform for Smart Location Intelligence
 
 Maptizer is a powerful **Geospatial Analytics Platform** combining full-scale map interaction with AI-powered insights. Designed for developers, analysts, and researchers, it provides real-time, location-based intelligence using rich spatial data and intelligent visualization layers.
