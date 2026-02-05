@@ -111,158 +111,199 @@ Vite 5.x
 Tailwind CSS 3.x
 React Router 6.x
 Context API
-Data Visualization & Mapping
-js
+```
+
+### Data Visualization & Mapping
+
+```js
 Recharts
 Leaflet
 React-Leaflet
 HTML2Canvas
 Lucide React
-Backend Services
-js
+```
+
+### Backend Services
+
+```js
 Node.js 18.x
 Express.js 4.x
 RESTful APIs
 Session Management
 File Processing
-External API Integrations
-js
+```
+
+### External API Integrations
+
+```js
 QLOO API
 Groq API
 Geocoding APIs
 Session Storage
-Development & Quality Tools
-js
+```
+
+### Development & Quality Tools
+
+```js
 ESLint
 Prettier
 Nodemon
 Winston Logger
-🔗 QLOO APIs Used in Maptizer
-1. /search/places – Search API
-File: backend/src/controllers/searchController.js
+```
 
-js
+---
+
+# 🔗 QLOO APIs Used in Maptizer
+
+## 1. `/search/places` – Search API
+
+**File:** `backend/src/controllers/searchController.js`
+
+```js
 const searchResponse = await qlooService.searchPlaces({
   query, lat, long, radius, page, take
 });
-Purpose:
+```
 
-Smart Location Discovery
+**Purpose:**
 
-Geographic Filtering
+* Smart Location Discovery
+* Geographic Filtering
+* Pagination Support
+* Demographic Enhancement
 
-Pagination Support
+**Returns:**
 
-Demographic Enhancement
+* Coordinates (latitude/longitude)
+* Place name
+* Popularity score
+* Basic demographic tags
 
-Returns:
+---
 
-Coordinates (latitude/longitude)
+## 2. `/demographics/:entityId` – Demographics API
 
-Place name
+**File:** `backend/src/controllers/searchController.js`
 
-Popularity score
-
-Basic demographic tags
-
-2. /demographics/:entityId – Demographics API
-File: backend/src/controllers/searchController.js
-
-js
+```js
 const demoData = await qlooService.getDemographics(entity_id);
-Purpose:
+```
 
-Age Group Insights
+**Purpose:**
 
-Gender Analytics
+* Age Group Insights
+* Gender Analytics
+* Consumer Behavior
 
-Consumer Behavior
+**Returns:**
 
-Returns:
+* Age groups
+* Gender distribution
+* Affinity and interest scores
 
-Age groups
+---
 
-Gender distribution
+## 3. `/heatmap/location` – Heatmap API
 
-Affinity and interest scores
+**File:** `backend/src/controllers/heatmapController.js`
 
-3. /heatmap/location – Heatmap API
-File: backend/src/controllers/heatmapController.js
-
-js
+```js
 const heatmapResponse = await qlooService.getHeatmapByLocation({
   wktPoint, radius, income, age
 });
-Purpose:
+```
 
-Geographic Intensity Mapping
+**Purpose:**
 
-Spatial Analysis
+* Geographic Intensity Mapping
+* Spatial Analysis
+* Income-based Filtering
+* Age-based Segmentation
 
-Income-based Filtering
+**Returns:**
 
-Age-based Segmentation
+* Geo-points (latitude, longitude)
+* Intensity values
 
-Returns:
+---
 
-Geo-points (latitude, longitude)
+## 4. `/analytics/combined` – Combined Analytics API
 
-Intensity values
+**File:** `backend/src/controllers/searchController.js`
 
-4. /analytics/combined – Combined Analytics API
-File: backend/src/controllers/searchController.js
-
-js
+```js
 const combinedResults = await Promise.all([
   qlooService.searchPlaces(...),
   qlooService.getHeatmapByLocation(...)
 ]);
-Purpose:
+```
 
-Multi-layered Data
+**Purpose:**
 
-Comprehensive Analytics
+* Multi-layered Data
+* Comprehensive Analytics
+* Filtering Integration
+* Performance Optimization
 
-Filtering Integration
+**Returns:**
 
-Performance Optimization
+* Search results
+* Demographics per place
+* Heatmap intensity data
 
-Returns:
+---
 
-Search results
+### 📁 File Reference Summary
 
-Demographics per place
+| API Endpoint              | File                   | Function                 |
+| ------------------------- | ---------------------- | ------------------------ |
+| `/search/places`          | `searchController.js`  | `searchPlaces()`         |
+| `/demographics/:entityId` | `searchController.js`  | `getDemographics()`      |
+| `/heatmap/location`       | `heatmapController.js` | `getHeatmapByLocation()` |
+| `/analytics/combined`     | `searchController.js`  | `getCombinedData()`      |
 
-Heatmap intensity data
+---
 
-📁 File Reference Summary
-API Endpoint	File	Function
-/search/places	searchController.js	searchPlaces()
-/demographics/:entityId	searchController.js	getDemographics()
-/heatmap/location	heatmapController.js	getHeatmapByLocation()
-/analytics/combined	searchController.js	getCombinedData()
-🚀 Quick Start Guide
-Prerequisites
-bash
+## 🚀 Quick Start Guide
+
+### Prerequisites
+
+```bash
 Node.js >= 18.0.0
 npm >= 9.0.0
 Git >= 2.30.0
-Installation
-1. Clone the Repository
-bash
+```
+
+### Installation
+
+#### 1. Clone the Repository
+
+```bash
 git clone https://github.com/THILLAINATARAJAN-B/Maptizer.git
 cd Maptizer
-2. Backend Setup
-bash
+```
+
+#### 2. Backend Setup
+
+```bash
 cd backend
 npm install
-3. Frontend Setup
-bash
+```
+
+#### 3. Frontend Setup
+
+```bash
 cd ../frontend
 npm install
-Environment Configuration
-Backend .env
-text
+```
+
+---
+
+### Environment Configuration
+
+#### Backend `.env`
+
+```env
 PORT=5000
 NODE_ENV=development
 QLOO_API_KEY=your_qloo_api_key_here
@@ -272,8 +313,11 @@ CHART_IMAGES_PATH=./src/data/chart-images/
 PDF_STORAGE_PATH=./src/data/pdfs/
 SESSION_CLEANUP_INTERVAL=3600000
 MAX_SESSION_AGE=86400000
-Frontend .env.local
-text
+```
+
+#### Frontend `.env.local`
+
+```env
 VITE_API_URL=http://localhost:5000
 VITE_API_TIMEOUT=30000
 VITE_APP_NAME=LocationIQ Insights
@@ -282,27 +326,40 @@ VITE_ENABLE_CHART_CAPTURE=true
 VITE_ENABLE_PDF_EXPORT=true
 VITE_DEFAULT_MAP_CENTER_LAT=11.0168
 VITE_DEFAULT_MAP_CENTER_LNG=76.9558
-Start Development Servers
-Backend
-bash
+```
+
+---
+
+### Start Development Servers
+
+#### Backend
+
+```bash
 cd backend
 npm run dev
 # http://localhost:5000
-Frontend
-bash
+```
+
+#### Frontend
+
+```bash
 cd frontend
 npm run dev
 # http://localhost:3000
-Access the Application
-Frontend: http://localhost:3000
+```
 
-Backend API: http://localhost:5000
+---
 
-Health Check: http://localhost:5000/api/health
+### Access the Application
 
-📁 Project Architecture
-Backend Structure
-text
+* **Frontend**: `http://localhost:3000`
+* **Backend API**: `http://localhost:5000`
+* **Health Check**: `http://localhost:5000/api/health`
+
+## 📁 Project Architecture
+
+### **Backend Structure**
+```
 backend/
 ├── src/
 │   ├── controllers/          # API request handlers
@@ -337,8 +394,10 @@ backend/
 │
 ├── server.js                 # Application entry point
 └── package.json             # Dependencies and npm scripts
-Frontend Structure
-text
+```
+
+### **Frontend Structure**
+```
 frontend/
 ├── src/
 │   ├── components/           # Reusable UI components
@@ -402,10 +461,14 @@ frontend/
 │       └── cn.js                  # Tailwind class utilities
 │
 └── public/                   # Static assets and screenshots
-🌐 API Reference
-Core Endpoints
-Location Search
-text
+```
+
+## 🌐 API Reference
+
+### **Core Endpoints**
+
+#### **Location Search**
+```http
 POST /api/search/places
 Content-Type: application/json
 
@@ -417,9 +480,10 @@ Content-Type: application/json
   "page": 1,
   "take": 20
 }
-Response:
+```
 
-json
+**Response:**
+```json
 {
   "items": [
     {
@@ -441,8 +505,10 @@ json
   "aggregatedAgeScores": {...},
   "aggregatedGenderScores": {...}
 }
-Analytics Data
-text
+```
+
+#### **Analytics Data**
+```http
 POST /api/analytics/combined
 Content-Type: application/json
 
@@ -454,8 +520,10 @@ Content-Type: application/json
   "popularity": 0.3,
   "take": 50
 }
-Heatmap Data
-text
+```
+
+#### **Heatmap Data**
+```http
 POST /api/heatmap/location
 Content-Type: application/json
 
@@ -464,8 +532,10 @@ Content-Type: application/json
   "age": "25_to_29",
   "income": "high"
 }
-AI Insights Generation
-text
+```
+
+#### **AI Insights Generation**
+```http
 POST /api/insights/generate
 Content-Type: application/json
 
@@ -474,8 +544,10 @@ Content-Type: application/json
   "analysisType": "comparison",
   "includeSummary": true
 }
-Chart Image Storage
-text
+```
+
+#### **Chart Image Storage**
+```http
 POST /api/save-chart-image
 Content-Type: application/json
 
@@ -485,8 +557,10 @@ Content-Type: application/json
   "chartId": "demo_age_1722528800000",
   "metadata": {...}
 }
-Health Check
-text
+```
+
+### **Health Check**
+```http
 GET /api/health
 
 Response:
@@ -496,9 +570,12 @@ Response:
   "sessionId": "1722528600000",
   "version": "1.0.0"
 }
-🧪 Testing & Quality Assurance
-Available Scripts
-bash
+```
+
+## 🧪 Testing & Quality Assurance
+
+### **Available Scripts**
+```bash
 # Development
 npm run dev          # Start development server with hot reload
 npm run build        # Build production bundle
@@ -508,20 +585,19 @@ npm run preview      # Preview production build locally
 npm run lint         # Run ESLint code analysis
 npm run format       # Format code with Prettier
 npm run type-check   # TypeScript type checking (if applicable)
-Testing Strategy
-Manual Testing: Comprehensive user workflow testing
+```
 
-API Testing: Endpoint functionality and response validation
+### **Testing Strategy**
+- **Manual Testing**: Comprehensive user workflow testing
+- **API Testing**: Endpoint functionality and response validation
+- **UI Testing**: Component rendering and interaction testing
+- **Performance Testing**: Loading times and bundle size optimization
+- **Cross-browser Testing**: Compatibility across modern browsers
 
-UI Testing: Component rendering and interaction testing
+## 🚀 Deployment Options
 
-Performance Testing: Loading times and bundle size optimization
-
-Cross-browser Testing: Compatibility across modern browsers
-
-🚀 Deployment Options
-Local Production Build
-bash
+### **Local Production Build**
+```bash
 # Frontend Build
 cd frontend
 npm run build
@@ -530,8 +606,10 @@ npm run preview
 # Backend Production
 cd backend
 NODE_ENV=production npm start
-Docker Deployment (Optional)
-text
+```
+
+### **Docker Deployment** (Optional)
+```dockerfile
 # Example Dockerfile for containerization
 FROM node:18-alpine
 WORKDIR /app
@@ -540,189 +618,155 @@ RUN npm ci --only=production
 COPY . .
 EXPOSE 3000
 CMD ["npm", "start"]
-Cloud Deployment Platforms
-Vercel: Optimal for frontend deployment with automatic CI/CD
+```
 
-Netlify: Alternative frontend hosting with form handling
+### **Cloud Deployment Platforms**
+- **Vercel**: Optimal for frontend deployment with automatic CI/CD
+- **Netlify**: Alternative frontend hosting with form handling
+- **Railway**: Full-stack deployment with database integration
+- **Heroku**: Traditional PaaS with add-on ecosystem
 
-Railway: Full-stack deployment with database integration
+## 🔒 Security & Privacy
 
-Heroku: Traditional PaaS with add-on ecosystem
+### **Security Implementation**
+- **Input Validation**: Comprehensive data sanitization for all API endpoints
+- **Environment Variables**: Secure handling of API keys and sensitive configuration
+- **CORS Configuration**: Properly configured Cross-Origin Resource Sharing
+- **Session Security**: Secure session management with automatic cleanup
+- **Error Handling**: Structured error responses without exposing system details
 
-🔒 Security & Privacy
-Security Implementation
-Input Validation: Comprehensive data sanitization for all API endpoints
+### **Privacy Considerations**
+- **Data Minimization**: Only necessary data is processed and stored
+- **Session Management**: Automatic cleanup of temporary session data
+- **API Security**: Secure communication with external service providers
+- **Local Processing**: Demographic data processing without permanent storage
 
-Environment Variables: Secure handling of API keys and sensitive configuration
+## 📈 Performance Optimization
 
-CORS Configuration: Properly configured Cross-Origin Resource Sharing
+### **Frontend Performance**
+- **Code Splitting**: Route-based lazy loading for faster initial page loads
+- **Image Optimization**: Responsive images with proper loading strategies
+- **Bundle Optimization**: Tree shaking and dead code elimination
+- **Caching Strategies**: Intelligent API response caching
+- **Lazy Component Loading**: On-demand component loading
 
-Session Security: Secure session management with automatic cleanup
+### **Backend Performance**
+- **Response Optimization**: Compressed API responses with proper headers
+- **Session Cleanup**: Automated cleanup to prevent memory leaks
+- **Efficient Data Processing**: Optimized algorithms for demographic analysis
+- **API Rate Management**: Proper handling of external API rate limits
+- **Error Recovery**: Graceful handling of external service failures
 
-Error Handling: Structured error responses without exposing system details
+### **Measured Performance Metrics**
+- **First Contentful Paint**: < 1.2s
+- **Time to Interactive**: < 2.8s
+- **Lighthouse Score**: 90+
 
-Privacy Considerations
-Data Minimization: Only necessary data is processed and stored
+## 👥 Team
 
-Session Management: Automatic cleanup of temporary session data
+| **Role** | **Responsibility** | **GitHub** |
+|:--------:|:------------------:|:----------:|
+| **Lead Developer** | Innovator | [@SIVAPRAKASH-S](https://github.com/SIVAPRAKASH5668) |
+| **Frontend Specialist** | React components, UI/UX implementation | [@THILLAINATARAJAN-B](https://github.com/THILLAINATARAJAN-B) |
+| **Backend Developer** | API development, data processing | [@SIVAPRAKASH-S](https://github.com/SIVAPRAKASH5668) |
+| **DevOps Engineer** | Deployment, CI/CD, infrastructure | [@THILLAINATARAJAN-B](https://github.com/THILLAINATARAJAN-B) |
 
-API Security: Secure communication with external service providers
+## 🙏 Acknowledgments
 
-Local Processing: Demographic data processing without permanent storage
-
-📈 Performance Optimization
-Frontend Performance
-Code Splitting: Route-based lazy loading for faster initial page loads
-
-Image Optimization: Responsive images with proper loading strategies
-
-Bundle Optimization: Tree shaking and dead code elimination
-
-Caching Strategies: Intelligent API response caching
-
-Lazy Component Loading: On-demand component loading
-
-Backend Performance
-Response Optimization: Compressed API responses with proper headers
-
-Session Cleanup: Automated cleanup to prevent memory leaks
-
-Efficient Data Processing: Optimized algorithms for demographic analysis
-
-API Rate Management: Proper handling of external API rate limits
-
-Error Recovery: Graceful handling of external service failures
-
-Measured Performance Metrics
-First Contentful Paint: < 1.2s
-
-Time to Interactive: < 2.8s
-
-Lighthouse Score: 90+
-
-👥 Team
-Role	Responsibility	GitHub
-Lead Developer	Innovator	@SIVAPRAKASH-S
-Frontend Specialist	React components, UI/UX implementation	@THILLAINATARAJAN-B
-Backend Developer	API development, data processing	@SIVAPRAKASH-S
-DevOps Engineer	Deployment, CI/CD, infrastructure	@THILLAINATARAJAN-B
-🙏 Acknowledgments
 Special thanks to the open-source community and the following projects that make Maptizer possible:
 
-React Team - For the powerful React framework
+- **[React Team](https://reactjs.org/)** - For the powerful React framework
+- **[Tailwind CSS](https://tailwindcss.com/)** - For the utility-first CSS framework
+- **[Leaflet](https://leafletjs.com/)** - For the interactive mapping library
+- **[Recharts](https://recharts.org/)** - For beautiful chart components
+- **[QLOO](https://qloo.com/)** - For comprehensive location and demographic data
+- **[Groq](https://groq.com/)** - For advanced AI language model capabilities
+- **[Vite](https://vitejs.dev/)** - For the fast build tool and development server
 
-Tailwind CSS - For the utility-first CSS framework
+## 📞 Support & Community
 
-Leaflet - For the interactive mapping library
+### **Getting Help**
+- 📖 **Documentation**: [Project Wiki](https://github.com/THILLAINATARAJAN-B/Maptizer/wiki)
+- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/THILLAINATARAJAN-B/Maptizer/issues)
+- 💡 **Feature Requests**: [GitHub Discussions](https://github.com/THILLAINATARAJAN-B/Maptizer/discussions)
+- 📧 **Direct Contact**: [Create an Issue](https://github.com/THILLAINATARAJAN-B/Maptizer/issues/new)
 
-Recharts - For beautiful chart components
+### **Community Guidelines**
+- Be respectful and inclusive in all interactions
+- Provide clear and detailed information when reporting issues
+- Search existing issues before creating new ones
+- Follow the code of conduct in all community spaces
 
-QLOO - For comprehensive location and demographic data
+---
 
-Groq - For advanced AI language model capabilities
+### 🔗 Quick Links  
+- 🌐 [**Live Demo**](https://maptizer-demo.vercel.app)  
+- 📖 [**Documentation**](https://github.com/THILLAINATARAJAN-B/Maptizer/wiki)  
+- 🐛 [**Report Bug**](https://github.com/THILLAINATARAJAN-B/Maptizer/issues)  
+- 💡 [**Request Feature**](https://github.com/THILLAINATARAJAN-B/Maptizer/discussions)
 
-Vite - For the fast build tool and development server
+---
 
-📞 Support & Community
-Getting Help
-📖 Documentation: Project Wiki
+## 🗺️ Development Roadmap
 
-🐛 Bug Reports: GitHub Issues
+### **Current Version: 1.0.0**
+✅ **Completed Features**
+- [x] Core location search with QLOO API integration
+- [x] Interactive analytics dashboard with multiple chart types
+- [x] AI-powered location comparison using Groq
+- [x] Comprehensive demographics visualization
+- [x] Interactive mapping with clustering and heatmaps
+- [x] PDF report generation and file management
+- [x] Responsive design across all devices
+- [x] Session management with automatic cleanup
 
-💡 Feature Requests: GitHub Discussions
+### **Version 1.1.0 (Upcoming)**
+🔄 **In Development**
+- [ ] Enhanced search filters and sorting options
+- [ ] Improved AI insights with more detailed analysis
+- [ ] Additional chart types for demographics visualization
+- [ ] Performance optimizations for large datasets
+- [ ] Enhanced error handling and user feedback
 
-📧 Direct Contact: Create an Issue
+### **Version 1.2.0 (Future)**
+📋 **Planned Features**
+- [ ] User authentication and personalized dashboards
+- [ ] Data export in multiple formats (CSV, Excel)
+- [ ] Advanced filtering options for analytics
+- [ ] Integration with additional data sources
+- [ ] Mobile-optimized progressive web app features
 
-Community Guidelines
-Be respectful and inclusive in all interactions
+### **Long-term Vision (Version 2.0+)**
+🌟 **Future Enhancements**
+- [ ] Real-time data streaming and live updates
+- [ ] Machine learning predictions for location trends
+- [ ] Multi-language support for global users
+- [ ] Advanced geospatial analysis tools
+- [ ] Enterprise features and white-label solutions
 
-Provide clear and detailed information when reporting issues
+## 📊 Project Statistics
 
-Search existing issues before creating new ones
+![GitHub Language Count](https://img.shields.io/github/languages/count/THILLAINATARAJAN-B/Maptizer)
+![GitHub Top Language](https://img.shields.io/github/languages/top/THILLAINATARAJAN-B/Maptizer)
+![GitHub Code Size](https://img.shields.io/github/languages/code-size/THILLAINATARAJAN-B/Maptizer)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/THILLAINATARAJAN-B/Maptizer)
+![GitHub Commit Activity](https://img.shields.io/github/commit-activity/m/THILLAINATARAJAN-B/Maptizer)
 
-Follow the code of conduct in all community spaces
+## 🌟 Star History
 
-🔗 Quick Links
-🌐 Live Demo
+[![Star History Chart](https://api.star-history.com/svg?repos=THILLAINATARAJAN-B/Maptizer&type=Date)](https://star-history.com/#THILLAINATARAJAN-B/Maptizer&Date)
 
-📖 Documentation
+**If you find Maptizer useful, please consider giving it a star on GitHub!**
 
-🐛 Report Bug
+---
 
-💡 Request Feature
+**🔗 Connect with the Project:**
 
-🗺️ Development Roadmap
-Current Version: 1.0.0
-✅ Completed Features
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/THILLAINATARAJAN-B/Maptizer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/thillainatarajan-balamurugan)
 
- Core location search with QLOO API integration
+---
 
- Interactive analytics dashboard with multiple chart types
+**Built with ❤️ by developers, for location intelligence**
 
- AI-powered location comparison using Groq
-
- Comprehensive demographics visualization
-
- Interactive mapping with clustering and heatmaps
-
- PDF report generation and file management
-
- Responsive design across all devices
-
- Session management with automatic cleanup
-
-Version 1.1.0 (Upcoming)
-🔄 In Development
-
- Enhanced search filters and sorting options
-
- Improved AI insights with more detailed analysis
-
- Additional chart types for demographics visualization
-
- Performance optimizations for large datasets
-
- Enhanced error handling and user feedback
-
-Version 1.2.0 (Future)
-📋 Planned Features
-
- User authentication and personalized dashboards
-
- Data export in multiple formats (CSV, Excel)
-
- Advanced filtering options for analytics
-
- Integration with additional data sources
-
- Mobile-optimized progressive web app features
-
-Long-term Vision (Version 2.0+)
-🌟 Future Enhancements
-
- Real-time data streaming and live updates
-
- Machine learning predictions for location trends
-
- Multi-language support for global users
-
- Advanced geospatial analysis tools
-
- Enterprise features and white-label solutions
-
-📊 Project Statistics
-GitHub Language Count
-GitHub Top Language
-GitHub Code Size
-GitHub Repo Size
-GitHub Commit Activity
-
-🌟 Star History
-Star History Chart
-
-If you find Maptizer useful, please consider giving it a star on GitHub!
-
-🔗 Connect with the Project:
-
-GitHub
-LinkedIn
+*Last updated: February 5, 2026*
